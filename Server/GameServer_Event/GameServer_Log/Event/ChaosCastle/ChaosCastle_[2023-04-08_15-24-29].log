@@ -1,0 +1,285 @@
+2023-04-08_15:24:36 INFO [ChaosCastle - 1] Moving Players Out
+2023-04-08_15:24:36 INFO [ChaosCastle - 1] ChaosCastle::SetState_None
+2023-04-08_15:24:36 INFO [ChaosCastle - 2] Moving Players Out
+2023-04-08_15:24:36 INFO [ChaosCastle - 2] ChaosCastle::SetState_None
+2023-04-08_15:24:36 INFO [ChaosCastle - 3] Moving Players Out
+2023-04-08_15:24:36 INFO [ChaosCastle - 3] ChaosCastle::SetState_None
+2023-04-08_15:24:36 INFO [ChaosCastle - 4] Moving Players Out
+2023-04-08_15:24:36 INFO [ChaosCastle - 4] ChaosCastle::SetState_None
+2023-04-08_15:24:36 INFO [ChaosCastle - 5] Moving Players Out
+2023-04-08_15:24:36 INFO [ChaosCastle - 5] ChaosCastle::SetState_None
+2023-04-08_15:24:36 INFO [ChaosCastle - 6] Moving Players Out
+2023-04-08_15:24:36 INFO [ChaosCastle - 6] ChaosCastle::SetState_None
+2023-04-08_15:24:36 INFO [ChaosCastle - 7] Moving Players Out
+2023-04-08_15:24:36 INFO [ChaosCastle - 7] ChaosCastle::SetState_None
+2023-04-08_15:24:36 INFO [ChaosCastleMgr] SetState_None()
+2023-04-08_15:24:37 INFO [ChaosCastleSurvival - 1] Moving Players Out
+2023-04-08_15:24:37 INFO [ChaosCastleSurvival - 1] ChaosCastle::SetState_None
+2023-04-08_15:24:37 INFO [ChaosCastleSurvivalMgr] SetState_None()
+2023-04-08_17:00:03 INFO [ChaosCastle - 1] ChaosCastle::SetState_Open
+2023-04-08_17:00:03 INFO [ChaosCastle - 2] ChaosCastle::SetState_Open
+2023-04-08_17:00:03 INFO [ChaosCastle - 3] ChaosCastle::SetState_Open
+2023-04-08_17:00:03 INFO [ChaosCastle - 4] ChaosCastle::SetState_Open
+2023-04-08_17:00:03 INFO [ChaosCastle - 5] ChaosCastle::SetState_Open
+2023-04-08_17:00:03 INFO [ChaosCastle - 6] ChaosCastle::SetState_Open
+2023-04-08_17:00:03 INFO [ChaosCastle - 7] ChaosCastle::SetState_Open
+2023-04-08_17:00:03 INFO [ChaosCastleMgr] SetState_Open()
+2023-04-08_17:05:03 INFO [ChaosCastle - 1] ChaosCastle::SetState_StandBy
+2023-04-08_17:05:03 INFO [ChaosCastle - 2] ChaosCastle::SetState_StandBy
+2023-04-08_17:05:03 INFO [ChaosCastle - 3] ChaosCastle::SetState_StandBy
+2023-04-08_17:05:04 INFO [ChaosCastle - 4] ChaosCastle::SetState_StandBy
+2023-04-08_17:05:04 INFO [ChaosCastle - 5] ChaosCastle::SetState_StandBy
+2023-04-08_17:05:04 INFO [ChaosCastle - 6] ChaosCastle::SetState_StandBy
+2023-04-08_17:05:04 INFO [ChaosCastle - 7] ChaosCastle::SetState_StandBy
+2023-04-08_17:05:04 INFO [ChaosCastleMgr] SetState_Playing()
+2023-04-08_17:06:09 INFO [ChaosCastle - 1] Moving Players Out
+2023-04-08_17:06:09 INFO [ChaosCastle - 1] ChaosCastle::SetState_None
+2023-04-08_17:06:09 INFO [ChaosCastle - 2] Moving Players Out
+2023-04-08_17:06:09 INFO [ChaosCastle - 2] ChaosCastle::SetState_None
+2023-04-08_17:06:09 INFO [ChaosCastle - 3] Moving Players Out
+2023-04-08_17:06:09 INFO [ChaosCastle - 3] ChaosCastle::SetState_None
+2023-04-08_17:06:09 INFO [ChaosCastle - 4] Moving Players Out
+2023-04-08_17:06:09 INFO [ChaosCastle - 4] ChaosCastle::SetState_None
+2023-04-08_17:06:09 INFO [ChaosCastle - 5] Moving Players Out
+2023-04-08_17:06:09 INFO [ChaosCastle - 5] ChaosCastle::SetState_None
+2023-04-08_17:06:09 INFO [ChaosCastle - 6] Moving Players Out
+2023-04-08_17:06:09 INFO [ChaosCastle - 6] ChaosCastle::SetState_None
+2023-04-08_17:06:09 INFO [ChaosCastle - 7] Moving Players Out
+2023-04-08_17:06:09 INFO [ChaosCastle - 7] ChaosCastle::SetState_None
+2023-04-08_17:06:10 INFO [ChaosCastleMgr] SetState_None()
+2023-04-08_17:13:28 INFO [ChaosCastle - 1] ChaosCastle::SetState_Open
+2023-04-08_17:13:29 INFO [ChaosCastle - 2] ChaosCastle::SetState_Open
+2023-04-08_17:13:29 INFO [ChaosCastle - 3] ChaosCastle::SetState_Open
+2023-04-08_17:13:29 INFO [ChaosCastle - 4] ChaosCastle::SetState_Open
+2023-04-08_17:13:29 INFO [ChaosCastle - 5] ChaosCastle::SetState_Open
+2023-04-08_17:13:29 INFO [ChaosCastle - 6] ChaosCastle::SetState_Open
+2023-04-08_17:13:29 INFO [ChaosCastle - 7] ChaosCastle::SetState_Open
+2023-04-08_17:13:29 INFO [ChaosCastleMgr] SetState_Open()
+2023-04-08_17:13:36 INFO [ChaosCastle - 2] Adding Player [SRV 18 -- 30006 - IP: 77.175.188.143 - Account: 2-test - Character: 145-Kundun]
+2023-04-08_17:13:48 INFO [ChaosCastle - 2] Adding Player [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55]
+2023-04-08_17:18:29 INFO [ChaosCastle - 1] ChaosCastle::SetState_StandBy
+2023-04-08_17:18:29 INFO [ChaosCastle - 2] ChaosCastle::SetState_StandBy
+2023-04-08_17:18:29 INFO [ChaosCastle - 3] ChaosCastle::SetState_StandBy
+2023-04-08_17:18:29 INFO [ChaosCastle - 4] ChaosCastle::SetState_StandBy
+2023-04-08_17:18:29 INFO [ChaosCastle - 5] ChaosCastle::SetState_StandBy
+2023-04-08_17:18:29 INFO [ChaosCastle - 6] ChaosCastle::SetState_StandBy
+2023-04-08_17:18:30 INFO [ChaosCastle - 7] ChaosCastle::SetState_StandBy
+2023-04-08_17:18:30 INFO [ChaosCastleMgr] SetState_Playing()
+2023-04-08_17:19:29 INFO [ChaosCastle - 1] Moving Players Out
+2023-04-08_17:19:29 INFO [ChaosCastle - 1] ChaosCastle::SetState_None
+2023-04-08_17:19:29 INFO [ChaosCastle - 2] Added Monster [20934][164]
+2023-04-08_17:19:29 INFO [ChaosCastle - 2] Added Monster [20935][164]
+2023-04-08_17:19:29 INFO [ChaosCastle - 2] Added Monster [20936][164]
+2023-04-08_17:19:29 INFO [ChaosCastle - 2] Added Monster [20937][164]
+2023-04-08_17:19:30 INFO [ChaosCastle - 2] Added Monster [20938][164]
+2023-04-08_17:19:30 INFO [ChaosCastle - 2] Added Monster [20939][164]
+2023-04-08_17:19:30 INFO [ChaosCastle - 2] Added Monster [20940][164]
+2023-04-08_17:19:30 INFO [ChaosCastle - 2] Added Monster [20941][164]
+2023-04-08_17:19:30 INFO [ChaosCastle - 2] Added Monster [20942][164]
+2023-04-08_17:19:30 INFO [ChaosCastle - 2] Added Monster [20943][164]
+2023-04-08_17:19:30 INFO [ChaosCastle - 2] Added Monster [20944][164]
+2023-04-08_17:19:30 INFO [ChaosCastle - 2] Added Monster [20945][164]
+2023-04-08_17:19:30 INFO [ChaosCastle - 2] Added Monster [20946][164]
+2023-04-08_17:19:30 INFO [ChaosCastle - 2] Added Monster [20947][164]
+2023-04-08_17:19:30 INFO [ChaosCastle - 2] Added Monster [20948][164]
+2023-04-08_17:19:30 INFO [ChaosCastle - 2] Added Monster [20949][164]
+2023-04-08_17:19:31 INFO [ChaosCastle - 2] Added Monster [20950][164]
+2023-04-08_17:19:31 INFO [ChaosCastle - 2] Added Monster [20951][164]
+2023-04-08_17:19:31 INFO [ChaosCastle - 2] Added Monster [20952][164]
+2023-04-08_17:19:31 INFO [ChaosCastle - 2] Added Monster [20953][164]
+2023-04-08_17:19:31 INFO [ChaosCastle - 2] Added Monster [20954][164]
+2023-04-08_17:19:31 INFO [ChaosCastle - 2] Added Monster [20955][164]
+2023-04-08_17:19:31 INFO [ChaosCastle - 2] Added Monster [20956][164]
+2023-04-08_17:19:31 INFO [ChaosCastle - 2] Added Monster [20957][164]
+2023-04-08_17:19:31 INFO [ChaosCastle - 2] Added Monster [20958][164]
+2023-04-08_17:19:31 INFO [ChaosCastle - 2] Added Monster [20959][164]
+2023-04-08_17:19:31 INFO [ChaosCastle - 2] Added Monster [20960][164]
+2023-04-08_17:19:32 INFO [ChaosCastle - 2] Added Monster [20961][164]
+2023-04-08_17:19:32 INFO [ChaosCastle - 2] Added Monster [20962][164]
+2023-04-08_17:19:32 INFO [ChaosCastle - 2] Added Monster [20963][164]
+2023-04-08_17:19:32 INFO [ChaosCastle - 2] Added Monster [20964][164]
+2023-04-08_17:19:32 INFO [ChaosCastle - 2] Added Monster [20965][164]
+2023-04-08_17:19:32 INFO [ChaosCastle - 2] Added Monster [20966][164]
+2023-04-08_17:19:32 INFO [ChaosCastle - 2] Added Monster [20967][164]
+2023-04-08_17:19:32 INFO [ChaosCastle - 2] Added Monster [20968][164]
+2023-04-08_17:19:32 INFO [ChaosCastle - 2] Added Monster [20969][164]
+2023-04-08_17:19:32 INFO [ChaosCastle - 2] Added Monster [20970][164]
+2023-04-08_17:19:32 INFO [ChaosCastle - 2] Added Monster [20971][164]
+2023-04-08_17:19:33 INFO [ChaosCastle - 2] Added Monster [20972][164]
+2023-04-08_17:19:33 INFO [ChaosCastle - 2] Added Monster [20973][164]
+2023-04-08_17:19:33 INFO [ChaosCastle - 2] Added Monster [20974][164]
+2023-04-08_17:19:33 INFO [ChaosCastle - 2] Added Monster [20975][164]
+2023-04-08_17:19:33 INFO [ChaosCastle - 2] Added Monster [20976][164]
+2023-04-08_17:19:33 INFO [ChaosCastle - 2] Added Monster [20977][164]
+2023-04-08_17:19:33 INFO [ChaosCastle - 2] Added Monster [20978][164]
+2023-04-08_17:19:33 INFO [ChaosCastle - 2] Added Monster [20979][164]
+2023-04-08_17:19:33 INFO [ChaosCastle - 2] Added Monster [20980][164]
+2023-04-08_17:19:33 INFO [ChaosCastle - 2] Added Monster [20981][164]
+2023-04-08_17:19:33 INFO [ChaosCastle - 2] Added Monster [20982][164]
+2023-04-08_17:19:34 INFO [ChaosCastle - 2] Added Monster [20983][164]
+2023-04-08_17:19:34 INFO [ChaosCastle - 2] Added Monster [20984][165]
+2023-04-08_17:19:34 INFO [ChaosCastle - 2] Added Monster [20985][165]
+2023-04-08_17:19:34 INFO [ChaosCastle - 2] Added Monster [20986][165]
+2023-04-08_17:19:34 INFO [ChaosCastle - 2] Added Monster [20987][165]
+2023-04-08_17:19:34 INFO [ChaosCastle - 2] Added Monster [20988][165]
+2023-04-08_17:19:34 INFO [ChaosCastle - 2] Added Monster [20989][165]
+2023-04-08_17:19:34 INFO [ChaosCastle - 2] Added Monster [20990][165]
+2023-04-08_17:19:34 INFO [ChaosCastle - 2] Added Monster [20991][165]
+2023-04-08_17:19:34 INFO [ChaosCastle - 2] Added Monster [20992][165]
+2023-04-08_17:19:34 INFO [ChaosCastle - 2] Added Monster [20993][165]
+2023-04-08_17:19:34 INFO [ChaosCastle - 2] Added Monster [20994][165]
+2023-04-08_17:19:35 INFO [ChaosCastle - 2] Added Monster [20995][165]
+2023-04-08_17:19:35 INFO [ChaosCastle - 2] Added Monster [20996][165]
+2023-04-08_17:19:35 INFO [ChaosCastle - 2] Added Monster [20997][165]
+2023-04-08_17:19:35 INFO [ChaosCastle - 2] Added Monster [20998][165]
+2023-04-08_17:19:35 INFO [ChaosCastle - 2] Added Monster [20999][165]
+2023-04-08_17:19:35 INFO [ChaosCastle - 2] Added Monster [21000][165]
+2023-04-08_17:19:35 INFO [ChaosCastle - 2] Added Monster [21001][165]
+2023-04-08_17:19:35 INFO [ChaosCastle - 2] Added Monster [21002][165]
+2023-04-08_17:19:35 INFO [ChaosCastle - 2] Added Monster [21003][165]
+2023-04-08_17:19:35 INFO [ChaosCastle - 2] Added Monster [21004][165]
+2023-04-08_17:19:35 INFO [ChaosCastle - 2] Added Monster [21005][165]
+2023-04-08_17:19:35 INFO [ChaosCastle - 2] Added Monster [21006][165]
+2023-04-08_17:19:36 INFO [ChaosCastle - 2] Added Monster [21007][165]
+2023-04-08_17:19:36 INFO [ChaosCastle - 2] Added Monster [21008][165]
+2023-04-08_17:19:36 INFO [ChaosCastle - 2] Added Monster [21009][165]
+2023-04-08_17:19:36 INFO [ChaosCastle - 2] Added Monster [21010][165]
+2023-04-08_17:19:36 INFO [ChaosCastle - 2] Added Monster [21011][165]
+2023-04-08_17:19:36 INFO [ChaosCastle - 2] Added Monster [21012][165]
+2023-04-08_17:19:36 INFO [ChaosCastle - 2] Added Monster [21013][165]
+2023-04-08_17:19:36 INFO [ChaosCastle - 2] Added Monster [21014][165]
+2023-04-08_17:19:36 INFO [ChaosCastle - 2] Added Monster [21015][165]
+2023-04-08_17:19:36 INFO [ChaosCastle - 2] Added Monster [21016][165]
+2023-04-08_17:19:36 INFO [ChaosCastle - 2] Added Monster [21017][165]
+2023-04-08_17:19:36 INFO [ChaosCastle - 2] Added Monster [21018][165]
+2023-04-08_17:19:37 INFO [ChaosCastle - 2] Added Monster [21019][165]
+2023-04-08_17:19:37 INFO [ChaosCastle - 2] Added Monster [21020][165]
+2023-04-08_17:19:37 INFO [ChaosCastle - 2] Added Monster [21021][165]
+2023-04-08_17:19:37 INFO [ChaosCastle - 2] Added Monster [21022][165]
+2023-04-08_17:19:37 INFO [ChaosCastle - 2] Added Monster [21023][165]
+2023-04-08_17:19:37 INFO [ChaosCastle - 2] Added Monster [21024][165]
+2023-04-08_17:19:37 INFO [ChaosCastle - 2] Added Monster [21025][165]
+2023-04-08_17:19:37 INFO [ChaosCastle - 2] Added Monster [21026][165]
+2023-04-08_17:19:37 INFO [ChaosCastle - 2] Added Monster [21027][165]
+2023-04-08_17:19:37 INFO [ChaosCastle - 2] Added Monster [21028][165]
+2023-04-08_17:19:37 INFO [ChaosCastle - 2] Added Monster [21029][165]
+2023-04-08_17:19:37 INFO [ChaosCastle - 2] Added Monster [21030][165]
+2023-04-08_17:19:38 INFO [ChaosCastle - 2] Added Monster [21031][165]
+2023-04-08_17:19:38 INFO [ChaosCastle - 2] Added 98 monsters / Total Items 6 / Item drop every 16 monsters
+2023-04-08_17:19:38 INFO [ChaosCastle - 2] ChaosCastle::SetState_Playing
+2023-04-08_17:19:38 INFO [ChaosCastle - 3] Moving Players Out
+2023-04-08_17:19:38 INFO [ChaosCastle - 3] ChaosCastle::SetState_None
+2023-04-08_17:19:38 INFO [ChaosCastle - 4] Moving Players Out
+2023-04-08_17:19:38 INFO [ChaosCastle - 4] ChaosCastle::SetState_None
+2023-04-08_17:19:38 INFO [ChaosCastle - 5] Moving Players Out
+2023-04-08_17:19:38 INFO [ChaosCastle - 5] ChaosCastle::SetState_None
+2023-04-08_17:19:38 INFO [ChaosCastle - 6] Moving Players Out
+2023-04-08_17:19:38 INFO [ChaosCastle - 6] ChaosCastle::SetState_None
+2023-04-08_17:19:38 INFO [ChaosCastle - 7] Moving Players Out
+2023-04-08_17:19:39 INFO [ChaosCastle - 7] ChaosCastle::SetState_None
+2023-04-08_17:19:40 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [1]
+2023-04-08_17:19:40 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [2]
+2023-04-08_17:19:40 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [3]
+2023-04-08_17:19:40 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [4]
+2023-04-08_17:19:44 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [5]
+2023-04-08_17:19:44 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [6]
+2023-04-08_17:19:44 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [7]
+2023-04-08_17:19:44 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [8]
+2023-04-08_17:19:44 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [9]
+2023-04-08_17:19:44 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [10]
+2023-04-08_17:19:44 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [11]
+2023-04-08_17:19:44 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [12]
+2023-04-08_17:19:44 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [13]
+2023-04-08_17:19:45 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [14]
+2023-04-08_17:19:45 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [15]
+2023-04-08_17:19:45 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [16]
+2023-04-08_17:19:45 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [17]
+2023-04-08_17:19:45 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [18]
+2023-04-08_17:19:45 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [19]
+2023-04-08_17:19:45 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [20]
+2023-04-08_17:19:48 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [21]
+2023-04-08_17:19:48 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [22]
+2023-04-08_17:19:48 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [23]
+2023-04-08_17:19:48 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [24]
+2023-04-08_17:19:48 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [25]
+2023-04-08_17:19:48 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [26]
+2023-04-08_17:19:48 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [27]
+2023-04-08_17:19:48 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [28]
+2023-04-08_17:19:49 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [29]
+2023-04-08_17:19:49 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [30]
+2023-04-08_17:19:49 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [31]
+2023-04-08_17:19:51 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [32]
+2023-04-08_17:19:51 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [33]
+2023-04-08_17:19:51 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [34]
+2023-04-08_17:19:51 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [35]
+2023-04-08_17:19:51 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [36]
+2023-04-08_17:19:51 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [37]
+2023-04-08_17:19:51 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [38]
+2023-04-08_17:19:51 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [39]
+2023-04-08_17:19:51 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [40]
+2023-04-08_17:19:51 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [41]
+2023-04-08_17:19:51 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [42]
+2023-04-08_17:19:51 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [43]
+2023-04-08_17:19:51 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [44]
+2023-04-08_17:19:52 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [45]
+2023-04-08_17:19:52 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [46]
+2023-04-08_17:19:52 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [47]
+2023-04-08_17:19:52 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [48]
+2023-04-08_17:19:52 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [49]
+2023-04-08_17:19:52 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [50]
+2023-04-08_17:19:52 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [51]
+2023-04-08_17:19:52 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [52]
+2023-04-08_17:19:52 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [53]
+2023-04-08_17:19:52 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [54]
+2023-04-08_17:19:52 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [55]
+2023-04-08_17:19:54 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [56]
+2023-04-08_17:19:54 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [57]
+2023-04-08_17:19:55 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [58]
+2023-04-08_17:19:55 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [59]
+2023-04-08_17:19:55 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [60]
+2023-04-08_17:19:55 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [61]
+2023-04-08_17:19:55 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [62]
+2023-04-08_17:19:55 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [63]
+2023-04-08_17:19:55 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [64]
+2023-04-08_17:19:55 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [65]
+2023-04-08_17:19:55 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [66]
+2023-04-08_17:19:55 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [67]
+2023-04-08_17:19:55 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [68]
+2023-04-08_17:19:55 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [69]
+2023-04-08_17:19:57 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [70]
+2023-04-08_17:19:57 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [71]
+2023-04-08_17:19:57 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [72]
+2023-04-08_17:19:58 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [73]
+2023-04-08_17:19:58 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [74]
+2023-04-08_17:19:59 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [75]
+2023-04-08_17:19:59 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [76]
+2023-04-08_17:20:01 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [77]
+2023-04-08_17:20:01 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [78]
+2023-04-08_17:20:02 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [79]
+2023-04-08_17:20:04 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [80]
+2023-04-08_17:20:05 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [81]
+2023-04-08_17:20:06 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [82]
+2023-04-08_17:20:07 INFO [ChaosCastle - 2] Removed Player Kundun : Died.
+2023-04-08_17:20:07 INFO [ChaosCastle - 2] RewardExperience (Kundun - Failed): Killed Monsters: 0 / Killed Players: 0 / Experience: 0
+2023-04-08_17:20:08 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [83]
+2023-04-08_17:20:08 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [84]
+2023-04-08_17:20:08 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [85]
+2023-04-08_17:20:08 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [86]
+2023-04-08_17:20:08 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [87]
+2023-04-08_17:20:08 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [88]
+2023-04-08_17:20:10 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [89]
+2023-04-08_17:20:11 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [90]
+2023-04-08_17:20:11 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [91]
+2023-04-08_17:20:11 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [92]
+2023-04-08_17:20:14 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [93]
+2023-04-08_17:20:16 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [94]
+2023-04-08_17:20:16 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [95]
+2023-04-08_17:20:16 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [96]
+2023-04-08_17:20:21 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [97]
+2023-04-08_17:20:21 INFO [ChaosCastle - 2] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] - Killed Monster [98]
+2023-04-08_17:20:21 INFO [ChaosCastle - 2] RewardExperience (Deadmau55 - Success): Killed Monsters: 98 / Killed Players: 0 / Experience: 0
+2023-04-08_17:20:21 INFO [ChaosCastle - 2] Giving Winner item to Deadmau55
+2023-04-08_17:20:21 INFO [ChaosCastle - 2] ChaosCastle::SetState_Playend
+2023-04-08_17:21:21 INFO [ChaosCastle - 2] Moving Players Out
+2023-04-08_17:21:21 INFO [ChaosCastle - 2] ChaosCastle::SetState_None
+2023-04-08_17:21:21 INFO [ChaosCastleMgr] SetState_None()

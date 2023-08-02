@@ -1,0 +1,70 @@
+2023-04-04_19:27:45 INFO Opening DatabasePool 'characters'. Asynchronous connections: 1, synchronous connections: 2.
+2023-04-04_19:27:45 INFO MySQL client library: 5.6.29
+2023-04-04_19:27:45 INFO MySQL server ver: 5.7.41-log 
+2023-04-04_19:27:45 INFO Connected to MySQL database at 127.0.0.1
+2023-04-04_19:27:45 INFO MySQL client library: 5.6.29
+2023-04-04_19:27:45 INFO MySQL server ver: 5.7.41-log 
+2023-04-04_19:27:45 INFO Connected to MySQL database at 127.0.0.1
+2023-04-04_19:27:45 INFO MySQL client library: 5.6.29
+2023-04-04_19:27:45 INFO MySQL server ver: 5.7.41-log 
+2023-04-04_19:27:45 INFO Connected to MySQL database at 127.0.0.1
+2023-04-04_19:27:45 INFO DatabasePool 'characters' opened successfully. 3 total connections running.
+2023-04-04_19:27:45 INFO Opening DatabasePool 'log'. Asynchronous connections: 1, synchronous connections: 2.
+2023-04-04_19:27:45 INFO MySQL client library: 5.6.29
+2023-04-04_19:27:45 INFO MySQL server ver: 5.7.41-log 
+2023-04-04_19:27:45 INFO Connected to MySQL database at 127.0.0.1
+2023-04-04_19:27:45 INFO MySQL client library: 5.6.29
+2023-04-04_19:27:45 INFO MySQL server ver: 5.7.41-log 
+2023-04-04_19:27:45 INFO Connected to MySQL database at 127.0.0.1
+2023-04-04_19:27:45 INFO MySQL client library: 5.6.29
+2023-04-04_19:27:45 INFO MySQL server ver: 5.7.41-log 
+2023-04-04_19:27:45 INFO Connected to MySQL database at 127.0.0.1
+2023-04-04_19:27:45 INFO DatabasePool 'log' opened successfully. 3 total connections running.
+2023-04-04_19:27:45 INFO Opening DatabasePool 'u897592642_login'. Asynchronous connections: 1, synchronous connections: 2.
+2023-04-04_19:27:45 INFO MySQL client library: 5.6.29
+2023-04-04_19:27:45 INFO MySQL server ver: 5.5.5-10.6.12-MariaDB-cll-lve 
+2023-04-04_19:27:45 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-04_19:27:46 INFO MySQL client library: 5.6.29
+2023-04-04_19:27:46 INFO MySQL server ver: 5.5.5-10.6.12-MariaDB-cll-lve 
+2023-04-04_19:27:46 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-04_19:27:46 INFO MySQL client library: 5.6.29
+2023-04-04_19:27:46 INFO MySQL server ver: 5.5.5-10.6.12-MariaDB-cll-lve 
+2023-04-04_19:27:46 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-04_19:27:46 INFO DatabasePool 'u897592642_login' opened successfully. 3 total connections running.
+2023-04-04_19:28:18 ERROR SQL(p): SELECT i.server, i.serial, i.serial_shop FROM item_serial i WHERE i.server = 19
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-04_19:28:18 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-04_19:28:18 INFO Connection to the MySQL server is active.
+2023-04-04_19:28:18 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-04_19:28:19 INFO SQL: START TRANSACTION
+2023-04-04_19:28:19 ERROR [2006] MySQL server has gone away
+2023-04-04_19:28:19 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-04_19:28:19 INFO Connection to the MySQL server is active.
+2023-04-04_19:28:19 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-04-04_19:38:18 INFO Main::KeepDatabaseAlive
+2023-04-04_19:48:18 INFO Main::KeepDatabaseAlive
+2023-04-04_19:58:18 INFO Main::KeepDatabaseAlive
+2023-04-04_20:08:18 INFO Main::KeepDatabaseAlive
+2023-04-04_20:18:18 INFO Main::KeepDatabaseAlive
+2023-04-04_20:28:18 INFO Main::KeepDatabaseAlive
+2023-04-04_20:38:18 INFO Main::KeepDatabaseAlive
+2023-04-04_20:48:18 INFO Main::KeepDatabaseAlive
+2023-04-04_20:58:18 INFO Main::KeepDatabaseAlive
+2023-04-04_21:08:18 INFO Main::KeepDatabaseAlive
+2023-04-04_21:18:18 INFO Main::KeepDatabaseAlive
+2023-04-04_21:28:18 INFO Main::KeepDatabaseAlive
+2023-04-04_21:38:18 INFO Main::KeepDatabaseAlive
+2023-04-04_21:48:18 INFO Main::KeepDatabaseAlive
+2023-04-04_21:58:18 INFO Main::KeepDatabaseAlive
+2023-04-04_22:08:18 INFO Main::KeepDatabaseAlive
+2023-04-04_22:18:18 INFO Main::KeepDatabaseAlive
+2023-04-04_22:28:18 INFO Main::KeepDatabaseAlive
+2023-04-04_22:38:18 INFO Main::KeepDatabaseAlive
+2023-04-04_22:48:18 INFO Main::KeepDatabaseAlive
+2023-04-04_22:58:18 INFO Main::KeepDatabaseAlive
+2023-04-04_23:08:18 INFO Main::KeepDatabaseAlive
+2023-04-04_23:18:18 INFO Main::KeepDatabaseAlive
+2023-04-04_23:28:18 INFO Main::KeepDatabaseAlive
+2023-04-04_23:38:18 INFO Main::KeepDatabaseAlive
+2023-04-04_23:48:18 INFO Main::KeepDatabaseAlive
+2023-04-04_23:58:18 INFO Main::KeepDatabaseAlive

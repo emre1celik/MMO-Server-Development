@@ -1,0 +1,32 @@
+2023-03-25_15:40:42 DEBUG Network Thread Starting
+2023-03-25_15:40:43 INFO Attempt to add new socket: 77.175.188.143
+2023-03-25_15:40:43 INFO Added new socket: 77.175.188.143 at [30000]
+2023-03-25_15:41:16 INFO Closing socket: 77.175.188.143
+2023-03-25_15:48:54 INFO Attempt to add new socket: 77.175.188.143
+2023-03-25_15:48:54 INFO Added new socket: 77.175.188.143 at [30001]
+2023-03-25_15:49:18 INFO Closing socket: 77.175.188.143
+2023-03-25_15:52:00 INFO Attempt to add new socket: 77.175.188.143
+2023-03-25_15:52:00 INFO Added new socket: 77.175.188.143 at [30002]
+2023-03-25_15:52:19 INFO Closing socket: 77.175.188.143
+2023-03-25_15:55:04 INFO Attempt to add new socket: 77.175.188.143
+2023-03-25_15:55:04 INFO Added new socket: 77.175.188.143 at [30003]
+2023-03-25_15:55:24 INFO Closing socket: 77.175.188.143
+2023-03-25_16:07:49 INFO Attempt to add new socket: 77.175.188.143
+2023-03-25_16:07:49 INFO Added new socket: 77.175.188.143 at [30004]
+2023-03-25_16:08:15 INFO Closing socket: 77.175.188.143
+2023-03-25_16:13:55 INFO Attempt to add new socket: 77.175.188.143
+2023-03-25_16:13:55 INFO Added new socket: 77.175.188.143 at [30005]
+2023-03-25_16:14:17 INFO Closing socket: 77.175.188.143
+2023-03-25_16:32:11 INFO Attempt to add new socket: 77.175.188.143
+2023-03-25_16:32:11 INFO Added new socket: 77.175.188.143 at [30006]
+2023-03-25_16:32:31 INFO Closing socket: 77.175.188.143
+2023-03-25_16:41:07 INFO Attempt to add new socket: 77.175.188.143
+2023-03-25_16:41:07 INFO Added new socket: 77.175.188.143 at [30007]
+2023-03-25_16:41:32 INFO Closing socket: 77.175.188.143
+2023-03-25_16:53:09 INFO Attempt to add new socket: 77.175.188.143
+2023-03-25_16:53:09 INFO Added new socket: 77.175.188.143 at [30008]
+2023-03-25_16:53:31 INFO Closing socket: 77.175.188.143
+2023-03-25_16:58:38 INFO Attempt to add new socket: 77.175.188.143
+2023-03-25_16:58:38 INFO Added new socket: 77.175.188.143 at [30009]
+2023-03-25_16:58:58 INFO Closing socket: 77.175.188.143
+2023-03-25_17:02:42 DEBUG Network Thread exits

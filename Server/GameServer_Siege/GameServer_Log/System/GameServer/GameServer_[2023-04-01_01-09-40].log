@@ -1,0 +1,20 @@
+2023-04-01_01:09:40 INFO Updating Viewport Objets 518 - Time: 51 ms
+2023-04-01_02:30:01 INFO Updating Objets 524 - Time: 86 ms
+2023-04-01_03:16:08 INFO Updating Objets 518 - Time: 92 ms
+2023-04-01_03:35:01 INFO Updating Objets 507 - Time: 147 ms
+2023-04-01_23:49:42 ERROR [ TCP Client ConnectServer ] Error on receive: An existing connection was forcibly closed by the remote host
+2023-04-01_23:49:42 INFO DISCONNECTED CONNECTSERVER
+2023-04-01_23:49:48 INFO CONNECTING CONNECTSERVER
+2023-04-01_23:49:51 ERROR [ TCP Client ConnectServer ] Connect error: No connection could be made because the target machine actively refused it
+2023-04-01_23:49:51 INFO DISCONNECTED CONNECTSERVER
+2023-04-01_23:49:56 INFO CONNECTING CONNECTSERVER
+2023-04-01_23:49:58 ERROR [ TCP Client ConnectServer ] Connect error: No connection could be made because the target machine actively refused it
+2023-04-01_23:49:58 INFO DISCONNECTED CONNECTSERVER
+2023-04-01_23:50:03 INFO CONNECTING CONNECTSERVER
+2023-04-01_23:50:05 ERROR [ TCP Client ConnectServer ] Connect error: No connection could be made because the target machine actively refused it
+2023-04-01_23:50:05 INFO DISCONNECTED CONNECTSERVER
+2023-04-01_23:50:11 INFO CONNECTING CONNECTSERVER
+2023-04-01_23:50:13 ERROR [ TCP Client ConnectServer ] Connect error: No connection could be made because the target machine actively refused it
+2023-04-01_23:50:13 INFO DISCONNECTED CONNECTSERVER
+2023-04-01_23:50:18 INFO CONNECTING CONNECTSERVER
+2023-04-01_23:50:18 INFO CONNECTED CONNECTSERVER

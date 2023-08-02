@@ -1,0 +1,39 @@
+2023-03-24_20:54:12 INFO Opening DatabasePool 'login'. Asynchronous connections: 1, synchronous connections: 2.
+2023-03-24_20:54:12 INFO MySQL client library: 5.6.29
+2023-03-24_20:54:12 INFO MySQL server ver: 5.7.41-log 
+2023-03-24_20:54:12 INFO Connected to MySQL database at 127.0.0.1
+2023-03-24_20:54:12 INFO MySQL client library: 5.6.29
+2023-03-24_20:54:12 INFO MySQL server ver: 5.7.41-log 
+2023-03-24_20:54:12 INFO Connected to MySQL database at 127.0.0.1
+2023-03-24_20:54:12 INFO MySQL client library: 5.6.29
+2023-03-24_20:54:12 INFO MySQL server ver: 5.7.41-log 
+2023-03-24_20:54:12 INFO Connected to MySQL database at 127.0.0.1
+2023-03-24_20:54:12 INFO DatabasePool 'login' opened successfully. 3 total connections running.
+2023-03-24_20:59:13 INFO Main::KeepDatabaseAlive
+2023-03-24_21:04:13 INFO Main::KeepDatabaseAlive
+2023-03-24_21:09:13 INFO Main::KeepDatabaseAlive
+2023-03-24_21:14:13 INFO Main::KeepDatabaseAlive
+2023-03-24_21:19:13 INFO Main::KeepDatabaseAlive
+2023-03-24_21:24:13 INFO Main::KeepDatabaseAlive
+2023-03-24_21:29:13 INFO Main::KeepDatabaseAlive
+2023-03-24_21:34:13 INFO Main::KeepDatabaseAlive
+2023-03-24_21:39:13 INFO Main::KeepDatabaseAlive
+2023-03-24_21:44:13 INFO Main::KeepDatabaseAlive
+2023-03-24_21:49:13 INFO Main::KeepDatabaseAlive
+2023-03-24_21:54:13 INFO Main::KeepDatabaseAlive
+2023-03-24_21:59:13 INFO Main::KeepDatabaseAlive
+2023-03-24_22:04:13 INFO Main::KeepDatabaseAlive
+2023-03-24_22:09:13 INFO Main::KeepDatabaseAlive
+2023-03-24_22:14:13 INFO Main::KeepDatabaseAlive
+2023-03-24_22:19:13 INFO Main::KeepDatabaseAlive
+2023-03-24_22:24:13 INFO Main::KeepDatabaseAlive
+2023-03-24_22:29:13 INFO Main::KeepDatabaseAlive
+2023-03-24_22:34:13 INFO Main::KeepDatabaseAlive
+2023-03-24_22:39:13 INFO Main::KeepDatabaseAlive
+2023-03-24_22:44:13 INFO Main::KeepDatabaseAlive
+2023-03-24_22:49:13 INFO Main::KeepDatabaseAlive
+2023-03-24_22:54:13 INFO Main::KeepDatabaseAlive
+2023-03-24_22:59:13 INFO Main::KeepDatabaseAlive
+2023-03-24_23:02:47 INFO Closing down DatabasePool 'login'.
+2023-03-24_23:02:47 INFO Asynchronous connections on DatabasePool 'login' terminated. Proceeding with synchronous connections.
+2023-03-24_23:02:47 INFO All connections on DatabasePool 'login' closed.

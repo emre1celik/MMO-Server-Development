@@ -1,0 +1,16 @@
+2023-03-26_16:23:06 INFO [ SERVER MOVE AUTH ] [SRV 19 -- 30000 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][fdgdf]
+2023-03-26_16:23:06 INFO [ SERVER MOVE AUTH RESULT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][fdgdf]
+2023-03-26_16:23:06 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character fdgdf - 0 selected ( Step One ).
+2023-03-26_16:23:06 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-26_16:23:06 INFO Player::EnterWorldSuccess -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] -- Location:[41 - 30/79]
+2023-03-26_16:24:33 INFO Teleport From [World:41 - 36/79 - Instance:-1] To [World:41 - 128/154 - Instance:-1] -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf]
+2023-03-26_16:26:55 INFO [ SERVER MOVE REQUEST ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] --- Server: 18 [79 - 204/56]
+2023-03-26_16:26:55 INFO [ SERVER MOVE SUCCESS ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] --- Server: 18 [79 - 204/56]
+2023-03-26_16:27:23 INFO [ SERVER MOVE AUTH ] [SRV 19 -- 30001 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][fdgdf]
+2023-03-26_16:27:23 INFO [ SERVER MOVE AUTH RESULT ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][fdgdf]
+2023-03-26_16:27:23 INFO [ CHARACTER SELECT ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character fdgdf - 0 selected ( Step One ).
+2023-03-26_16:27:23 INFO [ CHARACTER SELECT ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-26_16:27:23 INFO Player::EnterWorldSuccess -- [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] -- Location:[41 - 30/80]
+2023-03-26_16:28:27 INFO Teleport From [World:41 - 34/86 - Instance:-1] To [World:42 - 104/178 - Instance:-1] -- [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf]
+2023-03-26_16:28:48 INFO Teleport From [World:42 - 104/178 - Instance:-1] To [World:42 - 104/178 - Instance:-1] -- [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf]
+2023-03-26_16:29:28 INFO [ LOGOUT REQUEST ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] - Select Server

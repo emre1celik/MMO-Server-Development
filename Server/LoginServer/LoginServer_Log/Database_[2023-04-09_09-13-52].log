@@ -1,0 +1,26 @@
+2023-04-09_09:13:53 INFO Opening DatabasePool 'login'. Asynchronous connections: 1, synchronous connections: 2.
+2023-04-09_09:13:53 INFO MySQL client library: 5.6.29
+2023-04-09_09:13:53 INFO MySQL server ver: 5.7.41-log 
+2023-04-09_09:13:53 INFO Connected to MySQL database at 127.0.0.1
+2023-04-09_09:13:53 INFO MySQL client library: 5.6.29
+2023-04-09_09:13:53 INFO MySQL server ver: 5.7.41-log 
+2023-04-09_09:13:53 INFO Connected to MySQL database at 127.0.0.1
+2023-04-09_09:13:53 INFO MySQL client library: 5.6.29
+2023-04-09_09:13:53 INFO MySQL server ver: 5.7.41-log 
+2023-04-09_09:13:53 INFO Connected to MySQL database at 127.0.0.1
+2023-04-09_09:13:53 INFO DatabasePool 'login' opened successfully. 3 total connections running.
+2023-04-09_09:18:53 INFO Main::KeepDatabaseAlive
+2023-04-09_09:23:53 INFO Main::KeepDatabaseAlive
+2023-04-09_09:28:53 INFO Main::KeepDatabaseAlive
+2023-04-09_09:33:53 INFO Main::KeepDatabaseAlive
+2023-04-09_09:38:53 INFO Main::KeepDatabaseAlive
+2023-04-09_09:43:53 INFO Main::KeepDatabaseAlive
+2023-04-09_09:48:53 INFO Main::KeepDatabaseAlive
+2023-04-09_09:53:53 INFO Main::KeepDatabaseAlive
+2023-04-09_09:58:53 INFO Main::KeepDatabaseAlive
+2023-04-09_10:03:53 INFO Main::KeepDatabaseAlive
+2023-04-09_10:08:53 INFO Main::KeepDatabaseAlive
+2023-04-09_10:13:53 INFO Main::KeepDatabaseAlive
+2023-04-09_10:18:53 INFO Main::KeepDatabaseAlive
+2023-04-09_10:23:53 INFO Main::KeepDatabaseAlive
+2023-04-09_10:28:53 INFO Main::KeepDatabaseAlive

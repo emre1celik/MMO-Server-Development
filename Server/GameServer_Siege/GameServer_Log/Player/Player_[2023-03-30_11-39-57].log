@@ -1,0 +1,24 @@
+2023-03-30_11:55:47 INFO [ SERVER MOVE AUTH ] [SRV 19 -- 30000 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Mage]
+2023-03-30_11:55:47 INFO [ SERVER MOVE AUTH RESULT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Mage]
+2023-03-30_11:55:47 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Mage - 0 selected ( Step One ).
+2023-03-30_11:55:47 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_11:55:48 INFO Player::EnterWorldSuccess -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] -- Location:[42 - 104/178]
+2023-03-30_11:56:02 INFO Teleport From [World:42 - 104/178 - Instance:-1] To [World:41 - 30/80 - Instance:-1] -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage]
+2023-03-30_11:56:04 INFO Teleport From [World:41 - 30/80 - Instance:-1] To [World:41 - 30/81 - Instance:-1] -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage]
+2023-03-30_11:56:20 INFO Teleport From [World:41 - 35/83 - Instance:-1] To [World:30 - 29/42 - Instance:-1] -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage]
+2023-03-30_11:56:23 INFO Teleport From [World:30 - 29/42 - Instance:-1] To [World:41 - 29/80 - Instance:-1] -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage]
+2023-03-30_11:56:29 INFO [ SERVER MOVE REQUEST ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] --- Server: 65535 [91 - 51/191]
+2023-03-30_11:56:29 INFO [ SERVER MOVE SUCCESS ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] --- Server: 65535 [91 - 51/191]
+2023-03-30_13:06:37 INFO [ SERVER MOVE AUTH ] [SRV 19 -- 30001 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Mage]
+2023-03-30_13:06:38 INFO [ SERVER MOVE AUTH RESULT ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Mage]
+2023-03-30_13:06:38 INFO [ CHARACTER SELECT ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Mage - 0 selected ( Step One ).
+2023-03-30_13:06:38 INFO [ CHARACTER SELECT ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_13:06:38 INFO Player::EnterWorldSuccess -- [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] -- Location:[41 - 30/80]
+2023-03-30_15:32:53 INFO [ LOGOUT REQUEST ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] - Select Character
+2023-03-30_15:33:05 INFO [ CHARACTER SELECT ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] Character Mage - 0 selected ( Step One ).
+2023-03-30_15:33:05 INFO [ CHARACTER SELECT ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] Character selected ( Step Two ).
+2023-03-30_15:33:05 INFO Player::EnterWorldSuccess -- [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] -- Location:[41 - 30/80]
+2023-03-30_15:33:07 INFO [ LOGOUT REQUEST ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] - Select Character
+2023-03-30_15:33:22 INFO [ CHARACTER SELECT ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] Character Gamemaster - 1 selected ( Step One ).
+2023-03-30_15:33:22 INFO [ CHARACTER SELECT ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] Character selected ( Step Two ).
+2023-03-30_15:33:22 ERROR [ CHARACTER SELECT ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] is in wrong server. World 0.

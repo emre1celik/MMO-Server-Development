@@ -1,0 +1,7 @@
+2023-03-25_14:53:28 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30000 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Admin]
+2023-03-25_14:53:28 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Admin]
+2023-03-25_14:53:28 INFO [ CHARACTER SELECT ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Admin - 0 selected ( Step One ).
+2023-03-25_14:53:28 INFO [ CHARACTER SELECT ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-25_14:53:28 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 139-Admin] -- Location:[79 - 206/58]
+2023-03-25_14:55:27 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 139-Admin] --- Server: 65535 [0 - 131/133]
+2023-03-25_14:55:27 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 139-Admin] --- Server: 65535 [0 - 131/133]

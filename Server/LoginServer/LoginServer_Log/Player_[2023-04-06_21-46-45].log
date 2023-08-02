@@ -1,0 +1,16 @@
+2023-04-06_22:07:31 INFO Adding Player [2][test]
+2023-04-06_22:07:31 INFO Removing Player [2][test] - Kicked.
+2023-04-06_22:07:31 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-06_22:07:47 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-04-06_22:07:51 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-04-06_22:07:58 INFO Adding Player [2][test]
+2023-04-06_22:07:58 INFO Removing Player [2][test] - Kicked.
+2023-04-06_22:07:58 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-06_22:36:41 INFO LoginQueue::Process -- [Acc: test1][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-04-06_22:36:44 INFO LoginQueue::Process -- [Acc: test1][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-04-06_22:36:47 INFO LoginQueue::Process -- [Acc: test1][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-04-06_22:36:51 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-04-06_22:36:54 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-04-06_22:36:56 INFO Adding Player [2][test]
+2023-04-06_22:36:56 INFO Removing Player [2][test] - Kicked.
+2023-04-06_22:36:56 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1

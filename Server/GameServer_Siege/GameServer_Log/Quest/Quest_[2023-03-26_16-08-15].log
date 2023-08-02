@@ -1,0 +1,3 @@
+2023-03-26_16:11:21 INFO Player::QuestEvolutionUpdateState -- Accepted Quest [4 - Prove Your Strength] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf]
+2023-03-26_16:11:53 INFO Player::QuestEvolutionGiveReward -- Rewared Quest StatUp [4 - Prove Your Strength] [SRV 19 -- 30002 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf]
+2023-03-26_16:11:56 INFO Player::QuestEvolutionUpdateState -- Accepted Quest [5 - Infiltrate the Barracks of Balgass] [SRV 19 -- 30002 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf]

@@ -1,0 +1,20 @@
+2023-03-26_17:30:17 INFO [ SERVER MOVE AUTH ] [SRV 19 -- 30000 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][fdgdf]
+2023-03-26_17:30:17 INFO [ SERVER MOVE AUTH RESULT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][fdgdf]
+2023-03-26_17:30:17 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character fdgdf - 0 selected ( Step One ).
+2023-03-26_17:30:17 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-26_17:30:17 INFO Player::EnterWorldSuccess -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] -- Location:[42 - 105/178]
+2023-03-26_17:30:31 INFO [ LOGOUT REQUEST ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] - Select Character
+2023-03-26_17:31:21 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] Character fdgdf - 0 selected ( Step One ).
+2023-03-26_17:31:21 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] Character selected ( Step Two ).
+2023-03-26_17:31:21 INFO Player::EnterWorldSuccess -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] -- Location:[41 - 29/81]
+2023-03-26_17:31:26 INFO Teleport From [World:41 - 33/83 - Instance:-1] To [World:42 - 105/179 - Instance:-1] -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf]
+2023-03-26_17:38:41 INFO Teleport From [World:42 - 95/182 - Instance:-1] To [World:34 - 233/45 - Instance:-1] -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf]
+2023-03-26_17:38:44 INFO Closing interface (interface_quest_evolution_giver - 0) -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf]
+2023-03-26_17:38:48 INFO Closing interface (interface_quest_evolution_giver - 0) -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf]
+2023-03-26_17:38:51 INFO Teleport From [World:34 - 229/47 - Instance:-1] To [World:42 - 105/178 - Instance:-1] -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf]
+2023-03-26_17:39:34 INFO Teleport From [World:42 - 95/185 - Instance:-1] To [World:34 - 233/44 - Instance:-1] -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf]
+2023-03-26_17:39:38 INFO Closing interface (interface_quest_evolution_giver - 0) -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf]
+2023-03-26_17:39:51 INFO [ LOGOUT REQUEST ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] - Select Character
+2023-03-26_17:39:59 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] Character dfgdfg - 4 selected ( Step One ).
+2023-03-26_17:39:59 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] Character selected ( Step Two ).
+2023-03-26_17:39:59 ERROR [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 173-dfgdfg] is in wrong server. World 0.

@@ -1,0 +1,15 @@
+2023-04-08_12:33:03 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30000 - IP: 77.175.188.143 - ] --- Send Join Request [test][Kundun]
+2023-04-08_12:33:03 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-test - ] --- Joined Successfully [test][Kundun]
+2023-04-08_12:33:03 INFO [ CHARACTER SELECT ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-test - ] Character Kundun - 0 selected ( Step One ).
+2023-04-08_12:33:03 INFO [ CHARACTER SELECT ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-test - ] Character selected ( Step Two ).
+2023-04-08_12:33:03 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-test - Character: 145-Kundun] -- Location:[79 - 223/91]
+2023-04-08_12:33:06 INFO Closing interface (interface_devil_square_entrance - 0) -- [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-test - Character: 145-Kundun]
+2023-04-08_12:33:07 INFO Teleport From [World:79 - 223/91 - Instance:-1] To [World:9 - 136/163 - Instance:-1] -- [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-test - Character: 145-Kundun]
+2023-04-08_12:55:19 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-test - Character: 145-Kundun] --- Server: 65535 [0 - 137/126]
+2023-04-08_12:55:19 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-test - Character: 145-Kundun] --- Server: 65535 [0 - 137/126]
+2023-04-08_12:57:49 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30001 - IP: 77.175.188.143 - ] --- Send Join Request [test][Kundun]
+2023-04-08_12:57:49 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30001 - IP: 77.175.188.143 - Account: 2-test - ] --- Joined Successfully [test][Kundun]
+2023-04-08_12:57:49 INFO [ CHARACTER SELECT ] [SRV 18 -- 30001 - IP: 77.175.188.143 - Account: 2-test - ] Character Kundun - 0 selected ( Step One ).
+2023-04-08_12:57:49 INFO [ CHARACTER SELECT ] [SRV 18 -- 30001 - IP: 77.175.188.143 - Account: 2-test - ] Character selected ( Step Two ).
+2023-04-08_12:57:50 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30001 - IP: 77.175.188.143 - Account: 2-test - Character: 145-Kundun] -- Location:[79 - 189/90]
+2023-04-08_13:10:08 INFO Teleport From [World:79 - 188/93 - Instance:-1] To [World:79 - 189/90 - Instance:-1] -- [SRV 18 -- 30001 - IP: 77.175.188.143 - Account: 2-test - Character: 145-Kundun]

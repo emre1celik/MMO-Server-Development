@@ -1,0 +1,38 @@
+2023-04-06_20:58:46 INFO Opening DatabasePool 'u897592642_login'. Asynchronous connections: 1, synchronous connections: 2.
+2023-04-06_20:58:46 INFO MySQL client library: 5.6.29
+2023-04-06_20:58:46 INFO MySQL server ver: 5.5.5-10.6.12-MariaDB-cll-lve 
+2023-04-06_20:58:46 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-06_20:58:47 INFO MySQL client library: 5.6.29
+2023-04-06_20:58:47 INFO MySQL server ver: 5.5.5-10.6.12-MariaDB-cll-lve 
+2023-04-06_20:58:47 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-06_20:58:47 INFO MySQL client library: 5.6.29
+2023-04-06_20:58:47 INFO MySQL server ver: 5.5.5-10.6.12-MariaDB-cll-lve 
+2023-04-06_20:58:47 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-06_20:58:47 INFO DatabasePool 'u897592642_login' opened successfully. 3 total connections running.
+2023-04-06_21:03:47 INFO Main::KeepDatabaseAlive
+2023-04-06_21:08:47 INFO Main::KeepDatabaseAlive
+2023-04-06_21:13:47 INFO Main::KeepDatabaseAlive
+2023-04-06_21:18:47 INFO Main::KeepDatabaseAlive
+2023-04-06_21:23:47 INFO Main::KeepDatabaseAlive
+2023-04-06_21:28:47 INFO Main::KeepDatabaseAlive
+2023-04-06_21:33:47 INFO Main::KeepDatabaseAlive
+2023-04-06_21:38:47 INFO Main::KeepDatabaseAlive
+2023-04-06_21:42:25 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'blackgaara' AND a.password = '033ac3b63d99fa1b93238001dfb73b72f46f2ba1a903c65c018085f44b289046') OR (a.guid = 0) OR (a.account = 'blackgaara' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-06_21:42:25 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-06_21:42:26 INFO Connection to the MySQL server is active.
+2023-04-06_21:42:26 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-06_21:43:09 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'blackgaara' AND a.password = 'a5711107c4e0ef3e41ac5447c8f6e8e128bfaf191eb4bd93f3a5d7b6e87f36f7') OR (a.guid = 0) OR (a.account = 'blackgaara' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-06_21:43:09 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-06_21:43:09 INFO Connection to the MySQL server is active.
+2023-04-06_21:43:09 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-06_21:43:47 INFO Main::KeepDatabaseAlive
+2023-04-06_21:44:07 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'test' AND a.password = '31f014b53e5861c8b28a8707a1d6a2a2737ce2c22fd671884173498510a063f0') OR (a.guid = 0) OR (a.account = 'test' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-06_21:44:07 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-06_21:44:07 INFO Connection to the MySQL server is active.
+2023-04-06_21:44:07 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-06_21:46:23 INFO Closing down DatabasePool 'u897592642_login'.
+2023-04-06_21:46:23 INFO Asynchronous connections on DatabasePool 'u897592642_login' terminated. Proceeding with synchronous connections.
+2023-04-06_21:46:23 INFO All connections on DatabasePool 'u897592642_login' closed.

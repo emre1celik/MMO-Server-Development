@@ -1,0 +1,142 @@
+2023-03-28_08:57:36 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_08:57:40 INFO Adding Player [2][blackgaara]
+2023-03-28_08:57:40 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_08:57:40 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_09:06:12 INFO Adding Player [2][blackgaara]
+2023-03-28_09:06:12 INFO AuthSocket::AccountServerMove - [2][blackgaara] Move To [18][79][203][58]
+2023-03-28_09:06:12 INFO AuthSocket::AccountServerAuth - [2][blackgaara] Success Move To [18][79][203][58]
+2023-03-28_09:07:56 INFO AuthSocket::AccountServerMove - [2][blackgaara] Move To [0][0][131][122]
+2023-03-28_09:11:52 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_09:11:52 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_09:27:51 INFO Adding Player [2][blackgaara]
+2023-03-28_09:27:51 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_09:27:51 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_09:32:42 INFO Adding Player [2][blackgaara]
+2023-03-28_09:32:42 INFO AuthSocket::AccountServerMove - [2][blackgaara] Move To [18][79][206][58]
+2023-03-28_09:32:42 INFO AuthSocket::AccountServerAuth - [2][blackgaara] Success Move To [18][79][206][58]
+2023-03-28_09:33:17 INFO AuthSocket::AccountServerMove - [2][blackgaara] Move To [0][51][99][56]
+2023-03-28_09:33:18 INFO AuthSocket::AccountServerAuth - [2][blackgaara] Success Move To [0][51][99][56]
+2023-03-28_09:34:17 INFO AuthSocket::AccountServerMove - [2][blackgaara] Move To [18][79][205][56]
+2023-03-28_09:34:18 INFO AuthSocket::AccountServerAuth - [2][blackgaara] Success Move To [18][79][205][56]
+2023-03-28_09:34:38 INFO AuthSocket::AccountServerMove - [2][blackgaara] Move To [0][0][137][122]
+2023-03-28_09:34:38 INFO AuthSocket::AccountServerAuth - [2][blackgaara] Success Move To [0][0][137][122]
+2023-03-28_10:37:59 INFO Removing Player [2][blackgaara] - Disconnected.
+2023-03-28_10:38:24 INFO Adding Player [2][blackgaara]
+2023-03-28_10:38:24 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_10:38:24 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_10:44:19 INFO Adding Player [2][blackgaara]
+2023-03-28_10:44:19 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_10:44:19 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_10:45:51 INFO Adding Player [2][blackgaara]
+2023-03-28_10:45:51 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_10:45:51 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_10:46:22 INFO Adding Player [2][blackgaara]
+2023-03-28_10:46:46 INFO Removing Player [2][blackgaara] - Disconnected.
+2023-03-28_10:47:46 INFO Adding Player [2][blackgaara]
+2023-03-28_10:47:46 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_10:47:46 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_10:52:05 INFO Adding Player [2][blackgaara]
+2023-03-28_10:52:05 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_10:52:05 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_11:03:52 INFO Adding Player [2][blackgaara]
+2023-03-28_11:03:52 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_11:03:52 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_11:07:16 INFO Adding Player [2][blackgaara]
+2023-03-28_11:07:16 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_11:07:16 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_11:18:25 INFO LoginQueue::Process -- [Acc: acc][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_11:18:45 INFO LoginQueue::Process -- [Acc: acc][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_11:18:52 INFO LoginQueue::Process -- [Acc: acc][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_11:20:05 INFO LoginQueue::Process -- [Acc: acc][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_11:20:18 INFO LoginQueue::Process -- [Acc: acc][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_11:23:57 INFO LoginQueue::Process -- [Acc: acc][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_11:24:03 INFO LoginQueue::Process -- [Acc: acc][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_11:25:58 INFO LoginQueue::Process -- [Acc: blackgaa][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_11:26:07 INFO LoginQueue::Process -- [Acc: blackgaa][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_11:29:00 INFO LoginQueue::Process -- [Acc: blackgaa][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_11:30:15 INFO LoginQueue::Process -- [Acc: blackgaa][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_11:30:19 INFO Adding Player [2][blackgaara]
+2023-03-28_11:30:19 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_11:30:19 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_11:31:52 INFO Adding Player [5][gdf]
+2023-03-28_11:31:52 INFO Removing Player [5][gdf] - Kicked.
+2023-03-28_11:31:52 INFO LoginQueue::Process -- [Acc: gdf][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_12:58:49 INFO Adding Player [2][blackgaara]
+2023-03-28_12:58:49 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_12:58:49 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_13:11:32 INFO LoginQueue::Process -- [Acc: blackgaa][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_13:11:37 INFO Adding Player [6][abc]
+2023-03-28_13:11:37 INFO Removing Player [6][abc] - Kicked.
+2023-03-28_13:11:37 INFO LoginQueue::Process -- [Acc: abc][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_13:14:28 INFO Adding Player [2][blackgaara]
+2023-03-28_13:14:28 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_13:14:28 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_13:15:33 INFO LoginQueue::Process -- [Acc: abc][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_13:15:37 INFO LoginQueue::Process -- [Acc: abc][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_13:15:55 INFO Adding Player [2][blackgaara]
+2023-03-28_13:15:55 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_13:15:55 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_13:21:13 INFO LoginQueue::Process -- [Acc: blackgaa][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_13:21:16 INFO LoginQueue::Process -- [Acc: blackgaa][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_13:21:19 INFO LoginQueue::Process -- [Acc: blackgaa][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_13:30:42 INFO Adding Player [2][blackgaara]
+2023-03-28_13:30:42 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_13:30:42 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_13:48:43 INFO LoginQueue::Process -- [Acc: abc][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_13:48:49 INFO Adding Player [2][blackgaara]
+2023-03-28_13:48:49 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_13:48:49 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_13:52:43 INFO LoginQueue::Process -- [Acc: hellogame][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_13:54:19 INFO LoginQueue::Process -- [Acc: hellogame1][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_13:57:18 INFO LoginQueue::Process -- [Acc: hellogame1][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_14:03:48 INFO Adding Player [2][blackgaara]
+2023-03-28_14:03:48 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_14:03:48 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_15:06:58 INFO Adding Player [2][blackgaara]
+2023-03-28_15:06:58 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_15:06:58 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_15:30:27 INFO Adding Player [2][blackgaara]
+2023-03-28_15:30:27 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_15:30:27 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_15:33:16 INFO Adding Player [2][blackgaara]
+2023-03-28_15:33:16 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_15:33:16 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_15:34:59 INFO Adding Player [2][blackgaara]
+2023-03-28_15:34:59 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_15:34:59 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_15:43:15 INFO Adding Player [2][blackgaara]
+2023-03-28_15:43:15 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_15:43:15 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_15:45:43 INFO Adding Player [2][blackgaara]
+2023-03-28_15:45:43 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_15:45:43 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_15:53:31 INFO Adding Player [2][blackgaara]
+2023-03-28_15:53:31 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_15:53:31 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_15:56:24 INFO Adding Player [2][blackgaara]
+2023-03-28_15:56:24 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_15:56:24 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_15:58:51 INFO Adding Player [2][blackgaara]
+2023-03-28_15:58:51 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_15:58:51 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_16:15:26 INFO Adding Player [2][blackgaara]
+2023-03-28_16:15:38 INFO Removing Player [2][blackgaara] - Server Closed.
+2023-03-28_16:16:36 INFO Adding Player [2][blackgaara]
+2023-03-28_16:16:36 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_16:16:36 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_16:22:59 INFO Adding Player [2][blackgaara]
+2023-03-28_16:22:59 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_16:22:59 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_16:34:04 INFO Adding Player [2][blackgaara]
+2023-03-28_16:34:04 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_16:34:04 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-28_16:45:00 INFO LoginQueue::Process -- [Acc: blackgaa][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-28_18:14:17 INFO Adding Player [2][blackgaara]
+2023-03-28_18:14:17 INFO AuthSocket::AccountServerMove - [2][blackgaara] Move To [18][79][204][58]
+2023-03-28_18:14:18 INFO AuthSocket::AccountServerAuth - [2][blackgaara] Success Move To [18][79][204][58]
+2023-03-28_18:15:42 INFO AuthSocket::AccountServerMove - [2][blackgaara] Move To [0][37][20][217]
+2023-03-28_18:15:42 INFO AuthSocket::AccountServerAuth - [2][blackgaara] Success Move To [0][37][20][217]
+2023-03-28_21:47:20 INFO Removing Player [2][blackgaara] - Disconnected.
+2023-03-28_21:51:37 INFO Adding Player [2][blackgaara]
+2023-03-28_21:51:37 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-28_21:51:37 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1

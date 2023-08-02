@@ -1,0 +1,29 @@
+2023-03-25_22:27:25 INFO Opening DatabasePool 'login'. Asynchronous connections: 1, synchronous connections: 2.
+2023-03-25_22:27:25 INFO MySQL client library: 5.6.29
+2023-03-25_22:27:25 INFO MySQL server ver: 5.7.41-log 
+2023-03-25_22:27:25 INFO Connected to MySQL database at 127.0.0.1
+2023-03-25_22:27:25 INFO MySQL client library: 5.6.29
+2023-03-25_22:27:25 INFO MySQL server ver: 5.7.41-log 
+2023-03-25_22:27:25 INFO Connected to MySQL database at 127.0.0.1
+2023-03-25_22:27:25 INFO MySQL client library: 5.6.29
+2023-03-25_22:27:25 INFO MySQL server ver: 5.7.41-log 
+2023-03-25_22:27:25 INFO Connected to MySQL database at 127.0.0.1
+2023-03-25_22:27:25 INFO DatabasePool 'login' opened successfully. 3 total connections running.
+2023-03-25_22:32:25 INFO Main::KeepDatabaseAlive
+2023-03-25_22:37:25 INFO Main::KeepDatabaseAlive
+2023-03-25_22:42:25 INFO Main::KeepDatabaseAlive
+2023-03-25_22:47:25 INFO Main::KeepDatabaseAlive
+2023-03-25_22:52:25 INFO Main::KeepDatabaseAlive
+2023-03-25_22:57:25 INFO Main::KeepDatabaseAlive
+2023-03-25_23:02:25 INFO Main::KeepDatabaseAlive
+2023-03-25_23:07:25 INFO Main::KeepDatabaseAlive
+2023-03-25_23:12:25 INFO Main::KeepDatabaseAlive
+2023-03-25_23:17:25 INFO Main::KeepDatabaseAlive
+2023-03-25_23:22:25 INFO Main::KeepDatabaseAlive
+2023-03-25_23:27:25 INFO Main::KeepDatabaseAlive
+2023-03-25_23:32:25 INFO Main::KeepDatabaseAlive
+2023-03-25_23:37:25 INFO Main::KeepDatabaseAlive
+2023-03-25_23:42:25 INFO Main::KeepDatabaseAlive
+2023-03-25_23:47:25 INFO Main::KeepDatabaseAlive
+2023-03-25_23:52:25 INFO Main::KeepDatabaseAlive
+2023-03-25_23:57:25 INFO Main::KeepDatabaseAlive

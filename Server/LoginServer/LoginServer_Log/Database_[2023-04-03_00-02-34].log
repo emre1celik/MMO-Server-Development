@@ -1,0 +1,343 @@
+2023-04-03_00:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_00:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_00:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_00:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_00:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_00:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_00:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_00:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_00:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_00:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_00:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_00:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_01:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_01:06:37 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'test33' AND a.password = '461a8b94bb8d3bf306acd23a164b975304afcedc106db14fcb166e295cec385a') OR (a.guid = 0) OR (a.account = 'test33' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-03_01:06:37 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-03_01:06:38 INFO Connection to the MySQL server is active.
+2023-04-03_01:06:38 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-03_01:06:40 INFO SQL: START TRANSACTION
+2023-04-03_01:06:40 ERROR [2006] MySQL server has gone away
+2023-04-03_01:06:40 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-03_01:06:52 INFO Connection to the MySQL server is active.
+2023-04-03_01:06:52 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-04-03_01:07:04 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'helloworld' AND a.password = 'f167e20d062cf25bc637d07ac953100d7506e3d25c1c0cba4fe9d19fce8351d3') OR (a.guid = 0) OR (a.account = 'helloworld' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-03_01:07:04 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-03_01:07:04 INFO Connection to the MySQL server is active.
+2023-04-03_01:07:04 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-03_01:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_01:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_01:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_01:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_01:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_01:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_01:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_01:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_01:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_01:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_01:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_02:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_02:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_02:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_02:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_02:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_02:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_02:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_02:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_02:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_02:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_02:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_02:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_03:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_03:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_03:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_03:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_03:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_03:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_03:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_03:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_03:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_03:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_03:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_03:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_04:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_04:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_04:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_04:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_04:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_04:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_04:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_04:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_04:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_04:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_04:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_04:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_05:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_05:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_05:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_05:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_05:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_05:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_05:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_05:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_05:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_05:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_05:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_05:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_06:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_06:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_06:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_06:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_06:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_06:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_06:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_06:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_06:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_06:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_06:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_06:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_07:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_07:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_07:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_07:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_07:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_07:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_07:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_07:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_07:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_07:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_07:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_07:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_08:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_08:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_08:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_08:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_08:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_08:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_08:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_08:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_08:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_08:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_08:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_08:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_09:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_09:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_09:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_09:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_09:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_09:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_09:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_09:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_09:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_09:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_09:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_09:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_10:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_10:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_10:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_10:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_10:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_10:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_10:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_10:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_10:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_10:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_10:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_10:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_11:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_11:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_11:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_11:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_11:18:04 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'helloworld' AND a.password = 'f167e20d062cf25bc637d07ac953100d7506e3d25c1c0cba4fe9d19fce8351d3') OR (a.guid = 0) OR (a.account = 'helloworld' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-03_11:18:04 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-03_11:18:12 INFO Connection to the MySQL server is active.
+2023-04-03_11:18:12 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-03_11:18:14 INFO SQL: START TRANSACTION
+2023-04-03_11:18:14 ERROR [2006] MySQL server has gone away
+2023-04-03_11:18:15 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-03_11:18:28 INFO Connection to the MySQL server is active.
+2023-04-03_11:18:28 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-04-03_11:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_11:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_11:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_11:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_11:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_11:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_11:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_11:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_12:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_12:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_12:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_12:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_12:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_12:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_12:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_12:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_12:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_12:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_12:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_12:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_13:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_13:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_13:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_13:15:51 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'test33' AND a.password = '854c81c9edac4a4e0a66086c76b809bff03c1d64be177fa54c89e17ffe230361') OR (a.guid = 0) OR (a.account = 'test33' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-03_13:15:51 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-03_13:15:59 INFO Connection to the MySQL server is active.
+2023-04-03_13:15:59 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-03_13:16:00 INFO SQL: START TRANSACTION
+2023-04-03_13:16:00 ERROR [2006] MySQL server has gone away
+2023-04-03_13:16:00 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-03_13:16:12 INFO Connection to the MySQL server is active.
+2023-04-03_13:16:12 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-04-03_13:16:40 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'helloworld' AND a.password = 'f167e20d062cf25bc637d07ac953100d7506e3d25c1c0cba4fe9d19fce8351d3') OR (a.guid = 0) OR (a.account = 'helloworld' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-03_13:16:40 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-03_13:16:40 INFO Connection to the MySQL server is active.
+2023-04-03_13:16:40 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-03_13:16:40 INFO SQL: START TRANSACTION
+2023-04-03_13:16:40 ERROR [2006] MySQL server has gone away
+2023-04-03_13:16:40 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-03_13:16:54 INFO Connection to the MySQL server is active.
+2023-04-03_13:16:54 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-04-03_13:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_13:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_13:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_13:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_13:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_13:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_13:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_13:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_13:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_14:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_14:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_14:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_14:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_14:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_14:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_14:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_14:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_14:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_14:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_14:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_14:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_15:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_15:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_15:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_15:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_15:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_15:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_15:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_15:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_15:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_15:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_15:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_15:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_16:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_16:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_16:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_16:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_16:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_16:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_16:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_16:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_16:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_16:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_16:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_16:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_17:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_17:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_17:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_17:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_17:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_17:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_17:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_17:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_17:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_17:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_17:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_17:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_18:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_18:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_18:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_18:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_18:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_18:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_18:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_18:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_18:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_18:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_18:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_18:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_19:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_19:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_19:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_19:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_19:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_19:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_19:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_19:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_19:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_19:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_19:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_19:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_20:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_20:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_20:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_20:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_20:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_20:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_20:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_20:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_20:37:44 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'helloworld' AND a.password = 'f167e20d062cf25bc637d07ac953100d7506e3d25c1c0cba4fe9d19fce8351d3') OR (a.guid = 0) OR (a.account = 'helloworld' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-03_20:37:44 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-03_20:37:48 INFO Connection to the MySQL server is active.
+2023-04-03_20:37:48 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-03_20:37:51 INFO SQL: START TRANSACTION
+2023-04-03_20:37:51 ERROR [2006] MySQL server has gone away
+2023-04-03_20:37:51 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-03_20:38:05 INFO Connection to the MySQL server is active.
+2023-04-03_20:38:05 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-04-03_20:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_20:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_20:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_20:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_21:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_21:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_21:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_21:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_21:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_21:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_21:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_21:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_21:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_21:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_21:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_21:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_22:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_22:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_22:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_22:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_22:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_22:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_22:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_22:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_22:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_22:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_22:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_22:57:34 INFO Main::KeepDatabaseAlive
+2023-04-03_23:02:34 INFO Main::KeepDatabaseAlive
+2023-04-03_23:07:34 INFO Main::KeepDatabaseAlive
+2023-04-03_23:12:34 INFO Main::KeepDatabaseAlive
+2023-04-03_23:17:34 INFO Main::KeepDatabaseAlive
+2023-04-03_23:22:34 INFO Main::KeepDatabaseAlive
+2023-04-03_23:27:34 INFO Main::KeepDatabaseAlive
+2023-04-03_23:32:34 INFO Main::KeepDatabaseAlive
+2023-04-03_23:37:34 INFO Main::KeepDatabaseAlive
+2023-04-03_23:42:34 INFO Main::KeepDatabaseAlive
+2023-04-03_23:47:34 INFO Main::KeepDatabaseAlive
+2023-04-03_23:52:34 INFO Main::KeepDatabaseAlive
+2023-04-03_23:57:34 INFO Main::KeepDatabaseAlive

@@ -1,0 +1,49 @@
+2023-04-01_21:53:19 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_21:53:19 INFO Reading Server List...
+2023-04-01_21:53:19 INFO Added Server 0 [Regular]    Port: 55501   IP: 85.215.196.105   Display: 1	AccountAllowed: 0	Disabled: 0
+2023-04-01_21:53:19 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-04-01_21:53:19 INFO Added Server 18 [Event]    Port: 55518   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-04-01_21:53:19 INFO Added Server 19 [Siege]    Port: 55519   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-04-01_21:53:19 INFO >> Loaded 4 servers
+2023-04-01_21:53:19 INFO  
+2023-04-01_21:53:25 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_21:53:34 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-01_22:02:03 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_22:02:05 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-04-01_22:02:31 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-04-01_22:02:31 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_22:02:31 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-01_22:52:21 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-04-01_22:52:59 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-04-01_22:53:44 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-04-01_22:54:00 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-04-01_22:59:06 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_22:59:50 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_22:59:51 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-01_23:30:10 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_23:30:10 INFO Reading Server List...
+2023-04-01_23:30:10 INFO Added Server 0 [Regular]    Port: 55501   IP: 85.215.196.105   Display: 1	AccountAllowed: 0	Disabled: 0
+2023-04-01_23:30:10 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-04-01_23:30:10 INFO Added Server 18 [Event]    Port: 55518   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-04-01_23:30:10 INFO Added Server 19 [Siege]    Port: 55519   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-04-01_23:30:10 INFO >> Loaded 4 servers
+2023-04-01_23:30:10 INFO  
+2023-04-01_23:30:24 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_23:30:25 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-01_23:30:47 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_23:30:49 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_23:30:56 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-01_23:36:40 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_23:36:43 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_23:36:50 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_23:36:55 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_23:36:57 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-01_23:39:22 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_23:39:24 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_23:39:25 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-01_23:41:59 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_23:44:14 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_23:45:45 INFO ProtocolCore: C1,04,F4,06,
+2023-04-01_23:49:42 DEBUG Network Thread exits
+2023-04-01_23:49:42 DEBUG Network Thread exits
+2023-04-01_23:49:42 INFO Closing CSServer

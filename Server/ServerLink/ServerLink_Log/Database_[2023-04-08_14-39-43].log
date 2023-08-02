@@ -1,0 +1,61 @@
+2023-04-08_14:39:44 INFO Opening DatabasePool 'characters'. Asynchronous connections: 1, synchronous connections: 2.
+2023-04-08_14:39:44 INFO MySQL client library: 5.6.29
+2023-04-08_14:39:44 INFO MySQL server ver: 5.7.41-log 
+2023-04-08_14:39:44 INFO Connected to MySQL database at 127.0.0.1
+2023-04-08_14:39:44 INFO MySQL client library: 5.6.29
+2023-04-08_14:39:44 INFO MySQL server ver: 5.7.41-log 
+2023-04-08_14:39:44 INFO Connected to MySQL database at 127.0.0.1
+2023-04-08_14:39:44 INFO MySQL client library: 5.6.29
+2023-04-08_14:39:44 INFO MySQL server ver: 5.7.41-log 
+2023-04-08_14:39:44 INFO Connected to MySQL database at 127.0.0.1
+2023-04-08_14:39:44 INFO DatabasePool 'characters' opened successfully. 3 total connections running.
+2023-04-08_14:44:44 INFO Main::KeepDatabaseAlive
+2023-04-08_14:49:44 INFO Main::KeepDatabaseAlive
+2023-04-08_14:54:44 INFO Main::KeepDatabaseAlive
+2023-04-08_14:59:44 INFO Main::KeepDatabaseAlive
+2023-04-08_15:04:44 INFO Main::KeepDatabaseAlive
+2023-04-08_15:09:44 INFO Main::KeepDatabaseAlive
+2023-04-08_15:14:44 INFO Main::KeepDatabaseAlive
+2023-04-08_15:19:44 INFO Main::KeepDatabaseAlive
+2023-04-08_15:24:44 INFO Main::KeepDatabaseAlive
+2023-04-08_15:29:44 INFO Main::KeepDatabaseAlive
+2023-04-08_15:34:44 INFO Main::KeepDatabaseAlive
+2023-04-08_15:39:44 INFO Main::KeepDatabaseAlive
+2023-04-08_15:44:44 INFO Main::KeepDatabaseAlive
+2023-04-08_15:49:44 INFO Main::KeepDatabaseAlive
+2023-04-08_15:54:44 INFO Main::KeepDatabaseAlive
+2023-04-08_15:59:44 INFO Main::KeepDatabaseAlive
+2023-04-08_16:04:44 INFO Main::KeepDatabaseAlive
+2023-04-08_16:09:44 INFO Main::KeepDatabaseAlive
+2023-04-08_16:14:44 INFO Main::KeepDatabaseAlive
+2023-04-08_16:19:44 INFO Main::KeepDatabaseAlive
+2023-04-08_16:24:44 INFO Main::KeepDatabaseAlive
+2023-04-08_16:29:44 INFO Main::KeepDatabaseAlive
+2023-04-08_16:34:44 INFO Main::KeepDatabaseAlive
+2023-04-08_16:39:44 INFO Main::KeepDatabaseAlive
+2023-04-08_16:44:44 INFO Main::KeepDatabaseAlive
+2023-04-08_16:49:44 INFO Main::KeepDatabaseAlive
+2023-04-08_16:54:44 INFO Main::KeepDatabaseAlive
+2023-04-08_16:59:44 INFO Main::KeepDatabaseAlive
+2023-04-08_17:04:44 INFO Main::KeepDatabaseAlive
+2023-04-08_17:09:44 INFO Main::KeepDatabaseAlive
+2023-04-08_17:14:44 INFO Main::KeepDatabaseAlive
+2023-04-08_17:19:44 INFO Main::KeepDatabaseAlive
+2023-04-08_17:24:44 INFO Main::KeepDatabaseAlive
+2023-04-08_17:29:44 INFO Main::KeepDatabaseAlive
+2023-04-08_17:34:44 INFO Main::KeepDatabaseAlive
+2023-04-08_17:39:44 INFO Main::KeepDatabaseAlive
+2023-04-08_17:44:44 INFO Main::KeepDatabaseAlive
+2023-04-08_17:49:44 INFO Main::KeepDatabaseAlive
+2023-04-08_17:54:44 INFO Main::KeepDatabaseAlive
+2023-04-08_17:59:44 INFO Main::KeepDatabaseAlive
+2023-04-08_18:04:44 INFO Main::KeepDatabaseAlive
+2023-04-08_18:09:44 INFO Main::KeepDatabaseAlive
+2023-04-08_18:14:44 INFO Main::KeepDatabaseAlive
+2023-04-08_18:19:44 INFO Main::KeepDatabaseAlive
+2023-04-08_18:24:44 INFO Main::KeepDatabaseAlive
+2023-04-08_18:29:44 INFO Main::KeepDatabaseAlive
+2023-04-08_18:34:44 INFO Main::KeepDatabaseAlive
+2023-04-08_18:36:23 INFO Closing down DatabasePool 'characters'.
+2023-04-08_18:36:23 INFO Asynchronous connections on DatabasePool 'characters' terminated. Proceeding with synchronous connections.
+2023-04-08_18:36:23 INFO All connections on DatabasePool 'characters' closed.

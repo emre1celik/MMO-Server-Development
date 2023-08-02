@@ -1,0 +1,7 @@
+2023-03-25_14:53:17 INFO [ Battle StandBy ] SetState_Start()
+2023-03-25_14:53:17 INFO SetState_BattleStandBy()
+2023-03-25_14:54:16 INFO [ Battle StandBy ] SetState_Notify()
+2023-03-25_14:55:15 INFO [ Battle StandBy ] SetState_End()
+2023-03-25_14:55:15 INFO [ Battle StandBy ] SetState_None()
+2023-03-25_14:55:15 INFO [ Battle Maya ] SetState_StandBy_1()
+2023-03-25_14:55:15 INFO SetState_BattleOfMaya()

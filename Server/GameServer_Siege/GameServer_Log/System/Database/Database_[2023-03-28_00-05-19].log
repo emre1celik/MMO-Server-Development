@@ -1,0 +1,72 @@
+2023-03-28_00:05:19 INFO Main::KeepDatabaseAlive
+2023-03-28_00:15:19 INFO Main::KeepDatabaseAlive
+2023-03-28_00:25:19 INFO Main::KeepDatabaseAlive
+2023-03-28_00:35:19 INFO Main::KeepDatabaseAlive
+2023-03-28_00:45:19 INFO Main::KeepDatabaseAlive
+2023-03-28_00:55:19 INFO Main::KeepDatabaseAlive
+2023-03-28_01:05:19 INFO Main::KeepDatabaseAlive
+2023-03-28_01:15:19 INFO Main::KeepDatabaseAlive
+2023-03-28_01:25:19 INFO Main::KeepDatabaseAlive
+2023-03-28_01:35:19 INFO Main::KeepDatabaseAlive
+2023-03-28_01:45:19 INFO Main::KeepDatabaseAlive
+2023-03-28_01:55:19 INFO Main::KeepDatabaseAlive
+2023-03-28_02:05:19 INFO Main::KeepDatabaseAlive
+2023-03-28_02:15:19 INFO Main::KeepDatabaseAlive
+2023-03-28_02:25:19 INFO Main::KeepDatabaseAlive
+2023-03-28_02:35:19 INFO Main::KeepDatabaseAlive
+2023-03-28_02:45:19 INFO Main::KeepDatabaseAlive
+2023-03-28_02:55:19 INFO Main::KeepDatabaseAlive
+2023-03-28_03:05:19 INFO Main::KeepDatabaseAlive
+2023-03-28_03:15:19 INFO Main::KeepDatabaseAlive
+2023-03-28_03:25:19 INFO Main::KeepDatabaseAlive
+2023-03-28_03:35:19 INFO Main::KeepDatabaseAlive
+2023-03-28_03:45:19 INFO Main::KeepDatabaseAlive
+2023-03-28_03:55:19 INFO Main::KeepDatabaseAlive
+2023-03-28_04:05:19 INFO Main::KeepDatabaseAlive
+2023-03-28_04:15:19 INFO Main::KeepDatabaseAlive
+2023-03-28_04:25:19 INFO Main::KeepDatabaseAlive
+2023-03-28_04:35:19 INFO Main::KeepDatabaseAlive
+2023-03-28_04:45:19 INFO Main::KeepDatabaseAlive
+2023-03-28_04:55:19 INFO Main::KeepDatabaseAlive
+2023-03-28_05:05:19 INFO Main::KeepDatabaseAlive
+2023-03-28_05:15:19 INFO Main::KeepDatabaseAlive
+2023-03-28_05:25:19 INFO Main::KeepDatabaseAlive
+2023-03-28_05:35:19 INFO Main::KeepDatabaseAlive
+2023-03-28_05:45:19 INFO Main::KeepDatabaseAlive
+2023-03-28_05:55:19 INFO Main::KeepDatabaseAlive
+2023-03-28_06:05:19 INFO Main::KeepDatabaseAlive
+2023-03-28_06:15:19 INFO Main::KeepDatabaseAlive
+2023-03-28_06:25:19 INFO Main::KeepDatabaseAlive
+2023-03-28_06:35:19 INFO Main::KeepDatabaseAlive
+2023-03-28_06:45:19 INFO Main::KeepDatabaseAlive
+2023-03-28_06:55:19 INFO Main::KeepDatabaseAlive
+2023-03-28_07:05:19 INFO Main::KeepDatabaseAlive
+2023-03-28_07:15:19 INFO Main::KeepDatabaseAlive
+2023-03-28_07:25:19 INFO Main::KeepDatabaseAlive
+2023-03-28_07:35:19 INFO Main::KeepDatabaseAlive
+2023-03-28_07:45:19 INFO Main::KeepDatabaseAlive
+2023-03-28_07:55:19 INFO Main::KeepDatabaseAlive
+2023-03-28_08:05:19 INFO Main::KeepDatabaseAlive
+2023-03-28_08:15:19 INFO Main::KeepDatabaseAlive
+2023-03-28_08:25:19 INFO Main::KeepDatabaseAlive
+2023-03-28_08:35:19 INFO Main::KeepDatabaseAlive
+2023-03-28_08:45:19 INFO Main::KeepDatabaseAlive
+2023-03-28_08:55:19 INFO Main::KeepDatabaseAlive
+2023-03-28_09:05:19 INFO Main::KeepDatabaseAlive
+2023-03-28_09:15:19 INFO Main::KeepDatabaseAlive
+2023-03-28_09:25:19 INFO Main::KeepDatabaseAlive
+2023-03-28_09:35:19 INFO Main::KeepDatabaseAlive
+2023-03-28_09:45:19 INFO Main::KeepDatabaseAlive
+2023-03-28_09:55:19 INFO Main::KeepDatabaseAlive
+2023-03-28_10:05:19 INFO Main::KeepDatabaseAlive
+2023-03-28_10:15:19 INFO Main::KeepDatabaseAlive
+2023-03-28_10:25:19 INFO Main::KeepDatabaseAlive
+2023-03-28_10:34:21 INFO Closing down DatabasePool 'characters'.
+2023-03-28_10:34:21 INFO Asynchronous connections on DatabasePool 'characters' terminated. Proceeding with synchronous connections.
+2023-03-28_10:34:21 INFO All connections on DatabasePool 'characters' closed.
+2023-03-28_10:34:21 INFO Closing down DatabasePool 'log'.
+2023-03-28_10:34:21 INFO Asynchronous connections on DatabasePool 'log' terminated. Proceeding with synchronous connections.
+2023-03-28_10:34:21 INFO All connections on DatabasePool 'log' closed.
+2023-03-28_10:34:21 INFO Closing down DatabasePool 'login'.
+2023-03-28_10:34:21 INFO Asynchronous connections on DatabasePool 'login' terminated. Proceeding with synchronous connections.
+2023-03-28_10:34:21 INFO All connections on DatabasePool 'login' closed.

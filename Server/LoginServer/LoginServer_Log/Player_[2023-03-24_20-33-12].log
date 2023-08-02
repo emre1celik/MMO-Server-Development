@@ -1,0 +1,9 @@
+2023-03-24_20:43:59 INFO LoginQueue::Process -- [Acc: admin][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-24_20:44:08 INFO LoginQueue::Process -- [Acc: admin][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-24_20:45:42 INFO LoginQueue::Process -- [Acc: admin][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-24_20:46:12 INFO Adding Player [2][blackgaara]
+2023-03-24_20:46:12 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-24_20:46:12 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-24_20:49:08 INFO Adding Player [2][blackgaara]
+2023-03-24_20:49:08 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-24_20:49:08 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1

@@ -1,0 +1,56 @@
+2023-03-31_11:47:54 INFO Opening DatabasePool 'u897592642_login'. Asynchronous connections: 1, synchronous connections: 2.
+2023-03-31_11:47:54 INFO MySQL client library: 5.6.29
+2023-03-31_11:47:54 INFO MySQL server ver: 5.5.5-10.6.12-MariaDB-cll-lve 
+2023-03-31_11:47:54 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-03-31_11:47:57 INFO MySQL client library: 5.6.29
+2023-03-31_11:47:57 INFO MySQL server ver: 5.5.5-10.6.12-MariaDB-cll-lve 
+2023-03-31_11:47:57 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-03-31_11:47:57 INFO MySQL client library: 5.6.29
+2023-03-31_11:47:57 INFO MySQL server ver: 5.5.5-10.6.12-MariaDB-cll-lve 
+2023-03-31_11:47:57 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-03-31_11:47:57 INFO DatabasePool 'u897592642_login' opened successfully. 3 total connections running.
+2023-03-31_11:48:48 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'blackgaara' AND a.password = 'a5711107c4e0ef3e41ac5447c8f6e8e128bfaf191eb4bd93f3a5d7b6e87f36f7') OR (a.guid = 0) OR (a.account = 'blackgaara' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-03-31_11:48:48 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-03-31_11:48:48 INFO Connection to the MySQL server is active.
+2023-03-31_11:48:48 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-03-31_11:48:54 INFO SQL: START TRANSACTION
+2023-03-31_11:48:54 ERROR [2006] MySQL server has gone away
+2023-03-31_11:48:54 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-03-31_11:48:54 INFO Connection to the MySQL server is active.
+2023-03-31_11:48:54 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-03-31_11:51:38 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'blackgaara' AND a.password = 'a5711107c4e0ef3e41ac5447c8f6e8e128bfaf191eb4bd93f3a5d7b6e87f36f7') OR (a.guid = 0) OR (a.account = 'blackgaara' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-03-31_11:51:38 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-03-31_11:51:38 INFO Connection to the MySQL server is active.
+2023-03-31_11:51:38 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-03-31_11:51:38 INFO SQL: START TRANSACTION
+2023-03-31_11:51:38 ERROR [2006] MySQL server has gone away
+2023-03-31_11:51:38 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-03-31_11:51:44 INFO Connection to the MySQL server is active.
+2023-03-31_11:51:44 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-03-31_11:52:37 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'white' AND a.password = '2654613d278821a8c70b4a5943e241250c0d11574252d36cefa2fe492e304b87') OR (a.guid = 0) OR (a.account = 'white' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-03-31_11:52:37 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-03-31_11:52:38 INFO Connection to the MySQL server is active.
+2023-03-31_11:52:38 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-03-31_11:52:38 INFO SQL: START TRANSACTION
+2023-03-31_11:52:38 ERROR [2006] MySQL server has gone away
+2023-03-31_11:52:38 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-03-31_11:52:44 INFO Connection to the MySQL server is active.
+2023-03-31_11:52:44 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-03-31_11:52:57 INFO Main::KeepDatabaseAlive
+2023-03-31_11:53:20 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'blackgaara' AND a.password = 'a5711107c4e0ef3e41ac5447c8f6e8e128bfaf191eb4bd93f3a5d7b6e87f36f7') OR (a.guid = 0) OR (a.account = 'blackgaara' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-03-31_11:53:20 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-03-31_11:53:20 INFO Connection to the MySQL server is active.
+2023-03-31_11:53:20 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-03-31_11:53:20 INFO SQL: START TRANSACTION
+2023-03-31_11:53:20 ERROR [2006] MySQL server has gone away
+2023-03-31_11:53:20 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-03-31_11:53:24 INFO Connection to the MySQL server is active.
+2023-03-31_11:53:24 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-03-31_11:57:57 INFO Main::KeepDatabaseAlive
+2023-03-31_12:01:34 INFO Closing down DatabasePool 'u897592642_login'.
+2023-03-31_12:01:34 INFO Asynchronous connections on DatabasePool 'u897592642_login' terminated. Proceeding with synchronous connections.
+2023-03-31_12:01:34 INFO All connections on DatabasePool 'u897592642_login' closed.

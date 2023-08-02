@@ -1,0 +1,39 @@
+2023-03-24_20:54:48 INFO Opening DatabasePool 'characters'. Asynchronous connections: 1, synchronous connections: 2.
+2023-03-24_20:54:48 INFO MySQL client library: 5.6.29
+2023-03-24_20:54:48 INFO MySQL server ver: 5.7.41-log 
+2023-03-24_20:54:48 INFO Connected to MySQL database at 127.0.0.1
+2023-03-24_20:54:48 INFO MySQL client library: 5.6.29
+2023-03-24_20:54:48 INFO MySQL server ver: 5.7.41-log 
+2023-03-24_20:54:48 INFO Connected to MySQL database at 127.0.0.1
+2023-03-24_20:54:48 INFO MySQL client library: 5.6.29
+2023-03-24_20:54:48 INFO MySQL server ver: 5.7.41-log 
+2023-03-24_20:54:48 INFO Connected to MySQL database at 127.0.0.1
+2023-03-24_20:54:48 INFO DatabasePool 'characters' opened successfully. 3 total connections running.
+2023-03-24_20:59:48 INFO Main::KeepDatabaseAlive
+2023-03-24_21:04:48 INFO Main::KeepDatabaseAlive
+2023-03-24_21:09:48 INFO Main::KeepDatabaseAlive
+2023-03-24_21:14:48 INFO Main::KeepDatabaseAlive
+2023-03-24_21:19:48 INFO Main::KeepDatabaseAlive
+2023-03-24_21:24:48 INFO Main::KeepDatabaseAlive
+2023-03-24_21:29:48 INFO Main::KeepDatabaseAlive
+2023-03-24_21:34:48 INFO Main::KeepDatabaseAlive
+2023-03-24_21:39:48 INFO Main::KeepDatabaseAlive
+2023-03-24_21:44:48 INFO Main::KeepDatabaseAlive
+2023-03-24_21:49:48 INFO Main::KeepDatabaseAlive
+2023-03-24_21:54:48 INFO Main::KeepDatabaseAlive
+2023-03-24_21:59:48 INFO Main::KeepDatabaseAlive
+2023-03-24_22:04:48 INFO Main::KeepDatabaseAlive
+2023-03-24_22:09:48 INFO Main::KeepDatabaseAlive
+2023-03-24_22:14:48 INFO Main::KeepDatabaseAlive
+2023-03-24_22:19:48 INFO Main::KeepDatabaseAlive
+2023-03-24_22:24:48 INFO Main::KeepDatabaseAlive
+2023-03-24_22:29:48 INFO Main::KeepDatabaseAlive
+2023-03-24_22:34:48 INFO Main::KeepDatabaseAlive
+2023-03-24_22:39:48 INFO Main::KeepDatabaseAlive
+2023-03-24_22:44:48 INFO Main::KeepDatabaseAlive
+2023-03-24_22:49:48 INFO Main::KeepDatabaseAlive
+2023-03-24_22:54:48 INFO Main::KeepDatabaseAlive
+2023-03-24_22:59:48 INFO Main::KeepDatabaseAlive
+2023-03-24_23:02:57 INFO Closing down DatabasePool 'characters'.
+2023-03-24_23:02:57 INFO Asynchronous connections on DatabasePool 'characters' terminated. Proceeding with synchronous connections.
+2023-03-24_23:02:57 INFO All connections on DatabasePool 'characters' closed.

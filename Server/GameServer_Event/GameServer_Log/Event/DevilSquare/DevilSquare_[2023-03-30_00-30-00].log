@@ -1,0 +1,456 @@
+2023-03-30_00:30:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2023-03-30_00:30:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2023-03-30_00:30:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2023-03-30_00:30:00 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2023-03-30_00:30:00 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2023-03-30_00:30:01 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2023-03-30_00:30:01 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2023-03-30_00:30:01 INFO [DevilSquareMgr] SetState_Open()
+2023-03-30_00:35:01 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2023-03-30_00:35:01 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2023-03-30_00:35:01 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2023-03-30_00:35:01 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2023-03-30_00:35:01 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2023-03-30_00:35:01 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2023-03-30_00:35:01 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2023-03-30_00:35:01 INFO [DevilSquareMgr] SetState_Playing()
+2023-03-30_00:35:02 INFO [DevilSquare - 1] Moving Players Out
+2023-03-30_00:35:02 INFO [DevilSquare - 1] Clearing Monsters
+2023-03-30_00:35:02 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2023-03-30_00:35:02 INFO [DevilSquare - 2] Moving Players Out
+2023-03-30_00:35:02 INFO [DevilSquare - 2] Clearing Monsters
+2023-03-30_00:35:02 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2023-03-30_00:35:02 INFO [DevilSquare - 3] Moving Players Out
+2023-03-30_00:35:03 INFO [DevilSquare - 3] Clearing Monsters
+2023-03-30_00:35:03 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2023-03-30_00:35:03 INFO [DevilSquare - 4] Moving Players Out
+2023-03-30_00:35:03 INFO [DevilSquare - 4] Clearing Monsters
+2023-03-30_00:35:03 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2023-03-30_00:35:03 INFO [DevilSquare - 5] Moving Players Out
+2023-03-30_00:35:03 INFO [DevilSquare - 5] Clearing Monsters
+2023-03-30_00:35:03 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2023-03-30_00:35:03 INFO [DevilSquare - 6] Moving Players Out
+2023-03-30_00:35:03 INFO [DevilSquare - 6] Clearing Monsters
+2023-03-30_00:35:04 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2023-03-30_00:35:04 INFO [DevilSquare - 7] Moving Players Out
+2023-03-30_00:35:04 INFO [DevilSquare - 7] Clearing Monsters
+2023-03-30_00:35:04 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2023-03-30_00:35:04 INFO [DevilSquareMgr] SetState_None()
+2023-03-30_01:30:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2023-03-30_01:30:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2023-03-30_01:30:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2023-03-30_01:30:00 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2023-03-30_01:30:00 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2023-03-30_01:30:00 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2023-03-30_01:30:00 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2023-03-30_01:30:00 INFO [DevilSquareMgr] SetState_Open()
+2023-03-30_01:35:00 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2023-03-30_01:35:00 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2023-03-30_01:35:00 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2023-03-30_01:35:00 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2023-03-30_01:35:00 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2023-03-30_01:35:00 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2023-03-30_01:35:00 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2023-03-30_01:35:00 INFO [DevilSquareMgr] SetState_Playing()
+2023-03-30_01:35:00 INFO [DevilSquare - 1] Moving Players Out
+2023-03-30_01:35:00 INFO [DevilSquare - 1] Clearing Monsters
+2023-03-30_01:35:00 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2023-03-30_01:35:00 INFO [DevilSquare - 2] Moving Players Out
+2023-03-30_01:35:00 INFO [DevilSquare - 2] Clearing Monsters
+2023-03-30_01:35:00 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2023-03-30_01:35:00 INFO [DevilSquare - 3] Moving Players Out
+2023-03-30_01:35:00 INFO [DevilSquare - 3] Clearing Monsters
+2023-03-30_01:35:00 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2023-03-30_01:35:00 INFO [DevilSquare - 4] Moving Players Out
+2023-03-30_01:35:00 INFO [DevilSquare - 4] Clearing Monsters
+2023-03-30_01:35:00 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2023-03-30_01:35:00 INFO [DevilSquare - 5] Moving Players Out
+2023-03-30_01:35:00 INFO [DevilSquare - 5] Clearing Monsters
+2023-03-30_01:35:00 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2023-03-30_01:35:00 INFO [DevilSquare - 6] Moving Players Out
+2023-03-30_01:35:00 INFO [DevilSquare - 6] Clearing Monsters
+2023-03-30_01:35:00 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2023-03-30_01:35:00 INFO [DevilSquare - 7] Moving Players Out
+2023-03-30_01:35:00 INFO [DevilSquare - 7] Clearing Monsters
+2023-03-30_01:35:00 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2023-03-30_01:35:00 INFO [DevilSquareMgr] SetState_None()
+2023-03-30_02:30:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2023-03-30_02:30:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2023-03-30_02:30:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2023-03-30_02:30:00 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2023-03-30_02:30:00 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2023-03-30_02:30:00 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2023-03-30_02:30:00 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2023-03-30_02:30:00 INFO [DevilSquareMgr] SetState_Open()
+2023-03-30_02:35:00 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2023-03-30_02:35:00 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2023-03-30_02:35:00 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2023-03-30_02:35:00 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2023-03-30_02:35:00 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2023-03-30_02:35:00 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2023-03-30_02:35:00 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2023-03-30_02:35:00 INFO [DevilSquareMgr] SetState_Playing()
+2023-03-30_02:35:00 INFO [DevilSquare - 1] Moving Players Out
+2023-03-30_02:35:00 INFO [DevilSquare - 1] Clearing Monsters
+2023-03-30_02:35:01 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2023-03-30_02:35:01 INFO [DevilSquare - 2] Moving Players Out
+2023-03-30_02:35:01 INFO [DevilSquare - 2] Clearing Monsters
+2023-03-30_02:35:01 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2023-03-30_02:35:01 INFO [DevilSquare - 3] Moving Players Out
+2023-03-30_02:35:01 INFO [DevilSquare - 3] Clearing Monsters
+2023-03-30_02:35:01 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2023-03-30_02:35:01 INFO [DevilSquare - 4] Moving Players Out
+2023-03-30_02:35:01 INFO [DevilSquare - 4] Clearing Monsters
+2023-03-30_02:35:01 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2023-03-30_02:35:01 INFO [DevilSquare - 5] Moving Players Out
+2023-03-30_02:35:01 INFO [DevilSquare - 5] Clearing Monsters
+2023-03-30_02:35:02 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2023-03-30_02:35:02 INFO [DevilSquare - 6] Moving Players Out
+2023-03-30_02:35:02 INFO [DevilSquare - 6] Clearing Monsters
+2023-03-30_02:35:02 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2023-03-30_02:35:02 INFO [DevilSquare - 7] Moving Players Out
+2023-03-30_02:35:02 INFO [DevilSquare - 7] Clearing Monsters
+2023-03-30_02:35:02 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2023-03-30_02:35:02 INFO [DevilSquareMgr] SetState_None()
+2023-03-30_03:30:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2023-03-30_03:30:01 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2023-03-30_03:30:01 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2023-03-30_03:30:01 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2023-03-30_03:30:01 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2023-03-30_03:30:01 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2023-03-30_03:30:01 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2023-03-30_03:30:01 INFO [DevilSquareMgr] SetState_Open()
+2023-03-30_03:35:01 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2023-03-30_03:35:01 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2023-03-30_03:35:01 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2023-03-30_03:35:01 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2023-03-30_03:35:01 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2023-03-30_03:35:01 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2023-03-30_03:35:01 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2023-03-30_03:35:02 INFO [DevilSquareMgr] SetState_Playing()
+2023-03-30_03:35:02 INFO [DevilSquare - 1] Moving Players Out
+2023-03-30_03:35:02 INFO [DevilSquare - 1] Clearing Monsters
+2023-03-30_03:35:02 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2023-03-30_03:35:02 INFO [DevilSquare - 2] Moving Players Out
+2023-03-30_03:35:02 INFO [DevilSquare - 2] Clearing Monsters
+2023-03-30_03:35:02 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2023-03-30_03:35:02 INFO [DevilSquare - 3] Moving Players Out
+2023-03-30_03:35:02 INFO [DevilSquare - 3] Clearing Monsters
+2023-03-30_03:35:02 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2023-03-30_03:35:02 INFO [DevilSquare - 4] Moving Players Out
+2023-03-30_03:35:03 INFO [DevilSquare - 4] Clearing Monsters
+2023-03-30_03:35:03 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2023-03-30_03:35:03 INFO [DevilSquare - 5] Moving Players Out
+2023-03-30_03:35:03 INFO [DevilSquare - 5] Clearing Monsters
+2023-03-30_03:35:03 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2023-03-30_03:35:03 INFO [DevilSquare - 6] Moving Players Out
+2023-03-30_03:35:03 INFO [DevilSquare - 6] Clearing Monsters
+2023-03-30_03:35:03 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2023-03-30_03:35:03 INFO [DevilSquare - 7] Moving Players Out
+2023-03-30_03:35:03 INFO [DevilSquare - 7] Clearing Monsters
+2023-03-30_03:35:03 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2023-03-30_03:35:03 INFO [DevilSquareMgr] SetState_None()
+2023-03-30_04:30:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2023-03-30_04:30:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2023-03-30_04:30:01 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2023-03-30_04:30:01 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2023-03-30_04:30:01 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2023-03-30_04:30:01 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2023-03-30_04:30:01 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2023-03-30_04:30:01 INFO [DevilSquareMgr] SetState_Open()
+2023-03-30_04:35:01 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2023-03-30_04:35:01 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2023-03-30_04:35:01 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2023-03-30_04:35:01 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2023-03-30_04:35:01 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2023-03-30_04:35:01 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2023-03-30_04:35:01 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2023-03-30_04:35:01 INFO [DevilSquareMgr] SetState_Playing()
+2023-03-30_04:35:02 INFO [DevilSquare - 1] Moving Players Out
+2023-03-30_04:35:02 INFO [DevilSquare - 1] Clearing Monsters
+2023-03-30_04:35:02 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2023-03-30_04:35:02 INFO [DevilSquare - 2] Moving Players Out
+2023-03-30_04:35:02 INFO [DevilSquare - 2] Clearing Monsters
+2023-03-30_04:35:02 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2023-03-30_04:35:02 INFO [DevilSquare - 3] Moving Players Out
+2023-03-30_04:35:02 INFO [DevilSquare - 3] Clearing Monsters
+2023-03-30_04:35:02 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2023-03-30_04:35:02 INFO [DevilSquare - 4] Moving Players Out
+2023-03-30_04:35:02 INFO [DevilSquare - 4] Clearing Monsters
+2023-03-30_04:35:02 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2023-03-30_04:35:02 INFO [DevilSquare - 5] Moving Players Out
+2023-03-30_04:35:03 INFO [DevilSquare - 5] Clearing Monsters
+2023-03-30_04:35:03 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2023-03-30_04:35:03 INFO [DevilSquare - 6] Moving Players Out
+2023-03-30_04:35:03 INFO [DevilSquare - 6] Clearing Monsters
+2023-03-30_04:35:03 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2023-03-30_04:35:03 INFO [DevilSquare - 7] Moving Players Out
+2023-03-30_04:35:03 INFO [DevilSquare - 7] Clearing Monsters
+2023-03-30_04:35:03 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2023-03-30_04:35:04 INFO [DevilSquareMgr] SetState_None()
+2023-03-30_05:30:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2023-03-30_05:30:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2023-03-30_05:30:01 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2023-03-30_05:30:01 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2023-03-30_05:30:01 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2023-03-30_05:30:01 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2023-03-30_05:30:01 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2023-03-30_05:30:01 INFO [DevilSquareMgr] SetState_Open()
+2023-03-30_05:35:01 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2023-03-30_05:35:01 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2023-03-30_05:35:01 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2023-03-30_05:35:01 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2023-03-30_05:35:01 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2023-03-30_05:35:01 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2023-03-30_05:35:01 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2023-03-30_05:35:01 INFO [DevilSquareMgr] SetState_Playing()
+2023-03-30_05:35:02 INFO [DevilSquare - 1] Moving Players Out
+2023-03-30_05:35:02 INFO [DevilSquare - 1] Clearing Monsters
+2023-03-30_05:35:02 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2023-03-30_05:35:02 INFO [DevilSquare - 2] Moving Players Out
+2023-03-30_05:35:02 INFO [DevilSquare - 2] Clearing Monsters
+2023-03-30_05:35:02 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2023-03-30_05:35:02 INFO [DevilSquare - 3] Moving Players Out
+2023-03-30_05:35:02 INFO [DevilSquare - 3] Clearing Monsters
+2023-03-30_05:35:02 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2023-03-30_05:35:02 INFO [DevilSquare - 4] Moving Players Out
+2023-03-30_05:35:02 INFO [DevilSquare - 4] Clearing Monsters
+2023-03-30_05:35:03 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2023-03-30_05:35:03 INFO [DevilSquare - 5] Moving Players Out
+2023-03-30_05:35:03 INFO [DevilSquare - 5] Clearing Monsters
+2023-03-30_05:35:03 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2023-03-30_05:35:03 INFO [DevilSquare - 6] Moving Players Out
+2023-03-30_05:35:03 INFO [DevilSquare - 6] Clearing Monsters
+2023-03-30_05:35:03 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2023-03-30_05:35:03 INFO [DevilSquare - 7] Moving Players Out
+2023-03-30_05:35:03 INFO [DevilSquare - 7] Clearing Monsters
+2023-03-30_05:35:03 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2023-03-30_05:35:03 INFO [DevilSquareMgr] SetState_None()
+2023-03-30_06:30:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2023-03-30_06:30:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2023-03-30_06:30:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2023-03-30_06:30:01 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2023-03-30_06:30:01 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2023-03-30_06:30:01 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2023-03-30_06:30:01 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2023-03-30_06:30:01 INFO [DevilSquareMgr] SetState_Open()
+2023-03-30_06:35:01 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2023-03-30_06:35:01 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2023-03-30_06:35:01 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2023-03-30_06:35:01 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2023-03-30_06:35:01 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2023-03-30_06:35:01 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2023-03-30_06:35:02 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2023-03-30_06:35:02 INFO [DevilSquareMgr] SetState_Playing()
+2023-03-30_06:35:02 INFO [DevilSquare - 1] Moving Players Out
+2023-03-30_06:35:02 INFO [DevilSquare - 1] Clearing Monsters
+2023-03-30_06:35:02 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2023-03-30_06:35:02 INFO [DevilSquare - 2] Moving Players Out
+2023-03-30_06:35:02 INFO [DevilSquare - 2] Clearing Monsters
+2023-03-30_06:35:02 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2023-03-30_06:35:02 INFO [DevilSquare - 3] Moving Players Out
+2023-03-30_06:35:02 INFO [DevilSquare - 3] Clearing Monsters
+2023-03-30_06:35:02 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2023-03-30_06:35:03 INFO [DevilSquare - 4] Moving Players Out
+2023-03-30_06:35:03 INFO [DevilSquare - 4] Clearing Monsters
+2023-03-30_06:35:03 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2023-03-30_06:35:03 INFO [DevilSquare - 5] Moving Players Out
+2023-03-30_06:35:03 INFO [DevilSquare - 5] Clearing Monsters
+2023-03-30_06:35:03 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2023-03-30_06:35:03 INFO [DevilSquare - 6] Moving Players Out
+2023-03-30_06:35:03 INFO [DevilSquare - 6] Clearing Monsters
+2023-03-30_06:35:03 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2023-03-30_06:35:03 INFO [DevilSquare - 7] Moving Players Out
+2023-03-30_06:35:03 INFO [DevilSquare - 7] Clearing Monsters
+2023-03-30_06:35:03 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2023-03-30_06:35:04 INFO [DevilSquareMgr] SetState_None()
+2023-03-30_07:30:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2023-03-30_07:30:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2023-03-30_07:30:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2023-03-30_07:30:00 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2023-03-30_07:30:00 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2023-03-30_07:30:00 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2023-03-30_07:30:01 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2023-03-30_07:30:01 INFO [DevilSquareMgr] SetState_Open()
+2023-03-30_07:35:01 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2023-03-30_07:35:01 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2023-03-30_07:35:01 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2023-03-30_07:35:01 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2023-03-30_07:35:01 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2023-03-30_07:35:01 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2023-03-30_07:35:01 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2023-03-30_07:35:02 INFO [DevilSquareMgr] SetState_Playing()
+2023-03-30_07:35:02 INFO [DevilSquare - 1] Moving Players Out
+2023-03-30_07:35:02 INFO [DevilSquare - 1] Clearing Monsters
+2023-03-30_07:35:02 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2023-03-30_07:35:02 INFO [DevilSquare - 2] Moving Players Out
+2023-03-30_07:35:02 INFO [DevilSquare - 2] Clearing Monsters
+2023-03-30_07:35:02 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2023-03-30_07:35:02 INFO [DevilSquare - 3] Moving Players Out
+2023-03-30_07:35:03 INFO [DevilSquare - 3] Clearing Monsters
+2023-03-30_07:35:03 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2023-03-30_07:35:03 INFO [DevilSquare - 4] Moving Players Out
+2023-03-30_07:35:03 INFO [DevilSquare - 4] Clearing Monsters
+2023-03-30_07:35:03 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2023-03-30_07:35:03 INFO [DevilSquare - 5] Moving Players Out
+2023-03-30_07:35:03 INFO [DevilSquare - 5] Clearing Monsters
+2023-03-30_07:35:03 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2023-03-30_07:35:03 INFO [DevilSquare - 6] Moving Players Out
+2023-03-30_07:35:03 INFO [DevilSquare - 6] Clearing Monsters
+2023-03-30_07:35:03 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2023-03-30_07:35:04 INFO [DevilSquare - 7] Moving Players Out
+2023-03-30_07:35:04 INFO [DevilSquare - 7] Clearing Monsters
+2023-03-30_07:35:04 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2023-03-30_07:35:04 INFO [DevilSquareMgr] SetState_None()
+2023-03-30_08:30:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2023-03-30_08:30:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2023-03-30_08:30:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2023-03-30_08:30:00 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2023-03-30_08:30:00 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2023-03-30_08:30:01 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2023-03-30_08:30:01 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2023-03-30_08:30:01 INFO [DevilSquareMgr] SetState_Open()
+2023-03-30_08:35:01 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2023-03-30_08:35:01 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2023-03-30_08:35:02 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2023-03-30_08:35:02 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2023-03-30_08:35:02 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2023-03-30_08:35:02 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2023-03-30_08:35:02 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2023-03-30_08:35:02 INFO [DevilSquareMgr] SetState_Playing()
+2023-03-30_08:35:02 INFO [DevilSquare - 1] Moving Players Out
+2023-03-30_08:35:02 INFO [DevilSquare - 1] Clearing Monsters
+2023-03-30_08:35:02 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2023-03-30_08:35:02 INFO [DevilSquare - 2] Moving Players Out
+2023-03-30_08:35:03 INFO [DevilSquare - 2] Clearing Monsters
+2023-03-30_08:35:03 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2023-03-30_08:35:03 INFO [DevilSquare - 3] Moving Players Out
+2023-03-30_08:35:03 INFO [DevilSquare - 3] Clearing Monsters
+2023-03-30_08:35:03 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2023-03-30_08:35:03 INFO [DevilSquare - 4] Moving Players Out
+2023-03-30_08:35:03 INFO [DevilSquare - 4] Clearing Monsters
+2023-03-30_08:35:03 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2023-03-30_08:35:03 INFO [DevilSquare - 5] Moving Players Out
+2023-03-30_08:35:03 INFO [DevilSquare - 5] Clearing Monsters
+2023-03-30_08:35:04 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2023-03-30_08:35:04 INFO [DevilSquare - 6] Moving Players Out
+2023-03-30_08:35:04 INFO [DevilSquare - 6] Clearing Monsters
+2023-03-30_08:35:04 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2023-03-30_08:35:04 INFO [DevilSquare - 7] Moving Players Out
+2023-03-30_08:35:04 INFO [DevilSquare - 7] Clearing Monsters
+2023-03-30_08:35:04 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2023-03-30_08:35:05 INFO [DevilSquareMgr] SetState_None()
+2023-03-30_09:30:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2023-03-30_09:30:01 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2023-03-30_09:30:01 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2023-03-30_09:30:01 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2023-03-30_09:30:01 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2023-03-30_09:30:01 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2023-03-30_09:30:01 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2023-03-30_09:30:01 INFO [DevilSquareMgr] SetState_Open()
+2023-03-30_09:35:01 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2023-03-30_09:35:01 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2023-03-30_09:35:02 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2023-03-30_09:35:02 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2023-03-30_09:35:02 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2023-03-30_09:35:02 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2023-03-30_09:35:02 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2023-03-30_09:35:02 INFO [DevilSquareMgr] SetState_Playing()
+2023-03-30_09:35:02 INFO [DevilSquare - 1] Moving Players Out
+2023-03-30_09:35:03 INFO [DevilSquare - 1] Clearing Monsters
+2023-03-30_09:35:03 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2023-03-30_09:35:03 INFO [DevilSquare - 2] Moving Players Out
+2023-03-30_09:35:03 INFO [DevilSquare - 2] Clearing Monsters
+2023-03-30_09:35:03 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2023-03-30_09:35:03 INFO [DevilSquare - 3] Moving Players Out
+2023-03-30_09:35:03 INFO [DevilSquare - 3] Clearing Monsters
+2023-03-30_09:35:04 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2023-03-30_09:35:04 INFO [DevilSquare - 4] Moving Players Out
+2023-03-30_09:35:04 INFO [DevilSquare - 4] Clearing Monsters
+2023-03-30_09:35:04 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2023-03-30_09:35:04 INFO [DevilSquare - 5] Moving Players Out
+2023-03-30_09:35:04 INFO [DevilSquare - 5] Clearing Monsters
+2023-03-30_09:35:04 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2023-03-30_09:35:05 INFO [DevilSquare - 6] Moving Players Out
+2023-03-30_09:35:05 INFO [DevilSquare - 6] Clearing Monsters
+2023-03-30_09:35:05 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2023-03-30_09:35:05 INFO [DevilSquare - 7] Moving Players Out
+2023-03-30_09:35:05 INFO [DevilSquare - 7] Clearing Monsters
+2023-03-30_09:35:05 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2023-03-30_09:35:05 INFO [DevilSquareMgr] SetState_None()
+2023-03-30_10:30:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2023-03-30_10:30:01 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2023-03-30_10:30:01 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2023-03-30_10:30:01 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2023-03-30_10:30:01 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2023-03-30_10:30:01 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2023-03-30_10:30:01 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2023-03-30_10:30:01 INFO [DevilSquareMgr] SetState_Open()
+2023-03-30_10:35:01 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2023-03-30_10:35:02 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2023-03-30_10:35:02 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2023-03-30_10:35:02 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2023-03-30_10:35:02 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2023-03-30_10:35:02 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2023-03-30_10:35:02 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2023-03-30_10:35:02 INFO [DevilSquareMgr] SetState_Playing()
+2023-03-30_10:35:03 INFO [DevilSquare - 1] Moving Players Out
+2023-03-30_10:35:03 INFO [DevilSquare - 1] Clearing Monsters
+2023-03-30_10:35:03 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2023-03-30_10:35:03 INFO [DevilSquare - 2] Moving Players Out
+2023-03-30_10:35:03 INFO [DevilSquare - 2] Clearing Monsters
+2023-03-30_10:35:03 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2023-03-30_10:35:04 INFO [DevilSquare - 3] Moving Players Out
+2023-03-30_10:35:04 INFO [DevilSquare - 3] Clearing Monsters
+2023-03-30_10:35:04 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2023-03-30_10:35:04 INFO [DevilSquare - 4] Moving Players Out
+2023-03-30_10:35:04 INFO [DevilSquare - 4] Clearing Monsters
+2023-03-30_10:35:04 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2023-03-30_10:35:04 INFO [DevilSquare - 5] Moving Players Out
+2023-03-30_10:35:04 INFO [DevilSquare - 5] Clearing Monsters
+2023-03-30_10:35:05 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2023-03-30_10:35:05 INFO [DevilSquare - 6] Moving Players Out
+2023-03-30_10:35:05 INFO [DevilSquare - 6] Clearing Monsters
+2023-03-30_10:35:05 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2023-03-30_10:35:05 INFO [DevilSquare - 7] Moving Players Out
+2023-03-30_10:35:05 INFO [DevilSquare - 7] Clearing Monsters
+2023-03-30_10:35:06 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2023-03-30_10:35:07 INFO [DevilSquareMgr] SetState_None()
+2023-03-30_11:30:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2023-03-30_11:30:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2023-03-30_11:30:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2023-03-30_11:30:00 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2023-03-30_11:30:00 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2023-03-30_11:30:00 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2023-03-30_11:30:00 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2023-03-30_11:30:00 INFO [DevilSquareMgr] SetState_Open()
+2023-03-30_11:35:01 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2023-03-30_11:35:01 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2023-03-30_11:35:01 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2023-03-30_11:35:01 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2023-03-30_11:35:01 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2023-03-30_11:35:01 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2023-03-30_11:35:01 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2023-03-30_11:35:01 INFO [DevilSquareMgr] SetState_Playing()
+2023-03-30_11:35:01 INFO [DevilSquare - 1] Moving Players Out
+2023-03-30_11:35:01 INFO [DevilSquare - 1] Clearing Monsters
+2023-03-30_11:35:01 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2023-03-30_11:35:01 INFO [DevilSquare - 2] Moving Players Out
+2023-03-30_11:35:01 INFO [DevilSquare - 2] Clearing Monsters
+2023-03-30_11:35:01 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2023-03-30_11:35:01 INFO [DevilSquare - 3] Moving Players Out
+2023-03-30_11:35:01 INFO [DevilSquare - 3] Clearing Monsters
+2023-03-30_11:35:01 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2023-03-30_11:35:01 INFO [DevilSquare - 4] Moving Players Out
+2023-03-30_11:35:01 INFO [DevilSquare - 4] Clearing Monsters
+2023-03-30_11:35:01 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2023-03-30_11:35:01 INFO [DevilSquare - 5] Moving Players Out
+2023-03-30_11:35:01 INFO [DevilSquare - 5] Clearing Monsters
+2023-03-30_11:35:01 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2023-03-30_11:35:01 INFO [DevilSquare - 6] Moving Players Out
+2023-03-30_11:35:01 INFO [DevilSquare - 6] Clearing Monsters
+2023-03-30_11:35:01 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2023-03-30_11:35:01 INFO [DevilSquare - 7] Moving Players Out
+2023-03-30_11:35:01 INFO [DevilSquare - 7] Clearing Monsters
+2023-03-30_11:35:01 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2023-03-30_11:35:01 INFO [DevilSquareMgr] SetState_None()

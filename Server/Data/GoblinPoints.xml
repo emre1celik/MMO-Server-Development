@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == 				MUONLINE SERVER EMULATOR				 ==
+// == 				   POWERED BY DevEMU				 	 ==
+// ==               File Name: GoblinPoints                  ==
+// ============================================================
+-->
+
+<GoblinPoints>
+    <!-- Example: <Data MonsterLevelMin="" MonsterLevelMax="" PlayerLevelMin="" PlayerLevelMax="" /> -->
+    <Data MonsterLevelMin="-1" MonsterLevelMax="-1" PlayerLevelMin="-1" PlayerLevelMax="-1" />
+</GoblinPoints>

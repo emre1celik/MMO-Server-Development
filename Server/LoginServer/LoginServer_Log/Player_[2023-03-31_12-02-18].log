@@ -1,0 +1,46 @@
+2023-03-31_12:15:37 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_12:15:42 INFO LoginQueue::Process -- [Acc: admin][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_12:16:25 INFO LoginQueue::Process -- [Acc: admin][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_12:16:37 INFO LoginQueue::Process -- [Acc: admin][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_12:17:07 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_12:17:12 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_12:18:05 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_12:19:46 INFO Adding Player [6][neelix]
+2023-03-31_12:19:46 INFO Removing Player [6][neelix] - Kicked.
+2023-03-31_12:19:46 INFO LoginQueue::Process -- [Acc: neelix][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-31_12:21:30 INFO LoginQueue::Process -- [Acc: black][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_12:21:35 INFO LoginQueue::Process -- [Acc: black][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_12:22:10 INFO LoginQueue::Process -- [Acc: yellow][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_12:22:18 INFO LoginQueue::Process -- [Acc: yellow][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_12:22:38 INFO Adding Player [9][red]
+2023-03-31_12:22:38 INFO Removing Player [9][red] - Kicked.
+2023-03-31_12:22:38 INFO LoginQueue::Process -- [Acc: red][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-31_12:24:43 INFO Adding Player [10][purple]
+2023-03-31_12:24:43 INFO Removing Player [10][purple] - Kicked.
+2023-03-31_12:24:43 INFO LoginQueue::Process -- [Acc: purple][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-31_12:25:04 INFO LoginQueue::Process -- [Acc: purple][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_12:25:07 INFO Adding Player [10][purple]
+2023-03-31_12:25:07 INFO Removing Player [10][purple] - Kicked.
+2023-03-31_12:25:07 INFO LoginQueue::Process -- [Acc: purple][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-31_13:38:15 INFO LoginQueue::Process -- [Acc: 112][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_13:38:22 INFO Adding Player [10][purple]
+2023-03-31_13:38:22 INFO Removing Player [10][purple] - Kicked.
+2023-03-31_13:38:22 INFO LoginQueue::Process -- [Acc: purple][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-31_21:57:58 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_21:58:01 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_21:58:35 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_21:58:39 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_21:58:43 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_22:00:42 INFO Adding Player [14][helloworld]
+2023-03-31_22:00:42 INFO Removing Player [14][helloworld] - Kicked.
+2023-03-31_22:00:42 INFO LoginQueue::Process -- [Acc: helloworld][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-31_22:09:06 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-03-31_22:09:14 INFO Adding Player [14][helloworld]
+2023-03-31_22:09:14 INFO Removing Player [14][helloworld] - Kicked.
+2023-03-31_22:09:14 INFO LoginQueue::Process -- [Acc: helloworld][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-31_22:40:03 INFO Adding Player [14][helloworld]
+2023-03-31_22:40:03 INFO AuthSocket::AccountServerMove - [14][helloworld] Move To [18][79][205][57]
+2023-03-31_22:40:04 INFO AuthSocket::AccountServerAuth - [14][helloworld] Success Move To [18][79][205][57]
+2023-03-31_22:40:39 INFO AuthSocket::AccountServerMove - [14][helloworld] Move To [0][51][191][148]
+2023-03-31_22:40:40 INFO AuthSocket::AccountServerAuth - [14][helloworld] Success Move To [0][51][191][148]
+2023-03-31_22:43:31 INFO Removing Player [14][helloworld] - Disconnected.

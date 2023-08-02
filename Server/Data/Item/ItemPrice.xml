@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == 				MUONLINE SERVER EMULATOR				 ==
+// == 				   POWERED BY DevEMU				 	 ==
+// ==                 File Name: ItemPrice                   ==
+// ============================================================
+-->
+
+<ItemPrice>
+    <!-- Example: <Item ItemCat="" ItemIndex="" ItemLevel="" BuyPrice="" SellPrice="" /> -->
+    <Item ItemCat="13" ItemIndex="4" ItemLevel="0" BuyPrice="1000" SellPrice="1000" />
+    <Item ItemCat="13" ItemIndex="5" ItemLevel="0" BuyPrice="1000" SellPrice="1000" />
+</ItemPrice>

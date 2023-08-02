@@ -1,0 +1,74 @@
+2023-03-30_17:03:36 INFO Opening DatabasePool 'characters'. Asynchronous connections: 1, synchronous connections: 2.
+2023-03-30_17:03:36 INFO MySQL client library: 5.6.29
+2023-03-30_17:03:36 INFO MySQL server ver: 5.7.41-log 
+2023-03-30_17:03:36 INFO Connected to MySQL database at 127.0.0.1
+2023-03-30_17:03:36 INFO MySQL client library: 5.6.29
+2023-03-30_17:03:36 INFO MySQL server ver: 5.7.41-log 
+2023-03-30_17:03:36 INFO Connected to MySQL database at 127.0.0.1
+2023-03-30_17:03:36 INFO MySQL client library: 5.6.29
+2023-03-30_17:03:36 INFO MySQL server ver: 5.7.41-log 
+2023-03-30_17:03:36 INFO Connected to MySQL database at 127.0.0.1
+2023-03-30_17:03:36 INFO DatabasePool 'characters' opened successfully. 3 total connections running.
+2023-03-30_17:03:36 INFO Opening DatabasePool 'log'. Asynchronous connections: 1, synchronous connections: 2.
+2023-03-30_17:03:36 INFO MySQL client library: 5.6.29
+2023-03-30_17:03:36 INFO MySQL server ver: 5.7.41-log 
+2023-03-30_17:03:36 INFO Connected to MySQL database at 127.0.0.1
+2023-03-30_17:03:36 INFO MySQL client library: 5.6.29
+2023-03-30_17:03:36 INFO MySQL server ver: 5.7.41-log 
+2023-03-30_17:03:36 INFO Connected to MySQL database at 127.0.0.1
+2023-03-30_17:03:36 INFO MySQL client library: 5.6.29
+2023-03-30_17:03:36 INFO MySQL server ver: 5.7.41-log 
+2023-03-30_17:03:36 INFO Connected to MySQL database at 127.0.0.1
+2023-03-30_17:03:36 INFO DatabasePool 'log' opened successfully. 3 total connections running.
+2023-03-30_17:03:36 INFO Opening DatabasePool 'login'. Asynchronous connections: 1, synchronous connections: 2.
+2023-03-30_17:03:36 INFO MySQL client library: 5.6.29
+2023-03-30_17:03:36 INFO MySQL server ver: 5.7.41-log 
+2023-03-30_17:03:36 INFO Connected to MySQL database at 127.0.0.1
+2023-03-30_17:03:36 INFO MySQL client library: 5.6.29
+2023-03-30_17:03:36 INFO MySQL server ver: 5.7.41-log 
+2023-03-30_17:03:36 INFO Connected to MySQL database at 127.0.0.1
+2023-03-30_17:03:36 INFO MySQL client library: 5.6.29
+2023-03-30_17:03:36 INFO MySQL server ver: 5.7.41-log 
+2023-03-30_17:03:36 INFO Connected to MySQL database at 127.0.0.1
+2023-03-30_17:03:36 INFO DatabasePool 'login' opened successfully. 3 total connections running.
+2023-03-30_17:13:46 INFO Main::KeepDatabaseAlive
+2023-03-30_17:23:46 INFO Main::KeepDatabaseAlive
+2023-03-30_17:33:46 INFO Main::KeepDatabaseAlive
+2023-03-30_17:43:46 INFO Main::KeepDatabaseAlive
+2023-03-30_17:53:46 INFO Main::KeepDatabaseAlive
+2023-03-30_18:03:46 INFO Main::KeepDatabaseAlive
+2023-03-30_18:13:46 INFO Main::KeepDatabaseAlive
+2023-03-30_18:23:46 INFO Main::KeepDatabaseAlive
+2023-03-30_18:33:46 INFO Main::KeepDatabaseAlive
+2023-03-30_18:43:46 INFO Main::KeepDatabaseAlive
+2023-03-30_18:53:46 INFO Main::KeepDatabaseAlive
+2023-03-30_19:03:46 INFO Main::KeepDatabaseAlive
+2023-03-30_19:13:46 INFO Main::KeepDatabaseAlive
+2023-03-30_19:23:46 INFO Main::KeepDatabaseAlive
+2023-03-30_19:33:46 INFO Main::KeepDatabaseAlive
+2023-03-30_19:43:46 INFO Main::KeepDatabaseAlive
+2023-03-30_19:53:46 INFO Main::KeepDatabaseAlive
+2023-03-30_20:03:46 INFO Main::KeepDatabaseAlive
+2023-03-30_20:13:46 INFO Main::KeepDatabaseAlive
+2023-03-30_20:23:46 INFO Main::KeepDatabaseAlive
+2023-03-30_20:33:46 INFO Main::KeepDatabaseAlive
+2023-03-30_20:43:46 INFO Main::KeepDatabaseAlive
+2023-03-30_20:53:46 INFO Main::KeepDatabaseAlive
+2023-03-30_21:03:46 INFO Main::KeepDatabaseAlive
+2023-03-30_21:13:46 INFO Main::KeepDatabaseAlive
+2023-03-30_21:23:46 INFO Main::KeepDatabaseAlive
+2023-03-30_21:33:46 INFO Main::KeepDatabaseAlive
+2023-03-30_21:43:46 INFO Main::KeepDatabaseAlive
+2023-03-30_21:53:46 INFO Main::KeepDatabaseAlive
+2023-03-30_22:03:46 INFO Main::KeepDatabaseAlive
+2023-03-30_22:13:46 INFO Main::KeepDatabaseAlive
+2023-03-30_22:23:46 INFO Main::KeepDatabaseAlive
+2023-03-30_22:33:46 INFO Main::KeepDatabaseAlive
+2023-03-30_22:43:46 INFO Main::KeepDatabaseAlive
+2023-03-30_22:53:46 INFO Main::KeepDatabaseAlive
+2023-03-30_23:03:46 INFO Main::KeepDatabaseAlive
+2023-03-30_23:13:46 INFO Main::KeepDatabaseAlive
+2023-03-30_23:23:46 INFO Main::KeepDatabaseAlive
+2023-03-30_23:33:46 INFO Main::KeepDatabaseAlive
+2023-03-30_23:43:46 INFO Main::KeepDatabaseAlive
+2023-03-30_23:53:46 INFO Main::KeepDatabaseAlive

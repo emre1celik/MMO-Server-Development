@@ -1,0 +1,651 @@
+2023-04-08_00:00:00 INFO [BloodCastle - 1] Added Monster [20386][232].
+2023-04-08_00:00:00 INFO [BloodCastle - 1] BloodCastle::SetState_Open
+2023-04-08_00:00:00 INFO [BloodCastle - 2] Added Monster [20387][232].
+2023-04-08_00:00:01 INFO [BloodCastle - 2] BloodCastle::SetState_Open
+2023-04-08_00:00:01 INFO [BloodCastle - 3] Added Monster [20388][232].
+2023-04-08_00:00:01 INFO [BloodCastle - 3] BloodCastle::SetState_Open
+2023-04-08_00:00:01 INFO [BloodCastle - 4] Added Monster [20389][232].
+2023-04-08_00:00:01 INFO [BloodCastle - 4] BloodCastle::SetState_Open
+2023-04-08_00:00:01 INFO [BloodCastle - 5] Added Monster [20390][232].
+2023-04-08_00:00:02 INFO [BloodCastle - 5] BloodCastle::SetState_Open
+2023-04-08_00:00:02 INFO [BloodCastle - 6] Added Monster [20391][232].
+2023-04-08_00:00:02 INFO [BloodCastle - 6] BloodCastle::SetState_Open
+2023-04-08_00:00:02 INFO [BloodCastle - 7] Added Monster [20392][232].
+2023-04-08_00:00:03 INFO [BloodCastle - 7] BloodCastle::SetState_Open
+2023-04-08_00:00:03 INFO [BloodCastleMgr] SetState_Open()
+2023-04-08_00:05:03 INFO [BloodCastle - 1] BloodCastle::SetState_StandBy
+2023-04-08_00:05:03 INFO [BloodCastle - 2] BloodCastle::SetState_StandBy
+2023-04-08_00:05:03 INFO [BloodCastle - 3] BloodCastle::SetState_StandBy
+2023-04-08_00:05:03 INFO [BloodCastle - 4] BloodCastle::SetState_StandBy
+2023-04-08_00:05:03 INFO [BloodCastle - 5] BloodCastle::SetState_StandBy
+2023-04-08_00:05:03 INFO [BloodCastle - 6] BloodCastle::SetState_StandBy
+2023-04-08_00:05:03 INFO [BloodCastle - 7] BloodCastle::SetState_StandBy
+2023-04-08_00:05:03 INFO [BloodCastleMgr] SetState_Playing()
+2023-04-08_00:06:03 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_00:06:03 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_00:06:03 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_00:06:03 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_00:06:03 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_00:06:03 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_00:06:03 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_00:06:03 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_00:06:03 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_00:06:03 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_00:06:03 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_00:06:04 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_00:06:04 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_00:06:04 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_00:06:04 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_00:06:04 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_00:06:04 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_00:06:04 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_00:06:04 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_00:06:04 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_00:06:04 INFO [BloodCastle - 7] BloodCastle::SetState_None
+2023-04-08_00:06:04 INFO [BloodCastleMgr] SetState_None()
+2023-04-08_01:00:00 INFO [BloodCastle - 1] Added Monster [20432][232].
+2023-04-08_01:00:00 INFO [BloodCastle - 1] BloodCastle::SetState_Open
+2023-04-08_01:00:00 INFO [BloodCastle - 2] Added Monster [20433][232].
+2023-04-08_01:00:00 INFO [BloodCastle - 2] BloodCastle::SetState_Open
+2023-04-08_01:00:00 INFO [BloodCastle - 3] Added Monster [20434][232].
+2023-04-08_01:00:00 INFO [BloodCastle - 3] BloodCastle::SetState_Open
+2023-04-08_01:00:00 INFO [BloodCastle - 4] Added Monster [20435][232].
+2023-04-08_01:00:00 INFO [BloodCastle - 4] BloodCastle::SetState_Open
+2023-04-08_01:00:00 INFO [BloodCastle - 5] Added Monster [20436][232].
+2023-04-08_01:00:01 INFO [BloodCastle - 5] BloodCastle::SetState_Open
+2023-04-08_01:00:01 INFO [BloodCastle - 6] Added Monster [20437][232].
+2023-04-08_01:00:01 INFO [BloodCastle - 6] BloodCastle::SetState_Open
+2023-04-08_01:00:01 INFO [BloodCastle - 7] Added Monster [20438][232].
+2023-04-08_01:00:01 INFO [BloodCastle - 7] BloodCastle::SetState_Open
+2023-04-08_01:00:01 INFO [BloodCastleMgr] SetState_Open()
+2023-04-08_01:05:01 INFO [BloodCastle - 1] BloodCastle::SetState_StandBy
+2023-04-08_01:05:01 INFO [BloodCastle - 2] BloodCastle::SetState_StandBy
+2023-04-08_01:05:01 INFO [BloodCastle - 3] BloodCastle::SetState_StandBy
+2023-04-08_01:05:01 INFO [BloodCastle - 4] BloodCastle::SetState_StandBy
+2023-04-08_01:05:01 INFO [BloodCastle - 5] BloodCastle::SetState_StandBy
+2023-04-08_01:05:01 INFO [BloodCastle - 6] BloodCastle::SetState_StandBy
+2023-04-08_01:05:01 INFO [BloodCastle - 7] BloodCastle::SetState_StandBy
+2023-04-08_01:05:01 INFO [BloodCastleMgr] SetState_Playing()
+2023-04-08_01:06:01 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_01:06:01 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_01:06:01 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_01:06:01 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_01:06:01 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_01:06:01 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_01:06:01 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_01:06:01 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_01:06:01 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_01:06:01 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_01:06:02 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_01:06:02 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_01:06:02 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_01:06:02 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_01:06:02 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_01:06:02 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_01:06:02 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_01:06:02 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_01:06:02 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_01:06:02 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_01:06:02 INFO [BloodCastle - 7] BloodCastle::SetState_None
+2023-04-08_01:06:02 INFO [BloodCastleMgr] SetState_None()
+2023-04-08_02:00:00 INFO [BloodCastle - 1] Added Monster [20474][232].
+2023-04-08_02:00:00 INFO [BloodCastle - 1] BloodCastle::SetState_Open
+2023-04-08_02:00:00 INFO [BloodCastle - 2] Added Monster [20475][232].
+2023-04-08_02:00:00 INFO [BloodCastle - 2] BloodCastle::SetState_Open
+2023-04-08_02:00:00 INFO [BloodCastle - 3] Added Monster [20476][232].
+2023-04-08_02:00:00 INFO [BloodCastle - 3] BloodCastle::SetState_Open
+2023-04-08_02:00:01 INFO [BloodCastle - 4] Added Monster [20477][232].
+2023-04-08_02:00:01 INFO [BloodCastle - 4] BloodCastle::SetState_Open
+2023-04-08_02:00:01 INFO [BloodCastle - 5] Added Monster [20478][232].
+2023-04-08_02:00:01 INFO [BloodCastle - 5] BloodCastle::SetState_Open
+2023-04-08_02:00:01 INFO [BloodCastle - 6] Added Monster [20479][232].
+2023-04-08_02:00:01 INFO [BloodCastle - 6] BloodCastle::SetState_Open
+2023-04-08_02:00:01 INFO [BloodCastle - 7] Added Monster [20480][232].
+2023-04-08_02:00:01 INFO [BloodCastle - 7] BloodCastle::SetState_Open
+2023-04-08_02:00:01 INFO [BloodCastleMgr] SetState_Open()
+2023-04-08_02:05:01 INFO [BloodCastle - 1] BloodCastle::SetState_StandBy
+2023-04-08_02:05:01 INFO [BloodCastle - 2] BloodCastle::SetState_StandBy
+2023-04-08_02:05:01 INFO [BloodCastle - 3] BloodCastle::SetState_StandBy
+2023-04-08_02:05:01 INFO [BloodCastle - 4] BloodCastle::SetState_StandBy
+2023-04-08_02:05:01 INFO [BloodCastle - 5] BloodCastle::SetState_StandBy
+2023-04-08_02:05:01 INFO [BloodCastle - 6] BloodCastle::SetState_StandBy
+2023-04-08_02:05:01 INFO [BloodCastle - 7] BloodCastle::SetState_StandBy
+2023-04-08_02:05:01 INFO [BloodCastleMgr] SetState_Playing()
+2023-04-08_02:06:01 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_02:06:01 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_02:06:01 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_02:06:01 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_02:06:01 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_02:06:01 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_02:06:01 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_02:06:02 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_02:06:02 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_02:06:02 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_02:06:02 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_02:06:02 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_02:06:02 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_02:06:02 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_02:06:02 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_02:06:02 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_02:06:02 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_02:06:02 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_02:06:02 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_02:06:02 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_02:06:02 INFO [BloodCastle - 7] BloodCastle::SetState_None
+2023-04-08_02:06:02 INFO [BloodCastleMgr] SetState_None()
+2023-04-08_03:00:00 INFO [BloodCastle - 1] Added Monster [20517][232].
+2023-04-08_03:00:00 INFO [BloodCastle - 1] BloodCastle::SetState_Open
+2023-04-08_03:00:00 INFO [BloodCastle - 2] Added Monster [20518][232].
+2023-04-08_03:00:00 INFO [BloodCastle - 2] BloodCastle::SetState_Open
+2023-04-08_03:00:00 INFO [BloodCastle - 3] Added Monster [20519][232].
+2023-04-08_03:00:00 INFO [BloodCastle - 3] BloodCastle::SetState_Open
+2023-04-08_03:00:00 INFO [BloodCastle - 4] Added Monster [20520][232].
+2023-04-08_03:00:00 INFO [BloodCastle - 4] BloodCastle::SetState_Open
+2023-04-08_03:00:00 INFO [BloodCastle - 5] Added Monster [20521][232].
+2023-04-08_03:00:00 INFO [BloodCastle - 5] BloodCastle::SetState_Open
+2023-04-08_03:00:00 INFO [BloodCastle - 6] Added Monster [20522][232].
+2023-04-08_03:00:00 INFO [BloodCastle - 6] BloodCastle::SetState_Open
+2023-04-08_03:00:01 INFO [BloodCastle - 7] Added Monster [20523][232].
+2023-04-08_03:00:01 INFO [BloodCastle - 7] BloodCastle::SetState_Open
+2023-04-08_03:00:01 INFO [BloodCastleMgr] SetState_Open()
+2023-04-08_03:05:01 INFO [BloodCastle - 1] BloodCastle::SetState_StandBy
+2023-04-08_03:05:01 INFO [BloodCastle - 2] BloodCastle::SetState_StandBy
+2023-04-08_03:05:01 INFO [BloodCastle - 3] BloodCastle::SetState_StandBy
+2023-04-08_03:05:01 INFO [BloodCastle - 4] BloodCastle::SetState_StandBy
+2023-04-08_03:05:01 INFO [BloodCastle - 5] BloodCastle::SetState_StandBy
+2023-04-08_03:05:01 INFO [BloodCastle - 6] BloodCastle::SetState_StandBy
+2023-04-08_03:05:01 INFO [BloodCastle - 7] BloodCastle::SetState_StandBy
+2023-04-08_03:05:01 INFO [BloodCastleMgr] SetState_Playing()
+2023-04-08_03:06:01 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_03:06:01 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_03:06:01 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_03:06:01 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_03:06:01 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_03:06:01 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_03:06:01 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_03:06:01 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_03:06:01 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_03:06:01 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_03:06:01 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_03:06:02 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_03:06:02 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_03:06:02 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_03:06:02 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_03:06:02 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_03:06:02 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_03:06:02 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_03:06:02 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_03:06:02 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_03:06:02 INFO [BloodCastle - 7] BloodCastle::SetState_None
+2023-04-08_03:06:02 INFO [BloodCastleMgr] SetState_None()
+2023-04-08_04:00:01 INFO [BloodCastle - 1] Added Monster [20572][232].
+2023-04-08_04:00:01 INFO [BloodCastle - 1] BloodCastle::SetState_Open
+2023-04-08_04:00:01 INFO [BloodCastle - 2] Added Monster [20573][232].
+2023-04-08_04:00:01 INFO [BloodCastle - 2] BloodCastle::SetState_Open
+2023-04-08_04:00:01 INFO [BloodCastle - 3] Added Monster [20574][232].
+2023-04-08_04:00:01 INFO [BloodCastle - 3] BloodCastle::SetState_Open
+2023-04-08_04:00:01 INFO [BloodCastle - 4] Added Monster [20575][232].
+2023-04-08_04:00:01 INFO [BloodCastle - 4] BloodCastle::SetState_Open
+2023-04-08_04:00:01 INFO [BloodCastle - 5] Added Monster [20576][232].
+2023-04-08_04:00:01 INFO [BloodCastle - 5] BloodCastle::SetState_Open
+2023-04-08_04:00:01 INFO [BloodCastle - 6] Added Monster [20577][232].
+2023-04-08_04:00:01 INFO [BloodCastle - 6] BloodCastle::SetState_Open
+2023-04-08_04:00:01 INFO [BloodCastle - 7] Added Monster [20578][232].
+2023-04-08_04:00:01 INFO [BloodCastle - 7] BloodCastle::SetState_Open
+2023-04-08_04:00:01 INFO [BloodCastleMgr] SetState_Open()
+2023-04-08_04:05:01 INFO [BloodCastle - 1] BloodCastle::SetState_StandBy
+2023-04-08_04:05:01 INFO [BloodCastle - 2] BloodCastle::SetState_StandBy
+2023-04-08_04:05:01 INFO [BloodCastle - 3] BloodCastle::SetState_StandBy
+2023-04-08_04:05:01 INFO [BloodCastle - 4] BloodCastle::SetState_StandBy
+2023-04-08_04:05:01 INFO [BloodCastle - 5] BloodCastle::SetState_StandBy
+2023-04-08_04:05:01 INFO [BloodCastle - 6] BloodCastle::SetState_StandBy
+2023-04-08_04:05:01 INFO [BloodCastle - 7] BloodCastle::SetState_StandBy
+2023-04-08_04:05:02 INFO [BloodCastleMgr] SetState_Playing()
+2023-04-08_04:06:01 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_04:06:01 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_04:06:01 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_04:06:01 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_04:06:01 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_04:06:01 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_04:06:01 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_04:06:01 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_04:06:02 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_04:06:02 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_04:06:02 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_04:06:02 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_04:06:02 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_04:06:02 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_04:06:02 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_04:06:02 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_04:06:02 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_04:06:02 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_04:06:02 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_04:06:02 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_04:06:02 INFO [BloodCastle - 7] BloodCastle::SetState_None
+2023-04-08_04:06:02 INFO [BloodCastleMgr] SetState_None()
+2023-04-08_05:00:00 INFO [BloodCastle - 1] Added Monster [20828][232].
+2023-04-08_05:00:01 INFO [BloodCastle - 1] BloodCastle::SetState_Open
+2023-04-08_05:00:01 INFO [BloodCastle - 2] Added Monster [20829][232].
+2023-04-08_05:00:01 INFO [BloodCastle - 2] BloodCastle::SetState_Open
+2023-04-08_05:00:01 INFO [BloodCastle - 3] Added Monster [20830][232].
+2023-04-08_05:00:01 INFO [BloodCastle - 3] BloodCastle::SetState_Open
+2023-04-08_05:00:01 INFO [BloodCastle - 4] Added Monster [20831][232].
+2023-04-08_05:00:01 INFO [BloodCastle - 4] BloodCastle::SetState_Open
+2023-04-08_05:00:01 INFO [BloodCastle - 5] Added Monster [20832][232].
+2023-04-08_05:00:01 INFO [BloodCastle - 5] BloodCastle::SetState_Open
+2023-04-08_05:00:01 INFO [BloodCastle - 6] Added Monster [20833][232].
+2023-04-08_05:00:01 INFO [BloodCastle - 6] BloodCastle::SetState_Open
+2023-04-08_05:00:01 INFO [BloodCastle - 7] Added Monster [20834][232].
+2023-04-08_05:00:01 INFO [BloodCastle - 7] BloodCastle::SetState_Open
+2023-04-08_05:00:01 INFO [BloodCastleMgr] SetState_Open()
+2023-04-08_05:05:01 INFO [BloodCastle - 1] BloodCastle::SetState_StandBy
+2023-04-08_05:05:02 INFO [BloodCastle - 2] BloodCastle::SetState_StandBy
+2023-04-08_05:05:02 INFO [BloodCastle - 3] BloodCastle::SetState_StandBy
+2023-04-08_05:05:02 INFO [BloodCastle - 4] BloodCastle::SetState_StandBy
+2023-04-08_05:05:02 INFO [BloodCastle - 5] BloodCastle::SetState_StandBy
+2023-04-08_05:05:02 INFO [BloodCastle - 6] BloodCastle::SetState_StandBy
+2023-04-08_05:05:02 INFO [BloodCastle - 7] BloodCastle::SetState_StandBy
+2023-04-08_05:05:02 INFO [BloodCastleMgr] SetState_Playing()
+2023-04-08_05:06:01 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_05:06:02 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_05:06:02 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_05:06:02 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_05:06:02 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_05:06:02 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_05:06:02 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_05:06:02 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_05:06:02 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_05:06:02 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_05:06:02 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_05:06:02 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_05:06:02 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_05:06:02 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_05:06:02 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_05:06:02 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_05:06:02 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_05:06:02 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_05:06:02 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_05:06:02 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_05:06:03 INFO [BloodCastle - 7] BloodCastle::SetState_None
+2023-04-08_05:06:03 INFO [BloodCastleMgr] SetState_None()
+2023-04-08_06:00:00 INFO [BloodCastle - 1] Added Monster [20900][232].
+2023-04-08_06:00:00 INFO [BloodCastle - 1] BloodCastle::SetState_Open
+2023-04-08_06:00:00 INFO [BloodCastle - 2] Added Monster [20901][232].
+2023-04-08_06:00:00 INFO [BloodCastle - 2] BloodCastle::SetState_Open
+2023-04-08_06:00:00 INFO [BloodCastle - 3] Added Monster [20902][232].
+2023-04-08_06:00:00 INFO [BloodCastle - 3] BloodCastle::SetState_Open
+2023-04-08_06:00:01 INFO [BloodCastle - 4] Added Monster [20903][232].
+2023-04-08_06:00:01 INFO [BloodCastle - 4] BloodCastle::SetState_Open
+2023-04-08_06:00:01 INFO [BloodCastle - 5] Added Monster [20904][232].
+2023-04-08_06:00:02 INFO [BloodCastle - 5] BloodCastle::SetState_Open
+2023-04-08_06:00:02 INFO [BloodCastle - 6] Added Monster [20905][232].
+2023-04-08_06:00:02 INFO [BloodCastle - 6] BloodCastle::SetState_Open
+2023-04-08_06:00:02 INFO [BloodCastle - 7] Added Monster [20906][232].
+2023-04-08_06:00:02 INFO [BloodCastle - 7] BloodCastle::SetState_Open
+2023-04-08_06:00:02 INFO [BloodCastleMgr] SetState_Open()
+2023-04-08_06:05:02 INFO [BloodCastle - 1] BloodCastle::SetState_StandBy
+2023-04-08_06:05:02 INFO [BloodCastle - 2] BloodCastle::SetState_StandBy
+2023-04-08_06:05:02 INFO [BloodCastle - 3] BloodCastle::SetState_StandBy
+2023-04-08_06:05:02 INFO [BloodCastle - 4] BloodCastle::SetState_StandBy
+2023-04-08_06:05:02 INFO [BloodCastle - 5] BloodCastle::SetState_StandBy
+2023-04-08_06:05:02 INFO [BloodCastle - 6] BloodCastle::SetState_StandBy
+2023-04-08_06:05:02 INFO [BloodCastle - 7] BloodCastle::SetState_StandBy
+2023-04-08_06:05:02 INFO [BloodCastleMgr] SetState_Playing()
+2023-04-08_06:06:02 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_06:06:02 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_06:06:02 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_06:06:02 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_06:06:02 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_06:06:02 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_06:06:02 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_06:06:02 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_06:06:02 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_06:06:03 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_06:06:03 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_06:06:03 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_06:06:03 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_06:06:03 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_06:06:03 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_06:06:03 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_06:06:03 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_06:06:03 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_06:06:03 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_06:06:03 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_06:06:03 INFO [BloodCastle - 7] BloodCastle::SetState_None
+2023-04-08_06:06:03 INFO [BloodCastleMgr] SetState_None()
+2023-04-08_07:00:01 INFO [BloodCastle - 1] Added Monster [20943][232].
+2023-04-08_07:00:01 INFO [BloodCastle - 1] BloodCastle::SetState_Open
+2023-04-08_07:00:01 INFO [BloodCastle - 2] Added Monster [20944][232].
+2023-04-08_07:00:01 INFO [BloodCastle - 2] BloodCastle::SetState_Open
+2023-04-08_07:00:01 INFO [BloodCastle - 3] Added Monster [20945][232].
+2023-04-08_07:00:01 INFO [BloodCastle - 3] BloodCastle::SetState_Open
+2023-04-08_07:00:01 INFO [BloodCastle - 4] Added Monster [20946][232].
+2023-04-08_07:00:01 INFO [BloodCastle - 4] BloodCastle::SetState_Open
+2023-04-08_07:00:01 INFO [BloodCastle - 5] Added Monster [20947][232].
+2023-04-08_07:00:01 INFO [BloodCastle - 5] BloodCastle::SetState_Open
+2023-04-08_07:00:01 INFO [BloodCastle - 6] Added Monster [20948][232].
+2023-04-08_07:00:01 INFO [BloodCastle - 6] BloodCastle::SetState_Open
+2023-04-08_07:00:01 INFO [BloodCastle - 7] Added Monster [20949][232].
+2023-04-08_07:00:01 INFO [BloodCastle - 7] BloodCastle::SetState_Open
+2023-04-08_07:00:01 INFO [BloodCastleMgr] SetState_Open()
+2023-04-08_07:05:01 INFO [BloodCastle - 1] BloodCastle::SetState_StandBy
+2023-04-08_07:05:02 INFO [BloodCastle - 2] BloodCastle::SetState_StandBy
+2023-04-08_07:05:02 INFO [BloodCastle - 3] BloodCastle::SetState_StandBy
+2023-04-08_07:05:02 INFO [BloodCastle - 4] BloodCastle::SetState_StandBy
+2023-04-08_07:05:02 INFO [BloodCastle - 5] BloodCastle::SetState_StandBy
+2023-04-08_07:05:02 INFO [BloodCastle - 6] BloodCastle::SetState_StandBy
+2023-04-08_07:05:02 INFO [BloodCastle - 7] BloodCastle::SetState_StandBy
+2023-04-08_07:05:02 INFO [BloodCastleMgr] SetState_Playing()
+2023-04-08_07:06:02 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_07:06:02 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_07:06:02 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_07:06:02 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_07:06:02 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_07:06:02 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_07:06:02 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_07:06:02 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_07:06:02 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_07:06:02 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_07:06:02 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_07:06:02 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_07:06:02 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_07:06:02 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_07:06:02 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_07:06:03 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_07:06:03 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_07:06:03 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_07:06:03 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_07:06:03 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_07:06:03 INFO [BloodCastle - 7] BloodCastle::SetState_None
+2023-04-08_07:06:03 INFO [BloodCastleMgr] SetState_None()
+2023-04-08_08:00:01 INFO [BloodCastle - 1] Added Monster [21003][232].
+2023-04-08_08:00:01 INFO [BloodCastle - 1] BloodCastle::SetState_Open
+2023-04-08_08:00:01 INFO [BloodCastle - 2] Added Monster [21004][232].
+2023-04-08_08:00:01 INFO [BloodCastle - 2] BloodCastle::SetState_Open
+2023-04-08_08:00:01 INFO [BloodCastle - 3] Added Monster [21005][232].
+2023-04-08_08:00:01 INFO [BloodCastle - 3] BloodCastle::SetState_Open
+2023-04-08_08:00:01 INFO [BloodCastle - 4] Added Monster [21006][232].
+2023-04-08_08:00:01 INFO [BloodCastle - 4] BloodCastle::SetState_Open
+2023-04-08_08:00:01 INFO [BloodCastle - 5] Added Monster [21007][232].
+2023-04-08_08:00:01 INFO [BloodCastle - 5] BloodCastle::SetState_Open
+2023-04-08_08:00:01 INFO [BloodCastle - 6] Added Monster [21008][232].
+2023-04-08_08:00:01 INFO [BloodCastle - 6] BloodCastle::SetState_Open
+2023-04-08_08:00:01 INFO [BloodCastle - 7] Added Monster [21009][232].
+2023-04-08_08:00:02 INFO [BloodCastle - 7] BloodCastle::SetState_Open
+2023-04-08_08:00:02 INFO [BloodCastleMgr] SetState_Open()
+2023-04-08_08:05:02 INFO [BloodCastle - 1] BloodCastle::SetState_StandBy
+2023-04-08_08:05:02 INFO [BloodCastle - 2] BloodCastle::SetState_StandBy
+2023-04-08_08:05:02 INFO [BloodCastle - 3] BloodCastle::SetState_StandBy
+2023-04-08_08:05:02 INFO [BloodCastle - 4] BloodCastle::SetState_StandBy
+2023-04-08_08:05:02 INFO [BloodCastle - 5] BloodCastle::SetState_StandBy
+2023-04-08_08:05:02 INFO [BloodCastle - 6] BloodCastle::SetState_StandBy
+2023-04-08_08:05:02 INFO [BloodCastle - 7] BloodCastle::SetState_StandBy
+2023-04-08_08:05:02 INFO [BloodCastleMgr] SetState_Playing()
+2023-04-08_08:06:02 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_08:06:02 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_08:06:02 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_08:06:02 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_08:06:02 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_08:06:02 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_08:06:02 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_08:06:02 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_08:06:02 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_08:06:02 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_08:06:02 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_08:06:03 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_08:06:03 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_08:06:03 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_08:06:03 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_08:06:03 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_08:06:03 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_08:06:03 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_08:06:03 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_08:06:03 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_08:06:03 INFO [BloodCastle - 7] BloodCastle::SetState_None
+2023-04-08_08:06:03 INFO [BloodCastleMgr] SetState_None()
+2023-04-08_09:00:01 INFO [BloodCastle - 1] Added Monster [21049][232].
+2023-04-08_09:00:01 INFO [BloodCastle - 1] BloodCastle::SetState_Open
+2023-04-08_09:00:01 INFO [BloodCastle - 2] Added Monster [21050][232].
+2023-04-08_09:00:01 INFO [BloodCastle - 2] BloodCastle::SetState_Open
+2023-04-08_09:00:01 INFO [BloodCastle - 3] Added Monster [21051][232].
+2023-04-08_09:00:01 INFO [BloodCastle - 3] BloodCastle::SetState_Open
+2023-04-08_09:00:01 INFO [BloodCastle - 4] Added Monster [21052][232].
+2023-04-08_09:00:01 INFO [BloodCastle - 4] BloodCastle::SetState_Open
+2023-04-08_09:00:01 INFO [BloodCastle - 5] Added Monster [21053][232].
+2023-04-08_09:00:01 INFO [BloodCastle - 5] BloodCastle::SetState_Open
+2023-04-08_09:00:01 INFO [BloodCastle - 6] Added Monster [21054][232].
+2023-04-08_09:00:01 INFO [BloodCastle - 6] BloodCastle::SetState_Open
+2023-04-08_09:00:01 INFO [BloodCastle - 7] Added Monster [21055][232].
+2023-04-08_09:00:02 INFO [BloodCastle - 7] BloodCastle::SetState_Open
+2023-04-08_09:00:02 INFO [BloodCastleMgr] SetState_Open()
+2023-04-08_09:05:02 INFO [BloodCastle - 1] BloodCastle::SetState_StandBy
+2023-04-08_09:05:02 INFO [BloodCastle - 2] BloodCastle::SetState_StandBy
+2023-04-08_09:05:02 INFO [BloodCastle - 3] BloodCastle::SetState_StandBy
+2023-04-08_09:05:02 INFO [BloodCastle - 4] BloodCastle::SetState_StandBy
+2023-04-08_09:05:02 INFO [BloodCastle - 5] BloodCastle::SetState_StandBy
+2023-04-08_09:05:02 INFO [BloodCastle - 6] BloodCastle::SetState_StandBy
+2023-04-08_09:05:02 INFO [BloodCastle - 7] BloodCastle::SetState_StandBy
+2023-04-08_09:05:02 INFO [BloodCastleMgr] SetState_Playing()
+2023-04-08_09:06:02 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_09:06:02 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_09:06:02 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_09:06:02 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_09:06:02 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_09:06:02 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_09:06:02 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_09:06:02 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_09:06:02 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_09:06:02 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_09:06:02 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_09:06:03 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_09:06:03 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_09:06:03 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_09:06:03 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_09:06:03 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_09:06:03 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_09:06:03 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_09:06:03 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_09:06:03 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_09:06:03 INFO [BloodCastle - 7] BloodCastle::SetState_None
+2023-04-08_09:06:03 INFO [BloodCastleMgr] SetState_None()
+2023-04-08_10:00:00 INFO [BloodCastle - 1] Added Monster [21091][232].
+2023-04-08_10:00:00 INFO [BloodCastle - 1] BloodCastle::SetState_Open
+2023-04-08_10:00:00 INFO [BloodCastle - 2] Added Monster [21092][232].
+2023-04-08_10:00:01 INFO [BloodCastle - 2] BloodCastle::SetState_Open
+2023-04-08_10:00:01 INFO [BloodCastle - 3] Added Monster [21093][232].
+2023-04-08_10:00:02 INFO [BloodCastle - 3] BloodCastle::SetState_Open
+2023-04-08_10:00:02 INFO [BloodCastle - 4] Added Monster [21094][232].
+2023-04-08_10:00:02 INFO [BloodCastle - 4] BloodCastle::SetState_Open
+2023-04-08_10:00:02 INFO [BloodCastle - 5] Added Monster [21095][232].
+2023-04-08_10:00:02 INFO [BloodCastle - 5] BloodCastle::SetState_Open
+2023-04-08_10:00:02 INFO [BloodCastle - 6] Added Monster [21096][232].
+2023-04-08_10:00:02 INFO [BloodCastle - 6] BloodCastle::SetState_Open
+2023-04-08_10:00:02 INFO [BloodCastle - 7] Added Monster [21097][232].
+2023-04-08_10:00:02 INFO [BloodCastle - 7] BloodCastle::SetState_Open
+2023-04-08_10:00:02 INFO [BloodCastleMgr] SetState_Open()
+2023-04-08_10:05:02 INFO [BloodCastle - 1] BloodCastle::SetState_StandBy
+2023-04-08_10:05:02 INFO [BloodCastle - 2] BloodCastle::SetState_StandBy
+2023-04-08_10:05:02 INFO [BloodCastle - 3] BloodCastle::SetState_StandBy
+2023-04-08_10:05:03 INFO [BloodCastle - 4] BloodCastle::SetState_StandBy
+2023-04-08_10:05:03 INFO [BloodCastle - 5] BloodCastle::SetState_StandBy
+2023-04-08_10:05:03 INFO [BloodCastle - 6] BloodCastle::SetState_StandBy
+2023-04-08_10:05:03 INFO [BloodCastle - 7] BloodCastle::SetState_StandBy
+2023-04-08_10:05:04 INFO [BloodCastleMgr] SetState_Playing()
+2023-04-08_10:06:02 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_10:06:02 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_10:06:03 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_10:06:03 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_10:06:03 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_10:06:03 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_10:06:03 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_10:06:03 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_10:06:03 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_10:06:03 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_10:06:03 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_10:06:03 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_10:06:04 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_10:06:04 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_10:06:04 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_10:06:04 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_10:06:04 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_10:06:04 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_10:06:04 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_10:06:04 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_10:06:04 INFO [BloodCastle - 7] BloodCastle::SetState_None
+2023-04-08_10:06:04 INFO [BloodCastleMgr] SetState_None()
+2023-04-08_11:00:02 INFO [BloodCastle - 1] Added Monster [21344][232].
+2023-04-08_11:00:02 INFO [BloodCastle - 1] BloodCastle::SetState_Open
+2023-04-08_11:00:02 INFO [BloodCastle - 2] Added Monster [21345][232].
+2023-04-08_11:00:02 INFO [BloodCastle - 2] BloodCastle::SetState_Open
+2023-04-08_11:00:02 INFO [BloodCastle - 3] Added Monster [21346][232].
+2023-04-08_11:00:02 INFO [BloodCastle - 3] BloodCastle::SetState_Open
+2023-04-08_11:00:03 INFO [BloodCastle - 4] Added Monster [21347][232].
+2023-04-08_11:00:03 INFO [BloodCastle - 4] BloodCastle::SetState_Open
+2023-04-08_11:00:03 INFO [BloodCastle - 5] Added Monster [21348][232].
+2023-04-08_11:00:03 INFO [BloodCastle - 5] BloodCastle::SetState_Open
+2023-04-08_11:00:03 INFO [BloodCastle - 6] Added Monster [21349][232].
+2023-04-08_11:00:03 INFO [BloodCastle - 6] BloodCastle::SetState_Open
+2023-04-08_11:00:03 INFO [BloodCastle - 7] Added Monster [21350][232].
+2023-04-08_11:00:03 INFO [BloodCastle - 7] BloodCastle::SetState_Open
+2023-04-08_11:00:03 INFO [BloodCastleMgr] SetState_Open()
+2023-04-08_11:05:03 INFO [BloodCastle - 1] BloodCastle::SetState_StandBy
+2023-04-08_11:05:03 INFO [BloodCastle - 2] BloodCastle::SetState_StandBy
+2023-04-08_11:05:03 INFO [BloodCastle - 3] BloodCastle::SetState_StandBy
+2023-04-08_11:05:03 INFO [BloodCastle - 4] BloodCastle::SetState_StandBy
+2023-04-08_11:05:03 INFO [BloodCastle - 5] BloodCastle::SetState_StandBy
+2023-04-08_11:05:04 INFO [BloodCastle - 6] BloodCastle::SetState_StandBy
+2023-04-08_11:05:04 INFO [BloodCastle - 7] BloodCastle::SetState_StandBy
+2023-04-08_11:05:04 INFO [BloodCastleMgr] SetState_Playing()
+2023-04-08_11:06:03 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_11:06:03 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_11:06:03 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_11:06:03 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_11:06:04 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_11:06:04 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_11:06:04 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_11:06:04 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_11:06:04 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_11:06:04 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_11:06:04 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_11:06:04 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_11:06:04 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_11:06:04 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_11:06:04 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_11:06:04 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_11:06:05 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_11:06:05 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_11:06:05 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_11:06:05 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_11:06:05 INFO [BloodCastle - 7] BloodCastle::SetState_None
+2023-04-08_11:06:05 INFO [BloodCastleMgr] SetState_None()
+2023-04-08_12:00:02 INFO [BloodCastle - 1] Added Monster [21430][232].
+2023-04-08_12:00:02 INFO [BloodCastle - 1] BloodCastle::SetState_Open
+2023-04-08_12:00:02 INFO [BloodCastle - 2] Added Monster [21431][232].
+2023-04-08_12:00:03 INFO [BloodCastle - 2] BloodCastle::SetState_Open
+2023-04-08_12:00:03 INFO [BloodCastle - 3] Added Monster [21432][232].
+2023-04-08_12:00:03 INFO [BloodCastle - 3] BloodCastle::SetState_Open
+2023-04-08_12:00:03 INFO [BloodCastle - 4] Added Monster [21433][232].
+2023-04-08_12:00:03 INFO [BloodCastle - 4] BloodCastle::SetState_Open
+2023-04-08_12:00:03 INFO [BloodCastle - 5] Added Monster [21434][232].
+2023-04-08_12:00:03 INFO [BloodCastle - 5] BloodCastle::SetState_Open
+2023-04-08_12:00:03 INFO [BloodCastle - 6] Added Monster [21435][232].
+2023-04-08_12:00:03 INFO [BloodCastle - 6] BloodCastle::SetState_Open
+2023-04-08_12:00:03 INFO [BloodCastle - 7] Added Monster [21436][232].
+2023-04-08_12:00:03 INFO [BloodCastle - 7] BloodCastle::SetState_Open
+2023-04-08_12:00:04 INFO [BloodCastleMgr] SetState_Open()
+2023-04-08_12:05:04 INFO [BloodCastle - 1] BloodCastle::SetState_StandBy
+2023-04-08_12:05:04 INFO [BloodCastle - 2] BloodCastle::SetState_StandBy
+2023-04-08_12:05:04 INFO [BloodCastle - 3] BloodCastle::SetState_StandBy
+2023-04-08_12:05:04 INFO [BloodCastle - 4] BloodCastle::SetState_StandBy
+2023-04-08_12:05:04 INFO [BloodCastle - 5] BloodCastle::SetState_StandBy
+2023-04-08_12:05:04 INFO [BloodCastle - 6] BloodCastle::SetState_StandBy
+2023-04-08_12:05:04 INFO [BloodCastle - 7] BloodCastle::SetState_StandBy
+2023-04-08_12:05:04 INFO [BloodCastleMgr] SetState_Playing()
+2023-04-08_12:06:04 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_12:06:04 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_12:06:04 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_12:06:04 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_12:06:04 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_12:06:04 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_12:06:04 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_12:06:04 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_12:06:04 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_12:06:04 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_12:06:04 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_12:06:05 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_12:06:05 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_12:06:05 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_12:06:05 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_12:06:05 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_12:06:05 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_12:06:05 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_12:06:05 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_12:06:05 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_12:06:05 INFO [BloodCastle - 7] BloodCastle::SetState_None
+2023-04-08_12:06:06 INFO [BloodCastleMgr] SetState_None()
+2023-04-08_13:00:00 INFO [BloodCastle - 1] Added Monster [21691][232].
+2023-04-08_13:00:01 INFO [BloodCastle - 1] BloodCastle::SetState_Open
+2023-04-08_13:00:01 INFO [BloodCastle - 2] Added Monster [21692][232].
+2023-04-08_13:00:01 INFO [BloodCastle - 2] BloodCastle::SetState_Open
+2023-04-08_13:00:01 INFO [BloodCastle - 3] Added Monster [21693][232].
+2023-04-08_13:00:01 INFO [BloodCastle - 3] BloodCastle::SetState_Open
+2023-04-08_13:00:01 INFO [BloodCastle - 4] Added Monster [21694][232].
+2023-04-08_13:00:01 INFO [BloodCastle - 4] BloodCastle::SetState_Open
+2023-04-08_13:00:01 INFO [BloodCastle - 5] Added Monster [21695][232].
+2023-04-08_13:00:02 INFO [BloodCastle - 5] BloodCastle::SetState_Open
+2023-04-08_13:00:02 INFO [BloodCastle - 6] Added Monster [21696][232].
+2023-04-08_13:00:02 INFO [BloodCastle - 6] BloodCastle::SetState_Open
+2023-04-08_13:00:02 INFO [BloodCastle - 7] Added Monster [21697][232].
+2023-04-08_13:00:02 INFO [BloodCastle - 7] BloodCastle::SetState_Open
+2023-04-08_13:00:02 INFO [BloodCastleMgr] SetState_Open()
+2023-04-08_13:05:02 INFO [BloodCastle - 1] BloodCastle::SetState_StandBy
+2023-04-08_13:05:02 INFO [BloodCastle - 2] BloodCastle::SetState_StandBy
+2023-04-08_13:05:02 INFO [BloodCastle - 3] BloodCastle::SetState_StandBy
+2023-04-08_13:05:03 INFO [BloodCastle - 4] BloodCastle::SetState_StandBy
+2023-04-08_13:05:03 INFO [BloodCastle - 5] BloodCastle::SetState_StandBy
+2023-04-08_13:05:03 INFO [BloodCastle - 6] BloodCastle::SetState_StandBy
+2023-04-08_13:05:03 INFO [BloodCastle - 7] BloodCastle::SetState_StandBy
+2023-04-08_13:05:03 INFO [BloodCastleMgr] SetState_Playing()
+2023-04-08_13:06:02 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_13:06:02 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_13:06:02 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_13:06:03 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_13:06:03 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_13:06:03 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_13:06:03 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_13:06:03 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_13:06:03 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_13:06:03 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_13:06:03 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_13:06:04 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_13:06:04 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_13:06:04 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_13:06:04 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_13:06:04 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_13:06:04 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_13:06:04 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_13:06:04 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_13:06:05 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_13:06:05 INFO [BloodCastle - 7] BloodCastle::SetState_None
+2023-04-08_13:06:06 INFO [BloodCastleMgr] SetState_None()
+2023-04-08_13:11:01 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_13:11:01 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_13:11:01 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_13:11:01 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_13:11:01 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_13:11:01 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_13:11:01 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_13:11:01 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_13:11:01 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_13:11:01 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_13:11:01 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_13:11:01 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_13:11:01 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_13:11:01 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_13:11:01 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_13:11:01 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_13:11:01 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_13:11:01 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_13:11:01 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_13:11:01 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_13:11:01 INFO [BloodCastle - 7] BloodCastle::SetState_None

@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == 				MUONLINE SERVER EMULATOR				 ==
+// == 				   POWERED BY DevEMU				 	 ==
+// ==                  File Name: MiniMap                    ==
+// ============================================================
+-->
+
+<MiniMap>
+	<!-- Start Lorencia -->
+	<Option WorldID="0" Index="17" Group="0" Type="1" X="177" Y="30" Text="Entrance to Deep Dungeon" />
+	<Option WorldID="0"	Index="0" Group="1" Type="2" X="96" Y="129"	Text="Buff" />
+	<Option WorldID="0"	Index="1" Group="1" Type="2" X="132" Y="165" Text="Buff" />
+	<Option WorldID="0"	Index="2" Group="1" Type="2" X="132" Y="90"	Text="Buff" />
+	<Option WorldID="0"	Index="3" Group="1" Type="2" X="170" Y="129" Text="Buff" />
+	<Option WorldID="0"	Index="4" Group="1" Type="1" X="182" Y="127" Text="Spiders (LVL2)" />
+	<Option WorldID="0"	Index="5" Group="1" Type="5" X="147" Y="110" Text="Bank" />
+	<Option WorldID="0"	Index="6" Group="1" Type="5" X="148" Y="147" Text="Bank" />
+	<Option WorldID="0"	Index="7" Group="1" Type="2" X="143" Y="136" Text="Seed & Errtel" />
+	<Option WorldID="0"	Index="8" Group="1" Type="4" X="118" Y="111" Text="(Magic) Gear Shop" />
+	<Option WorldID="0"	Index="9" Group="1" Type="3" X="124" Y="145" Text="(Melee) Gear Shop" />
+	<Option WorldID="0"	Index="10" Group="1" Type="4" X="124" Y="133" Text="General Shop" />
+	<Option WorldID="0"	Index="11" Group="1" Type="3" X="132" Y="124" Text="Skill Shop" />
+	<Option WorldID="0"	Index="12" Group="1" Type="2" X="148" Y="119" Text="Upgrade System" />
+	<Option WorldID="0"	Index="13" Group="1" Type="2" X="141" Y="127" Text="Gens" />
+	<Option WorldID="0"	Index="14" Group="1" Type="1" X="137" Y="81" Text="Bullfighter (LVL6)" />
+	<Option WorldID="0"	Index="15" Group="1" Type="1" X="91" Y="120" Text="Giant (LVL17)" />
+	<Option WorldID="0"	Index="16" Group="1" Type="1" X="137" Y="172" Text="Lich (LVL14)" />
+	<Option WorldID="0" Index="18" Group="1" Type="2" X="132" Y="148" Text="(Quest) 4th" />
+	<Option WorldID="0"	Index="19" Group="1" Type="4" X="130" Y="116" Text="Wing Shop" />
+	<!-- End Lorencia -->
+	<!-- Start Dungeon -->
+	<Option WorldID="1" Index="0" Group="0" Type="1" X="108" Y="249" Text="Entrance to Lorencia" />
+	<Option WorldID="1" Index="1" Group="0" Type="1" X="238" Y="150" Text="Entrance to Dungeon2" />
+	<Option WorldID="1" Index="2" Group="0" Type="1" X="232" Y="128" Text="Entrance to Dungeon1" />
+	<Option WorldID="1" Index="3" Group="0" Type="1" X="1" Y="18" Text="Lv.3 Dungeon West Gate" />
+	<Option WorldID="1" Index="4" Group="0" Type="1" X="5" Y="35" Text="Lv.3 Dungeon East Gate" />
+	<Option WorldID="1" Index="5" Group="0" Type="1" X="1" Y="85" Text="Lv.2 Dungeon West Gate" />
+	<Option WorldID="1" Index="6" Group="0" Type="1" X="29" Y="127" Text="Lv.2 Dungeon East Gate" />
+	<Option WorldID="1" Index="7" Group="1" Type="1" X="105" Y="221" Text="Ghost (LVL32)" />
+	<Option WorldID="1" Index="8" Group="1" Type="1" X="231" Y="108" Text="Archer (LVL34)" />
+	<Option WorldID="1" Index="9" Group="1" Type="1" X="25" Y="82" Text="Knight (LVL48)" />
+	<!-- End Dungeon -->
+	<!-- Start Devias -->
+	<Option WorldID="2" Index="0" Group="0" Type="1" X="244" Y="34" Text="Entrance to Lorencia" />
+	<Option WorldID="2" Index="1" Group="0" Type="1" X="162" Y="248" Text="Entrance to Elbeland" />
+	<Option WorldID="2" Index="2" Group="0" Type="1" X="0" Y="250" Text="Entrance to LostTower" />
+	<Option WorldID="2" Index="3" Group="0" Type="1" X="51" Y="92" Text="Entrance to Raklion" />
+	<Option WorldID="2" Index="0" Group="1" Type="2" X="215" Y="45" Text="Guild System" />
+	<Option WorldID="2" Index="1" Group="1" Type="5" X="218" Y="63" Text="Bank" />
+	<Option WorldID="2" Index="2" Group="1" Type="2" X="219" Y="73" Text="Buff" />
+	<Option WorldID="2" Index="3" Group="1" Type="2" X="172" Y="44" Text="Buff" />
+	<Option WorldID="2" Index="4" Group="1" Type="2" X="183" Y="32" Text="(Quest) 2nd" />
+	<Option WorldID="2" Index="5" Group="1" Type="2" X="184" Y="26" Text="(Quest) 3rd" />
+	<Option WorldID="2" Index="6" Group="1" Type="1" X="224" Y="84" Text="Worm (LVL20)" />
+	<Option WorldID="2" Index="7" Group="1" Type="1" X="36" Y="26" Text="Hommerd (LVL24)" />
+	<Option WorldID="2" Index="8" Group="1" Type="1" X="225" Y="215" Text="Yeti (LVL30)" />
+	<Option WorldID="2" Index="9" Group="1" Type="1" X="60" Y="189" Text="Ice Queen (LVL52)" />
+	<!-- End Devias -->
+	<!-- Start Noria -->
+	<Option WorldID="3" Index="0" Group="0" Type="1" X="151" Y="2" Text="Entrance to Lorencia" />
+	<Option WorldID="3" Index="1" Group="0" Type="1" X="222" Y="29" Text="Entrance to Aida" />
+	<Option WorldID="3" Index="2" Group="0" Type="1" X="242" Y="241" Text="Entrance to Atlans" />
+	<Option WorldID="3" Index="0" Group="1" Type="4" X="171" Y="127" Text="(Range) Gear Shop" />
+	<Option WorldID="3" Index="1" Group="1" Type="3" X="195" Y="124" Text="(Range) Gear Shop" />
+	<Option WorldID="3" Index="2" Group="1" Type="5" X="172" Y="96" Text="Bank" />
+	<Option WorldID="3" Index="3" Group="1" Type="2" X="182" Y="101" Text="Chaos Goblin" />
+	<Option WorldID="3" Index="4" Group="1" Type="2" X="167" Y="118" Text="Buff" />
+	<Option WorldID="3" Index="5" Group="1" Type="2" X="166" Y="85" Text="Buff" />
+	<Option WorldID="3" Index="6" Group="1" Type="2" X="203" Y="127" Text="Buff" />
+	<Option WorldID="3" Index="7" Group="1" Type="1" X="152" Y="103" Text="Goblin (LVL3)" />
+	<Option WorldID="3" Index="8" Group="1" Type="1" X="166" Y="74" Text="Beetle (LVL10)" />
+	<Option WorldID="3" Index="9" Group="1" Type="1" X="213" Y="132" Text="Golem (LVL18)" />
+	<Option WorldID="3" Index="10" Group="1" Type="4" X="172" Y="118" Text="Skill Shop" />
+	<Option WorldID="3" Index="11" Group="1" Type="4" X="177" Y="126" Text="General Shop" />
+	<!-- End Noria -->
+	<!-- Start Losttower -->
+	<Option WorldID="4" Index="0" Group="0" Type="1" X="164" Y="0" Text="Entrance to Devias" />
+	<Option WorldID="4" Index="1" Group="0" Type="1" X="190" Y="5" Text="Entrance to LostTower2" />
+	<Option WorldID="4" Index="2" Group="0" Type="1" X="165" Y="165" Text="Entrance to LostTower3" />
+	<Option WorldID="4" Index="3" Group="0" Type="1" X="133" Y="246" Text="Entrance to LostTower4" />
+	<Option WorldID="4" Index="4" Group="0" Type="1" X="133" Y="136" Text="Entrance to LostTower5" />
+	<Option WorldID="4" Index="5" Group="0" Type="1" X="129" Y="14" Text="Entrance to LostTower6" />
+	<Option WorldID="4" Index="6" Group="0" Type="1" X="4" Y="7" Text="Entrance to LostTower7" />
+	<Option WorldID="4" Index="7" Group="0" Type="1" X="16" Y="250" Text="Entrance to Icarus" />
+	<Option WorldID="4" Index="8" Group="1" Type="1" X="195" Y="103" Text="Shadow (LVL47)" />
+	<Option WorldID="4" Index="9" Group="1" Type="1" X="233" Y="239" Text="Shadow (LVL50)" />
+	<Option WorldID="4" Index="10" Group="1" Type="1" X="99" Y="172" Text="Wizard (LVL54)" />
+	<Option WorldID="4" Index="11" Group="1" Type="1" X="87" Y="104" Text="Deathcow (LVL57)" />
+	<Option WorldID="4" Index="12" Group="1" Type="1" X="124" Y="41" Text="Devil (LVL60)" />
+	<Option WorldID="4" Index="13" Group="1" Type="1" X="37" Y="49" Text="Devil (LVL60)" />
+	<Option WorldID="4" Index="14" Group="1" Type="1" X="53" Y="91" Text="Deathknight (LVL62)" />
+	<!-- End Losttower -->
+	<!-- Start Atlans -->
+	<Option WorldID="7" Index="0" Group="0" Type="1" X="8" Y="8" Text="Entrance to Noria" />
+	<Option WorldID="7" Index="1" Group="0" Type="1" X="9" Y="18" Text="Entrance to Elbeland" />
+	<Option WorldID="7" Index="2" Group="0" Type="1" X="10" Y="228" Text="Entrance to Tarkan" />
+	<Option WorldID="7" Index="3" Group="1" Type="1" X="23" Y="47" Text="Bahamut (LVL43)" />
+	<Option WorldID="7" Index="4" Group="1" Type="1" X="21" Y="103" Text="Vepar (LVL45)" />
+	<Option WorldID="7" Index="5" Group="1" Type="1" X="226" Y="53" Text="Bahamut (LVL66)" />
+	<Option WorldID="7" Index="6" Group="1" Type="1" X="66" Y="166" Text="Valkyrie (LVL68)" />
+	<!-- End Atlans -->
+	<!-- Start Tarkan -->
+	<Option WorldID="8" Index="1" Group="0" Type="1" X="3" Y="199" Text="Entrance to Kanturu" />
+	<Option WorldID="8" Index="0" Group="0" Type="1" X="250" Y="40" Text="Entrance to Atlans" />
+	<Option WorldID="8" Index="1" Group="1" Type="1" X="180" Y="127" Text="Mutant (LVL72)" />
+	<Option WorldID="8" Index="2" Group="1" Type="1" X="88" Y="160" Text="Tantalos (LVL83)" />
+	<!-- End Tarkan -->
+	<!-- Start Icarus -->
+	<Option WorldID="10" Index="0" Group="0" Type="1" X="13" Y="8" Text="Entrance to LostTower" />
+	<Option WorldID="10" Index="1" Group="1" Type="1" X="21" Y="26" Text="Alquamos (LVL75)" />
+	<Option WorldID="10" Index="2" Group="1" Type="1" X="59" Y="32" Text="Queen (LVL82)" />
+	<Option WorldID="10" Index="3" Group="1" Type="1" X="91" Y="45" Text="Megacrust (LVL78)" />
+	<Option WorldID="10" Index="4" Group="1" Type="1" X="76" Y="77" Text="Phantom Knight (LVL96)" />
+	<Option WorldID="10" Index="5" Group="1" Type="1" X="31" Y="77" Text="Drakan (LVL86)" />
+	<Option WorldID="10" Index="6" Group="1" Type="1" X="49" Y="146" Text="Giant Drakan (LVL100)" />
+	<!-- End Icarus -->
+	<Option WorldID="31" Index="0" Group="0" Type="1" X="60" Y="8" Text="Entrance to Valley of Loren" />
+	<!-- Start Aida -->
+	<Option WorldID="33" Index="0" Group="0" Type="1" X="72" Y="10" Text="Entrance to Noria" />
+	<Option WorldID="33" Index="1" Group="0" Type="1" X="238" Y="165" Text="Entrance to Karutan" />
+	<Option WorldID="33" Index="0" Group="1" Type="2" X="78" Y="13" Text="Osbourne" />
+	<Option WorldID="33" Index="1" Group="1" Type="2" X="86" Y="13" Text="Jerridon" />
+	<Option WorldID="33" Index="2" Group="1" Type="1" X="133" Y="19" Text="Golem (LVL74)" />
+	<Option WorldID="33" Index="3" Group="1" Type="1" X="205" Y="167" Text="Queen (LVL84)" />
+	<!-- End Aida -->
+	<!-- Start Crywolf -->
+	<Option WorldID="34" Index="0" Group="0" Type="1" X="238" Y="42" Text="Entrance to Valley of Loren" />
+	<Option WorldID="34" Index="0" Group="1" Type="2" X="228" Y="48" Text="(Quest) 3rd" />
+	<Option WorldID="34" Index="1" Group="1" Type="2" X="62" Y="239" Text="(Quest) 3rd" />
+	<Option WorldID="34" Index="2" Group="1" Type="5" X="113" Y="56" Text="Bank" />
+	<Option WorldID="34" Index="3" Group="1" Type="1" X="197" Y="47" Text="Hammer Scout (LVL97)" />
+	<Option WorldID="34" Index="4" Group="1" Type="1" X="207" Y="77" Text="Werewolf (LVL118)" />
+	<Option WorldID="34" Index="5" Group="1" Type="1" X="238" Y="109" Text="Hero Scout (LVL123)" />
+	<!-- End Crywolf -->
+	<!-- Start Kanturu -->
+	<Option WorldID="37" Index="0" Group="0" Type="1" X="16" Y="222" Text="Entrance to Tarkan" />
+	<Option WorldID="37" Index="1" Group="0" Type="1" X="89" Y="91" Text="Entrance to Kanturu_Remain" />
+	<Option WorldID="37" Index="0" Group="1" Type="1" X="134" Y="225" Text="Splinterwolf (LVL80)" />
+	<Option WorldID="37" Index="1" Group="1" Type="1" X="49" Y="229" Text="Splinterwolf (LVL80)" />
+	<Option WorldID="37" Index="2" Group="1" Type="1" X="233" Y="88" Text="Satyros (LVL85)" />
+	<Option WorldID="37" Index="3" Group="1" Type="1" X="209" Y="38" Text="Satyros (LVL85)" />
+	<Option WorldID="37" Index="4" Group="1" Type="1" X="118" Y="26" Text="Blade Hunter (LVL88)" />
+	<Option WorldID="37" Index="5" Group="1" Type="1" X="176" Y="25" Text="Blade Hunter (LVL88)" />
+	<Option WorldID="37" Index="6" Group="1" Type="1" X="62" Y="30" Text="Genocider (LVL105)" />
+	<Option WorldID="37" Index="7" Group="1" Type="1" X="60" Y="97" Text="Genocider (LVL105)" />
+	<Option WorldID="37" Index="8" Group="1" Type="1" X="65" Y="160" Text="Berserker (LVL123)" />
+	<Option WorldID="37" Index="9" Group="1" Type="1" X="91" Y="126" Text="Kentauros (LVL126)" />
+	<Option WorldID="37" Index="10" Group="1" Type="1" X="167" Y="112" Text="Gigantis (LVL128)" />
+	<!-- End Kanturu -->
+	<!-- Start Kanturu Remain -->
+	<Option WorldID="38" Index="0" Group="0" Type="1" X="66" Y="105" Text="Entrance to Kanturu Ruin" />
+	<Option WorldID="38" Index="1" Group="0" Type="1" X="141" Y="186" Text="Harmony Refinery" />
+	<Option WorldID="38" Index="0" Group="1" Type="1" X="99" Y="80" Text="Twintail (LVL117)" />
+	<Option WorldID="38" Index="1" Group="1" Type="1" X="163" Y="94" Text="Persona (LVL118)" />
+	<Option WorldID="38" Index="2" Group="1" Type="1" X="177" Y="144" Text="Dreadfear (LVL119)" />
+	<Option WorldID="38" Index="3" Group="1" Type="1" X="121" Y="133" Text="Dreadfear (LVL119)" />
+	<!-- End Kanturu Remain -->
+	<Option WorldID="41" Index="0" Group="1" Type="2" X="119" Y="168" Text="Gatekeeper" />
+	<Option WorldID="51" Index="0" Group="0" Type="1" X="248" Y="149" Text="Entrance to Atlans" />
+	<Option WorldID="51" Index="1" Group="0" Type="1" X="19" Y="27" Text="Entrance to Devias" />
+	<Option WorldID="51" Index="1" Group="1" Type="4" X="44" Y="229" Text="General Shop" />
+	<Option WorldID="51" Index="2" Group="1" Type="3" X="29" Y="236" Text="(Melee) Gear Shop" />
+	<Option WorldID="51" Index="3" Group="1" Type="4" X="36" Y="219" Text="(Magic) Gear Shop" />
+	<Option WorldID="51" Index="4" Group="1" Type="2" X="43" Y="191" Text="Buff" />
+	<Option WorldID="51" Index="5" Group="1" Type="2" X="57" Y="232" Text="Buff" />
+	<Option WorldID="51" Index="6" Group="1" Type="2" X="73" Y="220" Text="Buff" />
+	<Option WorldID="51" Index="7" Group="1" Type="5" X="50" Y="229" Text="Bank" />
+	<Option WorldID="51" Index="8" Group="1" Type="2" X="46" Y="243" Text="Seed System" />
+	<Option WorldID="51" Index="9" Group="1" Type="2" X="22" Y="225" Text="Moss System" />
+	<Option WorldID="51" Index="10" Group="1" Type="1" X="106" Y="217" Text="Rabbit (LVL4)" />
+	<Option WorldID="51" Index="11" Group="1" Type="1" X="45" Y="155" Text="Butterfly (LVL13)" />
+	<Option WorldID="51" Index="12" Group="1" Type="1" X="104" Y="67" Text="Lich (LVL30)" />
+	<Option WorldID="51" Index="13" Group="1" Type="1" X="99" Y="34" Text="Werewolf (LVL24)" />
+	<Option WorldID="51" Index="14" Group="1" Type="1" X="191" Y="151" Text="Golem (LVL36)" />
+	<Option WorldID="51" Index="15" Group="1" Type="1" X="204" Y="127" Text="Grizzly (LVL48)" />
+	<Option WorldID="51" Index="16" Group="1" Type="4" X="41" Y="224" Text="Skills Shop" />
+	<!-- Start Swamp of Calmness -->
+	<Option WorldID="56" Index="0" Group="0" Type="1" X="139" Y="125" Text="Entrance (1)" />
+	<Option WorldID="56" Index="1" Group="0" Type="1" X="124" Y="109" Text="Entrance (2)" />
+	<Option WorldID="56" Index="2" Group="0" Type="1" X="140" Y="95" Text="Entrance (3)" />
+	<Option WorldID="56" Index="3" Group="0" Type="1" X="150" Y="109" Text="Entrance (4)" />
+	<Option WorldID="56" Index="4" Group="0" Type="1" X="185" Y="188" Text="Entrance to Safe Zone" />
+	<Option WorldID="56" Index="5" Group="0" Type="1" X="56" Y="177" Text="Entrance to Safe Zone" />
+	<Option WorldID="56" Index="6" Group="0" Type="1" X="68" Y="52" Text="Entrance to Safe Zone" />
+	<Option WorldID="56" Index="7" Group="0" Type="1" X="197" Y="13" Text="Entrance to Safe Zone" />
+	<Option WorldID="56" Index="0" Group="1" Type="1" X="195" Y="226" Text="Sapi-Unus (LVL95)" />
+	<Option WorldID="56" Index="1" Group="1" Type="1" X="219" Y="146" Text="Sapi Queen (LVL131)" />
+	<Option WorldID="56" Index="2" Group="1" Type="1" X="44" Y="229" Text="Thunder Napin (LVL97)" />
+	<Option WorldID="56" Index="3" Group="1" Type="1" X="110" Y="218" Text="Sapi Queen (LVL131)" />
+	<Option WorldID="56" Index="4" Group="1" Type="1" X="20" Y="24" Text="Ghost Napin (LVL106)" />
+	<Option WorldID="56" Index="5" Group="1" Type="1" X="30" Y="118" Text="Shadow Master (LVL137)" />
+	<Option WorldID="56" Index="6" Group="1" Type="1" X="151" Y="37" Text="Shadow Master (LVL137)" />
+	<Option WorldID="56" Index="7" Group="1" Type="1" X="229" Y="83" Text="Ghost Napin (LVL106)" />
+	<!-- End Swamp of Calmness -->
+	<!-- Start Raklion -->
+	<Option WorldID="57" Index="1" Group="0" Type="1" X="169" Y="22" Text="(Boss) Selupan" />
+	<Option WorldID="57" Index="0" Group="0" Type="1" X="224" Y="214" Text="Entrance to Devias" />
+	<Option WorldID="57" Index="0" Group="1" Type="1" X="144" Y="214" Text="Ice Walker (LVL102)" />
+	<Option WorldID="57" Index="1" Group="1" Type="1" X="93" Y="211" Text="Ice Mammoth (LVL112)" />
+	<Option WorldID="57" Index="2" Group="1" Type="1" X="128" Y="140" Text="Ice Giant (LVL122)" />
+	<Option WorldID="57" Index="3" Group="1" Type="1" X="211" Y="100" Text="Coolutin (LVL132)" />
+	<Option WorldID="57" Index="4" Group="1" Type="1" X="215" Y="156" Text="Coolutin (LVL132)" />
+	<Option WorldID="57" Index="5" Group="1" Type="1" X="219" Y="63" Text="Iron Knight (LVL142)" />
+	<Option WorldID="57" Index="6" Group="1" Type="1" X="55" Y="134" Text="Dark Mammoth (LVL140)" />
+	<Option WorldID="57" Index="7" Group="1" Type="1" X="39" Y="208" Text="Dark Giant (LVL143)" />
+	<Option WorldID="57" Index="8" Group="1" Type="1" X="35" Y="55" Text="Dark Coolutin (LVL145)" />
+	<Option WorldID="57" Index="9" Group="1" Type="1" X="127" Y="42" Text="Dark Iron Knight (LVL148)" />
+	<!-- End Raklion -->
+	<Option WorldID="63" Index="0" Group="1" Type="2" X="122" Y="135" Text="Doorkeeper Titus" />
+	<!-- Start Karutan 1 -->
+	<Option WorldID="80" Index="0" Group="0" Type="1" X="115" Y="45" Text="Entrance to Aida" />
+	<Option WorldID="80" Index="1" Group="0" Type="1" X="187" Y="212" Text="Entrance to Karutan 2" />
+	<Option WorldID="80" Index="0" Group="1" Type="4" X="121" Y="102" Text="General Shop" />
+	<Option WorldID="80" Index="1" Group="1" Type="5" X="123" Y="132" Text="Bank" />
+	<Option WorldID="80" Index="2" Group="1" Type="5" X="122" Y="96" Text="Bank" />
+	<Option WorldID="80" Index="3" Group="1" Type="5" X="157" Y="127" Text="Bank" />
+	<Option WorldID="80" Index="4" Group="1" Type="1" X="136" Y="161" Text="Bone Scorpion (LVL103)" />
+	<Option WorldID="80" Index="5" Group="1" Type="1" X="81" Y="122" Text="Orcus (LVL105)" />
+	<Option WorldID="80" Index="6" Group="1" Type="1" X="136" Y="72" Text="Crypos (LVL114)" />
+	<Option WorldID="80" Index="7" Group="1" Type="1" X="181" Y="109" Text="Crypta (LVL111)" />
+	<!-- End Karutan 1 -->
+	<!-- Start Karutan 1 -->
+	<Option WorldID="81" Index="0" Group="0" Type="1" X="162" Y="9" Text="Entrance to Karutan 1" />
+	<Option WorldID="81" Index="0" Group="1" Type="1" X="163" Y="31" Text="Condra (LVL117)" />
+	<Option WorldID="81" Index="1" Group="1" Type="1" X="197" Y="75" Text="Condra (LVL117)" />
+	<Option WorldID="81" Index="2" Group="1" Type="1" X="206" Y="140" Text="Narcondra (LVL120)" />
+	<Option WorldID="81" Index="3" Group="1" Type="1" X="205" Y="167" Text="Narcondra (LVL120)" />
+	<Option WorldID="81" Index="4" Group="1" Type="1" X="134" Y="60" Text="Condra (LVL117)" />
+	<Option WorldID="81" Index="5" Group="1" Type="1" X="72" Y="63" Text="Condra (LVL117)" />
+	<Option WorldID="81" Index="6" Group="1" Type="1" X="68" Y="117" Text="Narcondra (LVL120)" />
+	<Option WorldID="81" Index="7" Group="1" Type="1" X="59" Y="171" Text="Narcondra (LVL120)" />
+	<Option WorldID="81" Index="8" Group="1" Type="1" X="140" Y="123" Text="Narcondra (LVL120)" />
+	<Option WorldID="81" Index="9" Group="1" Type="1" X="136" Y="178" Text="Narcondra (LVL120)" />
+	<!-- End Karutan 2 -->
+	<!-- Start Uruk Mountain -->
+	<Option WorldID="100" Index="2" Group="0" Type="1" X="212" Y="32" Text="Blue Gate" />
+	<Option WorldID="100" Index="4" Group="0" Type="1" X="109" Y="230" Text="Red Gate" />
+	<Option WorldID="100" Index="3" Group="0" Type="1" X="41" Y="98" Text="Red Gate" />
+	<Option WorldID="100" Index="0" Group="0" Type="1" X="24" Y="90" Text="Acheron Village Entrance" />
+	<Option WorldID="100" Index="1" Group="0" Type="1" X="40" Y="82" Text="Blue Gate" />
+	<Option WorldID="100" Index="0" Group="1" Type="1" X="32" Y="37" Text="Devilfairy (LVL115)" />
+	<Option WorldID="100" Index="1" Group="1" Type="1" X="100" Y="11" Text="Elemental Beast (LVL117)" />
+	<Option WorldID="100" Index="2" Group="1" Type="1" X="201" Y="51" Text="Elemental Knight (LVL119)" />
+	<Option WorldID="100" Index="3" Group="1" Type="1" X="236" Y="97" Text="Devilfairy (LVL115)" />
+	<Option WorldID="100" Index="4" Group="1" Type="1" X="238" Y="138" Text="Elemental Beast (LVL117)" />
+	<Option WorldID="100" Index="5" Group="1" Type="1" X="228" Y="170" Text="Elemental Knight (LVL119)" />
+	<Option WorldID="100" Index="6" Group="1" Type="1" X="182" Y="190" Text="Devilfairy (LVL115)" />
+	<Option WorldID="100" Index="7" Group="1" Type="1" X="109" Y="197" Text="Elemental Beast (LVL117)" />
+	<Option WorldID="100" Index="8" Group="1" Type="1" X="87" Y="184" Text="Elemental Knight (LVL119)" />
+	<Option WorldID="100" Index="9" Group="1" Type="1" X="33" Y="151" Text="Devilfairy (LVL115)" />
+	<Option WorldID="100" Index="10" Group="1" Type="1" X="105" Y="125" Text="Devilfairy (LVL115)" />
+	<Option WorldID="100" Index="11" Group="1" Type="1" X="123" Y="87" Text="Elemental Beast (LVL117)" />
+	<Option WorldID="100" Index="12" Group="1" Type="1" X="147" Y="132" Text="Elemental Knight (LVL119)" />
+	<Option WorldID="100" Index="13" Group="1" Type="1" X="128" Y="110" Text="(Boss) Lord Silvester" />
+	<!-- End Uruk Mountain -->
+	<!-- Start Debenter -->
+	<Option WorldID="95" Index="0" Group="0" Type="1" X="17" Y="107" Text="Acheron Village Entrance" />
+	<Option WorldID="95" Index="0" Group="1" Type="1" X="159" Y="55" Text="(Boss) Elementals" />
+	<Option WorldID="95" Index="1" Group="1" Type="1" X="31" Y="60" Text="Devilfairy (LVL105)" />
+	<Option WorldID="95" Index="2" Group="1" Type="1" X="83" Y="27" Text="Elemental Beast (LVL107)" />
+	<Option WorldID="95" Index="3" Group="1" Type="1" X="79" Y="89" Text="Elemental Beast (LVL107)" />
+	<Option WorldID="95" Index="4" Group="1" Type="1" X="121" Y="60" Text="Elemental Knight (LVL109)" />
+	<Option WorldID="95" Index="5" Group="1" Type="1" X="160" Y="20" Text="Elemental Knight (LVL109)" />
+	<Option WorldID="95" Index="6" Group="1" Type="1" X="163" Y="90" Text="Devilfairy (LVL105)" />
+	<Option WorldID="95" Index="7" Group="1" Type="1" X="212" Y="52" Text="Elemental Beast (LVL107)" />
+	<!-- End Debenter -->
+	<!-- Start Acheron -->
+	<Option WorldID="91" Index="11" Group="1" Type="1" X="189" Y="104" Text="(Boss) Elementals" />
+	<Option WorldID="91" Index="10" Group="1" Type="1" X="192" Y="177" Text="Devilfairy (LVL99)" />
+	<Option WorldID="91" Index="9" Group="1" Type="1" X="226" Y="229" Text="Elemental Beast (LVL101)" />
+	<Option WorldID="91" Index="8" Group="1" Type="1" X="227" Y="135" Text="Elemental Knight (LVL103)" />
+	<Option WorldID="91" Index="7" Group="1" Type="1" X="197" Y="52" Text="Devilfairy (LVL99)" />
+	<Option WorldID="91" Index="6" Group="1" Type="1" X="99" Y="37" Text="(Boss) Elementals" />
+	<Option WorldID="91" Index="5" Group="1" Type="1" X="100" Y="121" Text="Devilfairy (LVL88)" />
+	<Option WorldID="91" Index="4" Group="1" Type="1" X="53" Y="112" Text="Elemental Beast (LVL91)" />
+	<Option WorldID="91" Index="3" Group="1" Type="1" X="68" Y="47" Text="Elemental Beast (LVL91)" />
+	<Option WorldID="91" Index="2" Group="1" Type="1" X="151" Y="36" Text="Elemental Knight (LVL93)" />
+	<Option WorldID="91" Index="1" Group="1" Type="1" X="157" Y="139" Text="Elemental Knight (LVL93)" />
+	<Option WorldID="91" Index="0" Group="1" Type="4" X="56" Y="202" Text="Skill Shop" />
+	<Option WorldID="91" Index="6" Group="0" Type="1" X="146" Y="206" Text="Acheron Village Entrance" />
+	<Option WorldID="91" Index="5" Group="0" Type="1" X="116" Y="170" Text="Acheron Village Entrance" />
+	<Option WorldID="91" Index="4" Group="0" Type="1" X="90" Y="182" Text="Nars (LVL116-120)" />
+	<Option WorldID="91" Index="3" Group="0" Type="1" X="64" Y="220" Text="Mount Uruk (LVL115-119)" />
+	<Option WorldID="91" Index="2" Group="0" Type="1" X="52" Y="162" Text="Debenter (LVL105-109)" />
+	<Option WorldID="91" Index="1" Group="0" Type="1" X="84" Y="205" Text="Ubaid (LVL99-103)" />
+	<Option WorldID="91" Index="0" Group="0" Type="1" X="26" Y="170" Text="Alkmar (LVL88-93)" />
+	<!-- End Acheron -->
+	<Option WorldID="79" Index="1" Group="1" Type="2" X="169" Y="58" Text="(Doppelganger)" />
+	<Option WorldID="79" Index="2" Group="1" Type="2" X="234" Y="29" Text="(Imperial Fortress)" />
+	<Option WorldID="79" Index="3" Group="1" Type="2" X="223" Y="92" Text="(Devil Square)" />
+	<Option WorldID="79" Index="4" Group="1" Type="2" X="188" Y="92" Text="(Blood Castle)" />
+	<Option WorldID="79" Index="5" Group="1" Type="2" X="213" Y="67" Text="(Tormented Square)" />
+	<Option WorldID="79" Index="6" Group="1" Type="2" X="202" Y="54" Text="(Illusion Temple)" />
+	<Option WorldID="79" Index="7" Group="1" Type="2" X="195" Y="20" Text="(Imperial Fortress)" />
+	<Option WorldID="79" Index="8" Group="1" Type="2" X="44" Y="73" Text="Bank" />
+	<!-- Start Nars -->
+	<Option WorldID="110" Index="0" Group="0" Type="1" X="178" Y="148" Text="Boss Entrance" />
+	<Option WorldID="110" Index="1" Group="0" Type="1" X="131" Y="172" Text="Boss Exit" />
+	<Option WorldID="110" Index="2" Group="0" Type="1" X="179" Y="185" Text="Red Gate" />
+	<Option WorldID="110" Index="3" Group="0" Type="1" X="127" Y="34" Text="Red Gate" />
+	<Option WorldID="110" Index="4" Group="0" Type="1" X="179" Y="211" Text="Blue Gate" />
+	<Option WorldID="110" Index="5" Group="0" Type="1" X="37" Y="195" Text="Blue Gate" />	
+	<Option WorldID="110" Index="0" Group="1" Type="1" X="207" Y="239" Text="Devilfairy (LVL116)" />
+	<Option WorldID="110" Index="1" Group="1" Type="1" X="143" Y="240" Text="Elemental Beast (LVL118)" />
+	<Option WorldID="110" Index="2" Group="1" Type="1" X="100" Y="194" Text="Elemental Knight (LVL120)" />
+	<Option WorldID="110" Index="3" Group="1" Type="1" X="52" Y="236" Text="Devilfairy (LVL116)" />
+	<Option WorldID="110" Index="4" Group="1" Type="1" X="27" Y="138" Text="Elemental Beast (LVL118)" />
+	<Option WorldID="110" Index="5" Group="1" Type="1" X="74" Y="118" Text="Elemental Knight (LVL120)" />
+	<Option WorldID="110" Index="6" Group="1" Type="1" X="103" Y="126" Text="Devilfairy (LVL116)" />
+	<Option WorldID="110" Index="7" Group="1" Type="1" X="45" Y="66" Text="Elemental Beast (LVL118)" />
+	<Option WorldID="110" Index="8" Group="1" Type="1" X="126" Y="69" Text="Elemental Knight (LVL120)" />
+	<Option WorldID="110" Index="12" Group="1" Type="1" X="110" Y="15" Text="Devilfairy (LVL116)" />
+	<Option WorldID="110" Index="13" Group="1" Type="1" X="88" Y="37" Text="Elemental Beast (LVL118)" />
+	<Option WorldID="110" Index="14" Group="1" Type="1" X="58" Y="23" Text="Elemental Knight (LVL120)" />
+	<Option WorldID="110" Index="15" Group="1" Type="1" X="25" Y="30" Text="Devilfairy (LVL116)" />
+	<Option WorldID="110" Index="16" Group="1" Type="1" X="162" Y="18" Text="Elemental Beast (LVL118)" />
+	<Option WorldID="110" Index="17" Group="1" Type="1" X="177" Y="51" Text="Elemental Knight (LVL120)" />
+	<Option WorldID="110" Index="18" Group="1" Type="1" X="198" Y="85" Text="Devilfairy (LVL116)" />
+	<Option WorldID="110" Index="19" Group="1" Type="1" X="226" Y="32" Text="Elemental Beast (LVL118)" />
+	<Option WorldID="110" Index="20" Group="1" Type="1" X="234" Y="91" Text="Elemental Knight (LVL120)" />
+	<Option WorldID="110" Index="21" Group="1" Type="1" X="144" Y="146" Text="(Boss) Core Magriffy" />
+	<!-- End Nars -->
+	<!-- Start Nixies Lake -->
+	<Option WorldID="113" Index="0" Group="0" Type="1" X="16" Y="124" Text="Entrance to Raklion" />
+	<Option WorldID="113" Index="1" Group="0" Type="1" X="66" Y="114" Text="Portal" />
+	<Option WorldID="113" Index="2" Group="0" Type="1" X="145" Y="95" Text="Portal" />
+	<Option WorldID="113" Index="3" Group="0" Type="1" X="113" Y="109" Text="(Boss) Nixie" />
+	<Option WorldID="113" Index="0" Group="1" Type="1" X="59" Y="41" Text="Paraca (LVL192)" />
+	<Option WorldID="113" Index="1" Group="1" Type="1" X="41" Y="76" Text="Vesuki (LVL194)" />
+	<Option WorldID="113" Index="2" Group="1" Type="1" X="81" Y="80" Text="Bass (LVL193)" />
+	<Option WorldID="113" Index="3" Group="1" Type="1" X="106" Y="155" Text="Bass (LVL193)" />
+	<Option WorldID="113" Index="4" Group="1" Type="1" X="94" Y="224" Text="Paraca (LVL192)" />
+	<Option WorldID="113" Index="5" Group="1" Type="1" X="137" Y="213" Text="Vesuki (LVL194)" />
+	<Option WorldID="113" Index="6" Group="1" Type="1" X="220" Y="137" Text="Bass (LVL193)" />
+	<Option WorldID="113" Index="7" Group="1" Type="1" X="192" Y="209" Text="Paraca (LVL192)" />
+	<Option WorldID="113" Index="8" Group="1" Type="1" X="174" Y="139" Text="Vesuki (LVL194)" />
+	<Option WorldID="113" Index="9" Group="1" Type="1" X="172" Y="40" Text="Bass (LVL193)" />
+	<Option WorldID="113" Index="10" Group="1" Type="1" X="220" Y="90" Text="Paraca (LVL192)" />
+	<Option WorldID="113" Index="11" Group="1" Type="1" X="219" Y="31" Text="Vesuki (LVL194)" />
+	<Option WorldID="113" Index="12" Group="1" Type="1" X="125" Y="44" Text="Vesuki (LVL194)" />
+	<!-- End Nixies Lake -->
+	<!-- Start Deep Dungeon 1 -->
+	<Option WorldID="116" Index="0" Group="0" Type="1" X="116" Y="126" Text="Entrance to Lorencia" />
+	<Option WorldID="116" Index="1" Group="0" Type="1" X="131" Y="133" Text="Entrance to Deep Dungeon 2" />
+	<Option WorldID="116" Index="0" Group="1" Type="1" X="87" Y="185" Text="Larva (LVL170)" />
+	<Option WorldID="116" Index="1" Group="1" Type="1" X="31" Y="220" Text="Warrior (LVL170)" />
+	<Option WorldID="116" Index="2" Group="1" Type="1" X="16" Y="150" Text="Larva (LVL170)" />
+	<Option WorldID="116" Index="3" Group="1" Type="1" X="136" Y="236" Text="Warrior (LVL170)" />
+	<Option WorldID="116" Index="4" Group="1" Type="1" X="87" Y="185" Text="Larva (LVL170)" />
+	<Option WorldID="116" Index="5" Group="1" Type="1" X="211" Y="214" Text="Warrior (LVL170)" />
+	<Option WorldID="116" Index="6" Group="1" Type="1" X="216" Y="150" Text="Larva (LVL170)" />
+	<!-- End Deep Dungeon 1 -->
+	<!-- Start Deep Dungeon 2 -->
+	<Option WorldID="117" Index="0" Group="0" Type="1" X="131" Y="132" Text="Entrance to Deep Dungeon 1" />
+	<Option WorldID="117" Index="1" Group="0" Type="1" X="115" Y="125" Text="Entrance to Deep Dungeon 3" />
+	<Option WorldID="117" Index="0" Group="1" Type="1" X="31" Y="105" Text="Cyclops (LVL200)" />
+	<Option WorldID="117" Index="1" Group="1" Type="1" X="41" Y="26" Text="Ghost (LVL200)" />
+	<Option WorldID="117" Index="2" Group="1" Type="1" X="117" Y="21" Text="Cyclops (LVL200)" />
+	<Option WorldID="117" Index="3" Group="1" Type="1" X="141" Y="98" Text="Ghost (LVL200)" />
+	<Option WorldID="117" Index="4" Group="1" Type="1" X="242" Y="106" Text="Cyclops (LVL200)" />
+	<Option WorldID="117" Index="5" Group="1" Type="1" X="218" Y="34" Text="Ghost (LVL200)" />
+	<!-- End Deep Dungeon 2 -->
+	<!-- Start Deep Dungeon 3 -->
+	<Option WorldID="118" Index="0" Group="0" Type="1" X="120" Y="119" Text="Entrance to Deep Dungeon 2" />
+	<Option WorldID="118" Index="1" Group="0" Type="1" X="137" Y="132" Text="Entrance to Deep Dungeon 4" />
+	<Option WorldID="118" Index="0" Group="1" Type="1" X="135" Y="217" Text="Hellhound (LVL225)" />
+	<Option WorldID="118" Index="1" Group="1" Type="1" X="52" Y="129" Text="Archer (LVL225)" />
+	<Option WorldID="118" Index="2" Group="1" Type="1" X="40" Y="219" Text="Hellhound (LVL225)" />
+	<!-- End Deep Dungeon 3 -->
+	<!-- Start Dungeon 4 -->
+	<Option WorldID="119" Index="0" Group="0" Type="1" X="120" Y="118" Text="Entrance to Deep Dungeon 3" />
+	<Option WorldID="119" Index="1" Group="0" Type="1" X="136" Y="132" Text="Entrance to Deep Dungeon 5" />
+	<Option WorldID="119" Index="0" Group="1" Type="1" X="107" Y="48" Text="Hellspider (LVL250)" />
+	<Option WorldID="119" Index="1" Group="1" Type="1" X="198" Y="50" Text="Elite Warrior (LVL250)" />
+	<Option WorldID="119" Index="2" Group="1" Type="1" X="215" Y="151" Text="Hellspider (LVL250)" />
+	<!-- End Deep Dungeon 4 -->
+	<!-- Start Deep Dungeon 5 -->
+	<Option WorldID="120" Index="0" Group="0" Type="1" X="119" Y="119" Text="Entrance to Deep Dungeon 4" />
+	<Option WorldID="120" Index="0" Group="1" Type="1" X="111" Y="200" Text="Thunder Lich (LVL275)" />
+	<Option WorldID="120" Index="1" Group="1" Type="1" X="64" Y="121" Text="Poison Bull (LVL275)" />
+	<Option WorldID="120" Index="2" Group="1" Type="1" X="144" Y="44" Text="Dark Knight (LVL275)" />
+	<Option WorldID="120" Index="3" Group="1" Type="1" X="201" Y="110" Text="Thunder Lich (LVL275)" />
+	<Option WorldID="120" Index="4" Group="1" Type="1" X="229" Y="39" Text="Poison Bull (LVL275)" />
+	<Option WorldID="120" Index="5" Group="1" Type="1" X="39" Y="46" Text="Dark Knight (LVL275)" />
+	<Option WorldID="120" Index="6" Group="1" Type="1" X="33" Y="224" Text="Thunder Lich (LVL275)" />
+	<Option WorldID="120" Index="7" Group="1" Type="1" X="195" Y="210" Text="Poison Bull (LVL275)" />
+	<Option WorldID="120" Index="8" Group="1" Type="1" X="239" Y="229" Text="Gorgon (LVL300)" />
+	<!-- End Deep Dungeon 5 -->
+	<Option WorldID="57" Index="2" Group="0" Type="1" X="210" Y="226" Text="Entrance to Nixies Lake" />
+	<Option WorldID="8" Index="2" Group="0" Type="1" X="177" Y="39" Text="Entrance to Ferea" />
+	<!-- Start Ferea -->
+	<Option WorldID="112" Index="0" Group="0" Type="1" X="232" Y="175" Text="Entrance to Tarkan" />
+	<Option WorldID="112" Index="1" Group="0" Type="1" X="196" Y="179" Text="Red Gate" />
+	<Option WorldID="112" Index="2" Group="0" Type="1" X="99" Y="71" Text="Red Gate" />
+	<Option WorldID="112" Index="3" Group="0" Type="1" X="196" Y="142" Text="Blue Gate" />
+	<Option WorldID="112" Index="4" Group="0" Type="1" X="80" Y="236" Text="Blue Gate" />
+	<Option WorldID="112" Index="5" Group="1" Type="1" X="28" Y="124" Text="(BOSS) Lord Ferea" />
+	<Option WorldID="112" Index="6" Group="1" Type="1" X="206" Y="186" Text="Archer (LVL122)" />
+	<Option WorldID="112" Index="7" Group="1" Type="1" X="220" Y="199" Text="Knight (LVL121)" />
+	<Option WorldID="112" Index="8" Group="1" Type="1" X="166" Y="153" Text="Archer (LVL122)" />
+	<Option WorldID="112" Index="9" Group="1" Type="1" X="127" Y="195" Text="Archer (LVL122)" />
+	<Option WorldID="112" Index="10" Group="1" Type="1" X="66" Y="213" Text="Knight (LVL121)" />
+	<Option WorldID="112" Index="11" Group="1" Type="1" X="34" Y="232" Text="Figther (LVL123)" />
+	<Option WorldID="112" Index="12" Group="1" Type="1" X="59" Y="202" Text="Knight (LVL121)" />
+	<Option WorldID="112" Index="13" Group="1" Type="1" X="32" Y="190" Text="Archer (LVL122)" />
+	<Option WorldID="112" Index="14" Group="1" Type="1" X="40" Y="166" Text="Knight (LVL121)" />
+	<Option WorldID="112" Index="15" Group="1" Type="1" X="79" Y="191" Text="Figther (LVL123)" />
+	<Option WorldID="112" Index="16" Group="1" Type="1" X="185" Y="139" Text="Archer (LVL122)" />
+	<Option WorldID="112" Index="17" Group="1" Type="1" X="195" Y="102" Text="Knight (LVL121)" />
+	<Option WorldID="112" Index="18" Group="1" Type="1" X="225" Y="78" Text="Figther (LVL123)" />
+	<Option WorldID="112" Index="19" Group="1" Type="1" X="229" Y="38" Text="Knight (LVL121)" />
+	<Option WorldID="112" Index="20" Group="1" Type="1" X="222" Y="22" Text="Figther (LVL123)" />
+	<Option WorldID="112" Index="21" Group="1" Type="1" X="209" Y="17" Text="Knight (LVL121)" />
+	<Option WorldID="112" Index="22" Group="1" Type="1" X="170" Y="20" Text="Figther (LVL123)" />
+	<Option WorldID="112" Index="23" Group="1" Type="1" X="156" Y="15" Text="Archer (LVL122)" />
+	<Option WorldID="112" Index="24" Group="1" Type="1" X="119" Y="19" Text="Knight (LVL121)" />
+	<Option WorldID="112" Index="25" Group="1" Type="1" X="24" Y="42" Text="Figther (LVL123)" />
+	<Option WorldID="112" Index="26" Group="1" Type="1" X="71" Y="39" Text="Knight (LVL121)" />
+	<Option WorldID="112" Index="27" Group="1" Type="1" X="79" Y="51" Text="Figther (LVL123)" />
+	<Option WorldID="112" Index="28" Group="1" Type="1" X="160" Y="59" Text="Archer (LVL122)" />
+	<Option WorldID="112" Index="29" Group="1" Type="1" X="185" Y="73" Text="Figther (LVL123)" />
+	<Option WorldID="112" Index="30" Group="1" Type="1" X="98" Y="142" Text="Figther (LVL123)" />
+	<Option WorldID="112" Index="31" Group="1" Type="1" X="121" Y="160" Text="Figther (LVL122)" />
+	<Option WorldID="112" Index="32" Group="1" Type="1" X="134" Y="113" Text="Figther (LVL123)" />
+	<Option WorldID="112" Index="33" Group="1" Type="1" X="133" Y="86" Text="Figther (LVL123)" />
+	<!-- End Ferea -->
+	<!-- Start Swamp of Darkness -->
+	<Option WorldID="122" Index="0" Group="0" Type="1" X="125" Y="130" Text="Fire Gate" />
+	<Option WorldID="122" Index="1" Group="0" Type="1" X="150" Y="111" Text="Water Gate" />
+	<Option WorldID="122" Index="2" Group="0" Type="1" X="133" Y="101" Text="Darkness Gate" />
+	<Option WorldID="122" Index="3" Group="0" Type="1" X="118" Y="113" Text="Earth Gate" />
+	<Option WorldID="122" Index="4" Group="0" Type="1" X="143" Y="130" Text="Wind Gate" />
+	<Option WorldID="122" Index="5" Group="0" Type="1" X="242" Y="94" Text="(Boss) God of Darkness" />
+	<Option WorldID="122" Index="6" Group="0" Type="1" X="11" Y="158" Text="(Boss) Swamp Monster" />
+	<Option WorldID="122" Index="7" Group="0" Type="1" X="108" Y="154" Text="Fire Gate" />
+	<Option WorldID="122" Index="8" Group="0" Type="1" X="176" Y="104" Text="Water Gate" />
+	<Option WorldID="122" Index="9" Group="0" Type="1" X="133" Y="74" Text="Darkness Gate" />
+	<Option WorldID="122" Index="10" Group="0" Type="1" X="93" Y="106" Text="Earth Gate" />
+	<Option WorldID="122" Index="11" Group="0" Type="1" X="156" Y="149" Text="Wind Gate" />
+	<Option WorldID="122" Index="0" Group="1" Type="1" X="211" Y="182" Text="Swamp Ent (LVL275)" />
+	<Option WorldID="122" Index="1" Group="1" Type="1" X="131" Y="204" Text="Wooden Beast (LVL275)" />
+	<Option WorldID="122" Index="2" Group="1" Type="1" X="71" Y="189" Text="Swamp Wizard (LVL275)" />
+	<Option WorldID="122" Index="3" Group="1" Type="1" X="61" Y="94" Text="Mutantile (LVL275)" />
+	<Option WorldID="122" Index="4" Group="1" Type="1" X="130" Y="30" Text="Swamp Ent (LVL275)" />
+	<Option WorldID="122" Index="5" Group="1" Type="1" X="205" Y="60" Text="Wooden Beast (LVL275)" />
+	<!-- End Swamp of Darkness -->
+	<!-- Start Kubera Mine (Fire) -->
+	<Option WorldID="123" Index="0" Group="0" Type="1" X="233" Y="87" Text="Devias Entrance" />
+	<Option WorldID="123" Index="1" Group="0" Type="1" X="209" Y="69" Text="Kubera Mine" />
+	<Option WorldID="123" Index="2" Group="0" Type="1" X="214" Y="110" Text="Fire" />
+	<Option WorldID="123" Index="3" Group="0" Type="1" X="217" Y="129" Text="Water" />
+	<Option WorldID="123" Index="4" Group="0" Type="1" X="236" Y="132" Text="Earth" />
+	<Option WorldID="123" Index="5" Group="0" Type="1" X="216" Y="119" Text="Wind" />
+	<Option WorldID="123" Index="6" Group="0" Type="1" X="227" Y="130" Text="Darkness" />
+	<Option WorldID="123" Index="0" Group="1" Type="1" X="186" Y="115" Text="Mine Digger (LVL380)" />
+	<Option WorldID="123" Index="1" Group="1" Type="1" X="155" Y="98" Text="Mine Carrier (LVL380)" />
+	<Option WorldID="123" Index="2" Group="1" Type="1" X="145" Y="35" Text="Mine Porter (LVL380)" />
+	<Option WorldID="123" Index="3" Group="1" Type="1" X="224" Y="45" Text="Mine Driller (LVL380)" />
+	<Option WorldID="123" Index="4" Group="1" Type="1" X="125" Y="93" Text="Dead Digger (LVL400)" />
+	<Option WorldID="123" Index="5" Group="1" Type="1" X="89" Y="58" Text="Dead Shoveler (LVL400)" />
+	<Option WorldID="123" Index="6" Group="1" Type="1" X="103" Y="79" Text="Dead Porter (LVL400)" />
+	<!-- End Kubera Mine (Fire) -->
+	<!-- Start Kubera Mine (Water) -->
+	<Option WorldID="124" Index="0" Group="0" Type="1" X="233" Y="87" Text="Devias Entrance" />
+	<Option WorldID="124" Index="1" Group="0" Type="1" X="214" Y="110" Text="Fire" />
+	<Option WorldID="124" Index="2" Group="0" Type="1" X="209" Y="69" Text="Kubera Mine" />
+	<Option WorldID="124" Index="3" Group="0" Type="1" X="217" Y="129" Text="Water" />
+	<Option WorldID="124" Index="4" Group="0" Type="1" X="236" Y="132" Text="Earth" />
+	<Option WorldID="124" Index="5" Group="0" Type="1" X="216" Y="119" Text="Wind" />
+	<Option WorldID="124" Index="6" Group="0" Type="1" X="227" Y="130" Text="Darkness" />
+	<Option WorldID="124" Index="0" Group="1" Type="1" X="186" Y="115" Text="Mine Digger (LVL380)" />
+	<Option WorldID="124" Index="1" Group="1" Type="1" X="155" Y="98" Text="Mine Carrier (LVL380)" />
+	<Option WorldID="124" Index="2" Group="1" Type="1" X="145" Y="35" Text="Mine Porter (LVL380)" />
+	<Option WorldID="124" Index="3" Group="1" Type="1" X="224" Y="45" Text="Mine Driller (LVL380)" />
+	<Option WorldID="124" Index="4" Group="1" Type="1" X="125" Y="93" Text="Dead Digger (LVL400)" />
+	<Option WorldID="124" Index="5" Group="1" Type="1" X="89" Y="58" Text="Dead Shoveler (LVL400)" />
+	<Option WorldID="124" Index="6" Group="1" Type="1" X="103" Y="79" Text="Dead Porter (LVL400)" />
+	<!-- End Kubera Mine (Water) -->
+	<!-- Start Kubera Mine (Earth) -->
+	<Option WorldID="125" Index="0" Group="0" Type="1" X="233" Y="87" Text="Devias Entrance" />
+	<Option WorldID="125" Index="1" Group="0" Type="1" X="214" Y="110" Text="Fire" />
+	<Option WorldID="125" Index="2" Group="0" Type="1" X="209" Y="69" Text="Kubera Mine" />
+	<Option WorldID="125" Index="3" Group="0" Type="1" X="217" Y="129" Text="Water" />
+	<Option WorldID="125" Index="4" Group="0" Type="1" X="236" Y="132" Text="Earth" />
+	<Option WorldID="125" Index="5" Group="0" Type="1" X="216" Y="119" Text="Wind" />
+	<Option WorldID="125" Index="6" Group="0" Type="1" X="227" Y="130" Text="Darkness" />
+	<Option WorldID="125" Index="0" Group="1" Type="1" X="186" Y="115" Text="Mine Digger (LVL380)" />
+	<Option WorldID="125" Index="1" Group="1" Type="1" X="155" Y="98" Text="Mine Carrier (LVL380)" />
+	<Option WorldID="125" Index="2" Group="1" Type="1" X="145" Y="35" Text="Mine Porter (LVL380)" />
+	<Option WorldID="125" Index="3" Group="1" Type="1" X="224" Y="45" Text="Mine Driller (LVL380)" />
+	<Option WorldID="125" Index="4" Group="1" Type="1" X="125" Y="93" Text="Dead Digger (LVL400)" />
+	<Option WorldID="125" Index="5" Group="1" Type="1" X="89" Y="58" Text="Dead Shoveler (LVL400)" />
+	<Option WorldID="125" Index="6" Group="1" Type="1" X="103" Y="79" Text="Dead Porter (LVL400)" />
+	<!-- End Kubera Mine (Earth) -->
+	<!-- Start Kubera Mine (Wind) -->
+	<Option WorldID="126" Index="0" Group="0" Type="1" X="233" Y="87" Text="Devias Entrance" />
+	<Option WorldID="126" Index="1" Group="0" Type="1" X="214" Y="110" Text="Fire" />
+	<Option WorldID="126" Index="2" Group="0" Type="1" X="209" Y="69" Text="Kubera Mine" />
+	<Option WorldID="126" Index="3" Group="0" Type="1" X="217" Y="129" Text="Water" />
+	<Option WorldID="126" Index="4" Group="0" Type="1" X="236" Y="132" Text="Earth" />
+	<Option WorldID="126" Index="5" Group="0" Type="1" X="216" Y="119" Text="Wind" />
+	<Option WorldID="126" Index="6" Group="0" Type="1" X="227" Y="130" Text="Darkness" />
+	<Option WorldID="126" Index="0" Group="1" Type="1" X="186" Y="115" Text="Mine Digger (LVL380)" />
+	<Option WorldID="126" Index="1" Group="1" Type="1" X="155" Y="98" Text="Mine Carrier (LVL380)" />
+	<Option WorldID="126" Index="2" Group="1" Type="1" X="145" Y="35" Text="Mine Porter (LVL380)" />
+	<Option WorldID="126" Index="3" Group="1" Type="1" X="224" Y="45" Text="Mine Driller (LVL380)" />
+	<Option WorldID="126" Index="4" Group="1" Type="1" X="125" Y="93" Text="Dead Digger (LVL400)" />
+	<Option WorldID="126" Index="5" Group="1" Type="1" X="89" Y="58" Text="Dead Shoveler (LVL400)" />
+	<Option WorldID="126" Index="6" Group="1" Type="1" X="103" Y="79" Text="Dead Porter (LVL400)" />
+	<!-- End Kubera Mine (Wind) -->
+	<!-- Start Kubera Mine (Darkness) -->
+	<Option WorldID="127" Index="0" Group="0" Type="1" X="233" Y="87" Text="Devias Entrance" />
+	<Option WorldID="127" Index="1" Group="0" Type="1" X="214" Y="110" Text="Fire" />
+	<Option WorldID="127" Index="2" Group="0" Type="1" X="209" Y="69" Text="Kubera Mine" />
+	<Option WorldID="127" Index="3" Group="0" Type="1" X="217" Y="129" Text="Water" />
+	<Option WorldID="127" Index="4" Group="0" Type="1" X="236" Y="132" Text="Earth" />
+	<Option WorldID="127" Index="5" Group="0" Type="1" X="216" Y="119" Text="Wind" />
+	<Option WorldID="127" Index="6" Group="0" Type="1" X="227" Y="130" Text="Darkness" />
+	<Option WorldID="127" Index="0" Group="1" Type="1" X="186" Y="115" Text="Mine Digger (LVL380)" />
+	<Option WorldID="127" Index="1" Group="1" Type="1" X="155" Y="98" Text="Mine Carrier (LVL380)" />
+	<Option WorldID="127" Index="2" Group="1" Type="1" X="145" Y="35" Text="Mine Porter (LVL380)" />
+	<Option WorldID="127" Index="3" Group="1" Type="1" X="224" Y="45" Text="Mine Driller (LVL380)" />
+	<Option WorldID="127" Index="4" Group="1" Type="1" X="125" Y="93" Text="Dead Digger (LVL400)" />
+	<Option WorldID="127" Index="5" Group="1" Type="1" X="89" Y="58" Text="Dead Shoveler (LVL400)" />
+	<Option WorldID="127" Index="6" Group="1" Type="1" X="103" Y="79" Text="Dead Porter (LVL400)" />
+	<!-- End Kubera Mine (Darkness) -->
+	<!-- Start Abyss of Atlans 1 -->
+	<Option WorldID="128" Index="0" Group="1" Type="1" X="98" Y="188" Text="Bahamut (LVL410)" />
+	<Option WorldID="128" Index="1" Group="1" Type="1" X="89" Y="97" Text="Vepar (LVL410)" />
+	<Option WorldID="128" Index="2" Group="1" Type="1" X="175" Y="67" Text="Bahamut (LVL410)" />
+	<Option WorldID="128" Index="3" Group="1" Type="1" X="182" Y="166" Text="Vepar (LVL410)" />
+	<!-- End Abyss of Atlans 1 -->
+	<!-- Start Abyss of Atlans 2 -->
+	<Option WorldID="129" Index="0" Group="1" Type="1" X="97" Y="165" Text="Bahamut (LVL435)" />
+	<Option WorldID="129" Index="1" Group="1" Type="1" X="154" Y="186" Text="Valkyrie (LVL435)" />
+	<Option WorldID="129" Index="2" Group="1" Type="1" X="152" Y="90" Text="Bahamut (LVL435)" />
+	<Option WorldID="129" Index="3" Group="1" Type="1" X="97" Y="86" Text="Valkyrie (LVL435)" />
+	<!-- End Abyss of Atlans 2 -->
+	<!-- Start Abyss of Atlans 3 -->
+	<Option WorldID="130" Index="0" Group="1" Type="1" X="153" Y="183" Text="Bahamut (LVL460)" />
+	<Option WorldID="130" Index="1" Group="1" Type="1" X="155" Y="86" Text="Lizard (LVL460)" />
+	<Option WorldID="130" Index="2" Group="1" Type="1" X="76" Y="90" Text="Bahamut (LVL460)" />
+	<Option WorldID="130" Index="3" Group="1" Type="1" X="55" Y="140" Text="Lizard (LVL460)" />
+	<!-- End Abyss of Atlans 3 -->
+	<Option WorldID="2" Index="4" Group="0" Type="1" X="158" Y="57" Text="Kubera Mine Entrance" />
+	<Option WorldID="8" Index="3" Group="0" Type="1" X="190" Y="74" Text="Entrance to Scorched Canyon" />
+	<!-- Start Scorched Canyon -->
+	<Option WorldID="131" Index="0" Group="0" Type="1" X="208" Y="45" Text="Red Gate" />
+	<Option WorldID="131" Index="1" Group="0" Type="1" X="141" Y="210" Text="Red Gate" />
+	<Option WorldID="131" Index="2" Group="0" Type="1" X="199" Y="26" Text="Blue Gate" />
+	<Option WorldID="131" Index="3" Group="0" Type="1" X="75" Y="80" Text="Blue Gate" />
+	<Option WorldID="131" Index="0" Group="1" Type="1" X="213" Y="95" Text="Warrior (LVL470)" />
+	<Option WorldID="131" Index="1" Group="1" Type="1" X="133" Y="50" Text="Assasin (LVL470)" />
+	<Option WorldID="131" Index="2" Group="1" Type="1" X="37" Y="132" Text="SpoWizard (LVL470)" />
+	<Option WorldID="131" Index="3" Group="1" Type="1" X="113" Y="176" Text="Warrior (LVL470)" />
+	<Option WorldID="131" Index="4" Group="1" Type="1" X="203" Y="206" Text="Assasin (LVL470)" />
+	<Option WorldID="131" Index="5" Group="1" Type="1" X="203" Y="113" Text="Wizard (LVL470)" />
+	<!-- End Scorched Canyon -->
+	<!-- Start Red Icarus -->
+	<Option WorldID="132" Index="0" Group="1" Type="1" X="177" Y="228" Text="Alquamos (LVL490)" />
+	<Option WorldID="132" Index="1" Group="1" Type="1" X="150" Y="209" Text="Megacrust (LVL495)" />
+	<Option WorldID="132" Index="2" Group="1" Type="1" X="210" Y="187" Text="Queen (LVL490)" />
+	<Option WorldID="132" Index="3" Group="1" Type="1" X="125" Y="191" Text="Alphacrust (LVL495)" />
+	<Option WorldID="132" Index="4" Group="1" Type="1" X="154" Y="165" Text="Phantom (LVL500)" />
+	<Option WorldID="132" Index="5" Group="1" Type="1" X="53" Y="152" Text="Alquamos (LVL490)" />
+	<Option WorldID="132" Index="6" Group="1" Type="1" X="59" Y="188" Text="Megacrust (LVL495)" />
+	<Option WorldID="132" Index="7" Group="1" Type="1" X="106" Y="193" Text="Queen (LVL490)" />
+	<Option WorldID="132" Index="8" Group="1" Type="1" X="84" Y="238" Text="Alphacrust (LVL495)" />
+	<Option WorldID="132" Index="9" Group="1" Type="1" X="103" Y="153" Text="Phantom (LVL500)" />
+	<Option WorldID="132" Index="10" Group="1" Type="1" X="57" Y="115" Text="Alquamos (LVL490)" />
+	<Option WorldID="132" Index="11" Group="1" Type="1" X="92" Y="77" Text="Megacrust (LVL495)" />
+	<Option WorldID="132" Index="12" Group="1" Type="1" X="61" Y="48" Text="Queen (LVL490)" />
+	<Option WorldID="132" Index="13" Group="1" Type="1" X="125" Y="22" Text="Alphacrust (LVL495)" />
+	<Option WorldID="132" Index="14" Group="1" Type="1" X="78" Y="22" Text="Phantom (LVL500)" />
+	<Option WorldID="132" Index="15" Group="1" Type="1" X="147" Y="39" Text="Alquamos (LVL490)" />
+	<Option WorldID="132" Index="16" Group="1" Type="1" X="197" Y="36" Text="Megacrust (LVL495)" />
+	<Option WorldID="132" Index="17" Group="1" Type="1" X="219" Y="53" Text="Queen (LVL490)" />
+	<Option WorldID="132" Index="18" Group="1" Type="1" X="193" Y="79" Text="Alphacrust (LVL495)" />
+	<Option WorldID="132" Index="19" Group="1" Type="1" X="169" Y="147" Text="Alquamos (LVL490)" />
+	<Option WorldID="132" Index="20" Group="1" Type="1" X="198" Y="124" Text="Megacrust (LVL495)" />
+	<Option WorldID="132" Index="21" Group="1" Type="1" X="188" Y="160" Text="Queen (LVL490)" />
+	<Option WorldID="132" Index="22" Group="1" Type="1" X="240" Y="143" Text="Alphacrust (LVL495)" />
+	<Option WorldID="132" Index="23" Group="1" Type="1" X="230" Y="114" Text="Phantom (LVL500)" />
+	<!-- End Red Icarus -->
+	<!-- Start Arenil Temple -->
+	<Option WorldID="133" Index="0" Group="1" Type="1" X="186" Y="30" Text="Temple Ogre (LVL520)" />
+	<Option WorldID="133" Index="1" Group="1" Type="1" X="167" Y="70" Text="Temple Gremlin (LVL520)" />
+	<Option WorldID="133" Index="2" Group="1" Type="1" X="229" Y="91" Text="Temple Gargoyle (LVL520)" />
+	<Option WorldID="133" Index="3" Group="1" Type="1" X="97" Y="60" Text="Temple Ogre (LVL520)" />
+	<Option WorldID="133" Index="4" Group="1" Type="1" X="40" Y="21" Text="Temple Gremlin (LVL520)" />
+	<Option WorldID="133" Index="5" Group="1" Type="1" X="44" Y="95" Text="Temple Gargoyle (LVL520)" />
+	<!-- End Arenil Temple -->
+	<!-- Start Ashy Aida -->
+	<Option WorldID="134" Index="0" Group="1" Type="1" X="78" Y="28" Text="Destry (LVL550)" />
+	<Option WorldID="134" Index="1" Group="1" Type="1" X="42" Y="59" Text="Forest Oak (LVL555)" />
+	<Option WorldID="134" Index="2" Group="1" Type="1" X="99" Y="84" Text="Deathrider (LVL555)" />
+	<Option WorldID="134" Index="3" Group="1" Type="1" X="60" Y="123" Text="Witchqueen (LVL560)" />
+	<Option WorldID="134" Index="4" Group="1" Type="1" X="137" Y="76" Text="Destry (LVL550)" />
+	<Option WorldID="134" Index="5" Group="1" Type="1" X="129" Y="138" Text="Forest Oak (LVL555)" />
+	<Option WorldID="134" Index="6" Group="1" Type="1" X="172" Y="53" Text="Deathrider (LVL555)" />
+	<Option WorldID="134" Index="7" Group="1" Type="1" X="181" Y="114" Text="Witchqueen (LVL560)" />
+	<Option WorldID="134" Index="8" Group="1" Type="1" X="182" Y="17" Text="Destry (LVL550)" />
+	<Option WorldID="134" Index="9" Group="1" Type="1" X="236" Y="75" Text="Forest Oak (LVL555)" />
+	<!-- End Ashy Aida -->
+	<!-- Start Kethotum Blaze -->
+	<Option WorldID="136" Index="0" Group="1" Type="1" X="43" Y="59" Text="Crimson Lycan (LVL585)" />
+	<Option WorldID="136" Index="1" Group="1" Type="1" X="193" Y="52" Text="Crimson Minos (LVL585)" />
+	<Option WorldID="136" Index="2" Group="1" Type="1" X="164" Y="130" Text="Crimson Harpy (LVL590)" />
+	<Option WorldID="136" Index="3" Group="1" Type="1" X="64" Y="131" Text="Crimson Lycan (LVL585)" />
+	<Option WorldID="136" Index="4" Group="1" Type="1" X="60" Y="205" Text="Crimson Minos (LVL585)" />
+	<Option WorldID="136" Index="5" Group="1" Type="1" X="152" Y="184" Text="Crimson Harpy (LVL590)" />
+	<!-- End Kethotum Blaze -->
+	<!-- Start Underground Kanturu -->
+	<Option WorldID="137" Index="0" Group="1" Type="1" X="40" Y="155" Text="Persona (LVL615)" />
+	<Option WorldID="137" Index="1" Group="1" Type="1" X="40" Y="85" Text="Twintale (LVL620)" />
+	<Option WorldID="137" Index="2" Group="1" Type="1" X="139" Y="73" Text="Dreadfear (LVL620)" />
+	<Option WorldID="137" Index="3" Group="1" Type="1" X="217" Y="82" Text="Persona (LVL615)" />
+	<Option WorldID="137" Index="4" Group="1" Type="1" X="214" Y="172" Text="Twintale (LVL620)" />
+	<Option WorldID="137" Index="5" Group="1" Type="1" X="145" Y="208" Text="Dreadfear (LVL620)" />
+	<!-- End Underground Kanturu -->
+</MiniMap>

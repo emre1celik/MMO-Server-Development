@@ -1,0 +1,92 @@
+2023-03-30_11:40:08 INFO [HappyHour] SetState_None()
+2023-03-30_12:00:00 INFO Invasion 0 [White Wizard] launched
+2023-03-30_12:00:00 INFO Invasion 3 [New Year Day] launched
+2023-03-30_12:00:00 INFO Invasion 6 [Santa Event] launched
+2023-03-30_12:00:00 INFO Invasion 8 [Golden Invasion] launched
+2023-03-30_12:00:00 INFO Invasion 9 [Lucky Coin] launched
+2023-03-30_12:00:00 INFO Invasion 12 [Summon the Demons] launched
+2023-03-30_12:05:00 INFO Invasion 13 [Exiled from Exile] launched
+2023-03-30_12:30:00 INFO Invasion 2 [Underground] launched
+2023-03-30_12:30:00 INFO Invasion 5 [Summer] launched
+2023-03-30_12:30:05 INFO Deleting Invasion 0
+2023-03-30_12:30:05 INFO Deleting Invasion 3
+2023-03-30_12:30:05 INFO Deleting Invasion 6
+2023-03-30_12:30:05 INFO Deleting Invasion 9
+2023-03-30_12:35:05 INFO Deleting Invasion 13
+2023-03-30_13:00:00 INFO Invasion 1 [Blue Event] launched
+2023-03-30_13:00:00 INFO Invasion 10 [Muun Invasion] launched
+2023-03-30_13:00:05 INFO Deleting Invasion 2
+2023-03-30_13:00:05 INFO Deleting Invasion 5
+2023-03-30_13:30:00 INFO Invasion 4 [Red Dragon] launched
+2023-03-30_13:30:05 INFO Deleting Invasion 1
+2023-03-30_13:30:05 INFO Deleting Invasion 10
+2023-03-30_14:00:00 INFO Invasion 0 [White Wizard] launched
+2023-03-30_14:00:00 INFO Invasion 9 [Lucky Coin] launched
+2023-03-30_14:00:05 INFO Deleting Invasion 4
+2023-03-30_14:05:00 INFO Invasion 13 [Exiled from Exile] launched
+2023-03-30_14:30:00 INFO Invasion 2 [Underground] launched
+2023-03-30_14:30:05 INFO Deleting Invasion 0
+2023-03-30_14:30:05 INFO Deleting Invasion 9
+2023-03-30_14:35:05 INFO Deleting Invasion 13
+2023-03-30_15:00:00 INFO Invasion 1 [Blue Event] launched
+2023-03-30_15:00:00 INFO Invasion 10 [Muun Invasion] launched
+2023-03-30_15:00:05 INFO Deleting Invasion 2
+2023-03-30_15:05:00 INFO Invasion 13 [Exiled from Exile] launched
+2023-03-30_15:30:00 INFO Invasion 4 [Red Dragon] launched
+2023-03-30_15:30:05 INFO Deleting Invasion 1
+2023-03-30_15:30:05 INFO Deleting Invasion 10
+2023-03-30_15:35:05 INFO Deleting Invasion 13
+2023-03-30_16:00:00 INFO Invasion 0 [White Wizard] launched
+2023-03-30_16:00:00 INFO Invasion 3 [New Year Day] launched
+2023-03-30_16:00:00 INFO Invasion 6 [Santa Event] launched
+2023-03-30_16:00:00 INFO Invasion 9 [Lucky Coin] launched
+2023-03-30_16:00:05 INFO Deleting Invasion 4
+2023-03-30_16:05:00 INFO Invasion 13 [Exiled from Exile] launched
+2023-03-30_16:30:00 INFO Invasion 2 [Underground] launched
+2023-03-30_16:30:00 INFO Invasion 5 [Summer] launched
+2023-03-30_16:30:05 INFO Deleting Invasion 0
+2023-03-30_16:30:05 INFO Deleting Invasion 3
+2023-03-30_16:30:05 INFO Deleting Invasion 6
+2023-03-30_16:30:05 INFO Deleting Invasion 9
+2023-03-30_16:35:05 INFO Deleting Invasion 13
+2023-03-30_17:00:00 INFO Invasion 1 [Blue Event] launched
+2023-03-30_17:00:00 INFO Invasion 10 [Muun Invasion] launched
+2023-03-30_17:00:05 INFO Deleting Invasion 12
+2023-03-30_17:00:05 INFO Deleting Invasion 2
+2023-03-30_17:00:05 INFO Deleting Invasion 5
+2023-03-30_17:30:00 INFO Invasion 4 [Red Dragon] launched
+2023-03-30_17:30:05 INFO Deleting Invasion 1
+2023-03-30_17:30:05 INFO Deleting Invasion 10
+2023-03-30_17:50:04 INFO Deleting Invasion 8
+2023-03-30_18:00:00 INFO Invasion 0 [White Wizard] launched
+2023-03-30_18:00:00 INFO Invasion 8 [Golden Invasion] launched
+2023-03-30_18:00:01 INFO Invasion 9 [Lucky Coin] launched
+2023-03-30_18:00:02 INFO Invasion 12 [Summon the Demons] launched
+2023-03-30_18:00:07 INFO Deleting Invasion 4
+2023-03-30_18:05:00 INFO Invasion 13 [Exiled from Exile] launched
+2023-03-30_18:30:00 INFO Invasion 2 [Underground] launched
+2023-03-30_18:30:05 INFO Deleting Invasion 0
+2023-03-30_18:30:06 INFO Deleting Invasion 9
+2023-03-30_18:35:05 INFO Deleting Invasion 13
+2023-03-30_19:00:00 INFO Invasion 1 [Blue Event] launched
+2023-03-30_19:00:00 INFO Invasion 10 [Muun Invasion] launched
+2023-03-30_19:00:05 INFO Deleting Invasion 2
+2023-03-30_19:05:01 INFO Invasion 13 [Exiled from Exile] launched
+2023-03-30_19:30:00 INFO Invasion 4 [Red Dragon] launched
+2023-03-30_19:30:05 INFO Deleting Invasion 1
+2023-03-30_19:30:05 INFO Deleting Invasion 10
+2023-03-30_19:35:06 INFO Deleting Invasion 13
+2023-03-30_20:00:00 INFO Invasion 0 [White Wizard] launched
+2023-03-30_20:00:01 INFO Invasion 3 [New Year Day] launched
+2023-03-30_20:00:01 INFO Invasion 6 [Santa Event] launched
+2023-03-30_20:00:01 INFO Invasion 9 [Lucky Coin] launched
+2023-03-30_20:00:02 INFO Invasion 15 [Skeleton Sorcerer Invasion] launched
+2023-03-30_20:00:05 INFO Deleting Invasion 4
+2023-03-30_20:05:00 INFO Invasion 13 [Exiled from Exile] launched
+2023-03-30_20:30:00 INFO Invasion 2 [Underground] launched
+2023-03-30_20:30:01 INFO Invasion 5 [Summer] launched
+2023-03-30_20:30:06 INFO Deleting Invasion 0
+2023-03-30_20:30:06 INFO Deleting Invasion 3
+2023-03-30_20:30:06 INFO Deleting Invasion 6
+2023-03-30_20:30:06 INFO Deleting Invasion 9
+2023-03-30_20:35:06 INFO Deleting Invasion 13

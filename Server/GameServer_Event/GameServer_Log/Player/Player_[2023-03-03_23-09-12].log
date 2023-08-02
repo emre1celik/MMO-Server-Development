@@ -1,0 +1,7 @@
+2023-03-03_23:33:58 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30000 - IP: 181.66.165.79 - ] --- Send Join Request [ricardo][CreadorMU]
+2023-03-03_23:33:58 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30000 - IP: 181.66.165.79 - Account: 1-ricardo - ] --- Joined Successfully [ricardo][CreadorMU]
+2023-03-03_23:33:58 INFO [ CHARACTER SELECT ] [SRV 18 -- 30000 - IP: 181.66.165.79 - Account: 1-ricardo - ] Character CreadorMU - 0 selected ( Step One ).
+2023-03-03_23:33:58 INFO [ CHARACTER SELECT ] [SRV 18 -- 30000 - IP: 181.66.165.79 - Account: 1-ricardo - ] Character selected ( Step Two ).
+2023-03-03_23:33:58 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30000 - IP: 181.66.165.79 - Account: 1-ricardo - Character: 137-CreadorMU] -- Location:[79 - 56/75]
+2023-03-03_23:34:20 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30000 - IP: 181.66.165.79 - Account: 1-ricardo - Character: 137-CreadorMU] --- Server: 65535 [0 - 132/120]
+2023-03-03_23:34:20 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30000 - IP: 181.66.165.79 - Account: 1-ricardo - Character: 137-CreadorMU] --- Server: 65535 [0 - 132/120]

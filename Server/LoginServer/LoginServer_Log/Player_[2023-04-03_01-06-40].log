@@ -1,0 +1,18 @@
+2023-04-03_01:06:40 INFO Adding Player [18][test33]
+2023-04-03_01:06:40 INFO Removing Player [18][test33] - Kicked.
+2023-04-03_01:06:40 INFO LoginQueue::Process -- [Acc: test33][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-03_01:07:04 INFO Adding Player [14][helloworld]
+2023-04-03_01:07:04 INFO Removing Player [14][helloworld] - Kicked.
+2023-04-03_01:07:04 INFO LoginQueue::Process -- [Acc: helloworld][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-03_11:18:14 INFO Adding Player [14][helloworld]
+2023-04-03_11:18:14 INFO Removing Player [14][helloworld] - Kicked.
+2023-04-03_11:18:14 INFO LoginQueue::Process -- [Acc: helloworld][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-03_13:16:00 INFO Adding Player [18][test33]
+2023-04-03_13:16:00 INFO Removing Player [18][test33] - Kicked.
+2023-04-03_13:16:00 INFO LoginQueue::Process -- [Acc: test33][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-03_13:16:40 INFO Adding Player [14][helloworld]
+2023-04-03_13:16:40 INFO Removing Player [14][helloworld] - Kicked.
+2023-04-03_13:16:40 INFO LoginQueue::Process -- [Acc: helloworld][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-03_20:37:51 INFO Adding Player [14][helloworld]
+2023-04-03_20:37:51 INFO Removing Player [14][helloworld] - Kicked.
+2023-04-03_20:37:51 INFO LoginQueue::Process -- [Acc: helloworld][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1

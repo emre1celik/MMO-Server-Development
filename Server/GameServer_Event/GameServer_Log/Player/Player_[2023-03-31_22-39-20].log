@@ -1,0 +1,7 @@
+2023-03-31_22:40:04 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30000 - IP: 77.175.188.143 - ] --- Send Join Request [helloworld][Knight]
+2023-03-31_22:40:04 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - ] --- Joined Successfully [helloworld][Knight]
+2023-03-31_22:40:04 INFO [ CHARACTER SELECT ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - ] Character Knight - 0 selected ( Step One ).
+2023-03-31_22:40:04 INFO [ CHARACTER SELECT ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - ] Character selected ( Step Two ).
+2023-03-31_22:40:04 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - Character: 140-Knight] -- Location:[79 - 205/57]
+2023-03-31_22:40:39 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - Character: 140-Knight] --- Server: 65535 [51 - 191/148]
+2023-03-31_22:40:39 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - Character: 140-Knight] --- Server: 65535 [51 - 191/148]

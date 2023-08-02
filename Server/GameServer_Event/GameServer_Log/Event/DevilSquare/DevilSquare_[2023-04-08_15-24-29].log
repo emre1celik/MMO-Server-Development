@@ -1,0 +1,586 @@
+2023-04-08_15:24:36 INFO [DevilSquare - 1] Moving Players Out
+2023-04-08_15:24:36 INFO [DevilSquare - 1] Clearing Monsters
+2023-04-08_15:24:36 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2023-04-08_15:24:36 INFO [DevilSquare - 2] Moving Players Out
+2023-04-08_15:24:36 INFO [DevilSquare - 2] Clearing Monsters
+2023-04-08_15:24:36 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2023-04-08_15:24:36 INFO [DevilSquare - 3] Moving Players Out
+2023-04-08_15:24:36 INFO [DevilSquare - 3] Clearing Monsters
+2023-04-08_15:24:36 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2023-04-08_15:24:36 INFO [DevilSquare - 4] Moving Players Out
+2023-04-08_15:24:36 INFO [DevilSquare - 4] Clearing Monsters
+2023-04-08_15:24:36 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2023-04-08_15:24:36 INFO [DevilSquare - 5] Moving Players Out
+2023-04-08_15:24:36 INFO [DevilSquare - 5] Clearing Monsters
+2023-04-08_15:24:36 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2023-04-08_15:24:36 INFO [DevilSquare - 6] Moving Players Out
+2023-04-08_15:24:36 INFO [DevilSquare - 6] Clearing Monsters
+2023-04-08_15:24:36 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2023-04-08_15:24:36 INFO [DevilSquare - 7] Moving Players Out
+2023-04-08_15:24:36 INFO [DevilSquare - 7] Clearing Monsters
+2023-04-08_15:24:36 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2023-04-08_15:24:36 INFO [DevilSquareMgr] SetState_None()
+2023-04-08_15:30:01 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2023-04-08_15:30:01 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2023-04-08_15:30:01 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2023-04-08_15:30:01 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2023-04-08_15:30:01 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2023-04-08_15:30:01 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2023-04-08_15:30:01 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2023-04-08_15:30:01 INFO [DevilSquareMgr] SetState_Open()
+2023-04-08_15:35:01 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2023-04-08_15:35:01 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2023-04-08_15:35:01 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2023-04-08_15:35:01 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2023-04-08_15:35:01 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2023-04-08_15:35:01 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2023-04-08_15:35:01 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2023-04-08_15:35:01 INFO [DevilSquareMgr] SetState_Playing()
+2023-04-08_15:35:01 INFO [DevilSquare - 1] Moving Players Out
+2023-04-08_15:35:01 INFO [DevilSquare - 1] Clearing Monsters
+2023-04-08_15:35:01 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2023-04-08_15:35:01 INFO [DevilSquare - 2] Moving Players Out
+2023-04-08_15:35:01 INFO [DevilSquare - 2] Clearing Monsters
+2023-04-08_15:35:01 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2023-04-08_15:35:01 INFO [DevilSquare - 3] Moving Players Out
+2023-04-08_15:35:01 INFO [DevilSquare - 3] Clearing Monsters
+2023-04-08_15:35:01 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2023-04-08_15:35:01 INFO [DevilSquare - 4] Moving Players Out
+2023-04-08_15:35:01 INFO [DevilSquare - 4] Clearing Monsters
+2023-04-08_15:35:01 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2023-04-08_15:35:01 INFO [DevilSquare - 5] Moving Players Out
+2023-04-08_15:35:01 INFO [DevilSquare - 5] Clearing Monsters
+2023-04-08_15:35:01 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2023-04-08_15:35:01 INFO [DevilSquare - 6] Moving Players Out
+2023-04-08_15:35:01 INFO [DevilSquare - 6] Clearing Monsters
+2023-04-08_15:35:01 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2023-04-08_15:35:01 INFO [DevilSquare - 7] Moving Players Out
+2023-04-08_15:35:01 INFO [DevilSquare - 7] Clearing Monsters
+2023-04-08_15:35:01 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2023-04-08_15:35:01 INFO [DevilSquareMgr] SetState_None()
+2023-04-08_16:12:53 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2023-04-08_16:12:53 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2023-04-08_16:12:53 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2023-04-08_16:12:53 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2023-04-08_16:12:53 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2023-04-08_16:12:53 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2023-04-08_16:12:53 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2023-04-08_16:12:53 INFO [DevilSquareMgr] SetState_Open()
+2023-04-08_16:12:57 INFO [DevilSquare - 2] Adding Player [SRV 18 -- 30002 - IP: 77.175.188.143 - Account: 2-test - Character: 145-Kundun]
+2023-04-08_16:17:53 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2023-04-08_16:17:53 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2023-04-08_16:17:53 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2023-04-08_16:17:53 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2023-04-08_16:17:53 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2023-04-08_16:17:53 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2023-04-08_16:17:53 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2023-04-08_16:17:53 INFO [DevilSquareMgr] SetState_Playing()
+2023-04-08_16:17:53 INFO [DevilSquare - 1] Moving Players Out
+2023-04-08_16:17:53 INFO [DevilSquare - 1] Clearing Monsters
+2023-04-08_16:17:53 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2023-04-08_16:17:53 INFO [DevilSquare - 2] Added Monster [20370][41]
+2023-04-08_16:17:53 INFO [DevilSquare - 2] Added Monster [20371][41]
+2023-04-08_16:17:53 INFO [DevilSquare - 2] Added Monster [20372][41]
+2023-04-08_16:17:53 INFO [DevilSquare - 2] Added Monster [20373][41]
+2023-04-08_16:17:53 INFO [DevilSquare - 2] Added Monster [20374][41]
+2023-04-08_16:17:53 INFO [DevilSquare - 2] Added Monster [20375][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20376][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20377][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20378][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20379][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20380][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20381][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20382][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20383][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20384][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20385][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20386][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20387][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20388][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20389][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20390][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20391][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20392][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20393][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20394][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20395][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20396][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20397][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20398][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20399][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20400][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20401][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20402][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20403][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20404][41]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20405][37]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20406][37]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20407][37]
+2023-04-08_16:17:54 INFO [DevilSquare - 2] Added Monster [20408][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20409][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20410][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20411][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20412][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20413][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20414][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20415][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20416][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20417][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20418][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20419][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20420][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20421][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20422][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20423][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20424][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20425][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20426][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20427][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20428][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20429][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20430][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20431][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20432][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20433][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20434][37]
+2023-04-08_16:17:55 INFO [DevilSquare - 2] Added Monster [20435][37]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20436][37]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20437][37]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20438][37]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20439][37]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20440][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20441][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20442][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20443][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20444][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20445][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20446][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20447][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20448][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20449][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20450][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20451][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20452][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20453][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20454][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20455][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20456][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20457][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20458][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20459][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20460][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20461][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20462][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20463][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20464][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20465][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20466][35]
+2023-04-08_16:17:56 INFO [DevilSquare - 2] Added Monster [20467][35]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20468][35]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20469][35]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20470][35]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20471][35]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20472][35]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20473][35]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20474][35]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20475][188]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20476][188]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20477][188]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20478][188]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20479][188]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20480][188]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20481][188]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20482][188]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20483][188]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20484][188]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20485][188]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20486][188]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20487][188]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20488][188]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20489][188]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20490][188]
+2023-04-08_16:17:57 INFO [DevilSquare - 2] Added Monster [20491][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20492][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20493][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20494][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20495][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20496][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20497][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20498][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20499][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20500][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20501][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20502][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20503][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20504][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20505][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20506][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20507][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20508][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20509][188]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20510][64]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20511][64]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20512][64]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20513][64]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20514][64]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20515][64]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20516][64]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20517][64]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20518][64]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20519][64]
+2023-04-08_16:17:58 INFO [DevilSquare - 2] Added Monster [20520][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20521][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20522][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20523][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20524][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20525][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20526][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20527][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20528][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20529][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20530][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20531][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20532][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20533][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20534][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20535][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20536][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20537][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20538][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20539][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20540][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20541][64]
+2023-04-08_16:17:59 INFO [DevilSquare - 2] Added Monster [20542][64]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20543][64]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20544][64]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20545][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20546][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20547][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20548][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20549][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20550][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20551][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20552][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20553][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20554][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20555][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20556][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20557][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20558][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20559][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20560][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20561][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20562][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20563][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20564][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20565][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20566][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20567][65]
+2023-04-08_16:18:00 INFO [DevilSquare - 2] Added Monster [20568][65]
+2023-04-08_16:18:01 INFO [DevilSquare - 2] Added Monster [20569][65]
+2023-04-08_16:18:01 INFO [DevilSquare - 2] Added Monster [20570][65]
+2023-04-08_16:18:01 INFO [DevilSquare - 2] Added Monster [20571][65]
+2023-04-08_16:18:01 INFO [DevilSquare - 2] Added Monster [20572][65]
+2023-04-08_16:18:01 INFO [DevilSquare - 2] Added Monster [20573][65]
+2023-04-08_16:18:01 INFO [DevilSquare - 2] Added Monster [20574][65]
+2023-04-08_16:18:01 INFO [DevilSquare - 2] Added Monster [20575][65]
+2023-04-08_16:18:01 INFO [DevilSquare - 2] Added Monster [20576][65]
+2023-04-08_16:18:01 INFO [DevilSquare - 2] Added Monster [20577][65]
+2023-04-08_16:18:01 INFO [DevilSquare - 2] Added Monster [20578][65]
+2023-04-08_16:18:01 INFO [DevilSquare - 2] Added Monster [20579][65]
+2023-04-08_16:18:01 INFO [DevilSquare - 2] Added Monster [20580][67]
+2023-04-08_16:18:01 INFO [DevilSquare - 2] Added Monster [20581][67]
+2023-04-08_16:18:01 INFO [DevilSquare - 2] Added Monster [20582][67]
+2023-04-08_16:18:01 INFO [DevilSquare - 2] Added Monster [20583][67]
+2023-04-08_16:18:01 INFO [DevilSquare - 2] Added Monster [20584][67]
+2023-04-08_16:18:01 INFO [DevilSquare - 2] DevilSquare::SetState_Playing
+2023-04-08_16:18:01 INFO [DevilSquare - 3] Moving Players Out
+2023-04-08_16:18:01 INFO [DevilSquare - 3] Clearing Monsters
+2023-04-08_16:18:02 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2023-04-08_16:18:02 INFO [DevilSquare - 4] Moving Players Out
+2023-04-08_16:18:02 INFO [DevilSquare - 4] Clearing Monsters
+2023-04-08_16:18:02 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2023-04-08_16:18:02 INFO [DevilSquare - 5] Moving Players Out
+2023-04-08_16:18:02 INFO [DevilSquare - 5] Clearing Monsters
+2023-04-08_16:18:02 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2023-04-08_16:18:02 INFO [DevilSquare - 6] Moving Players Out
+2023-04-08_16:18:02 INFO [DevilSquare - 6] Clearing Monsters
+2023-04-08_16:18:02 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2023-04-08_16:18:02 INFO [DevilSquare - 7] Moving Players Out
+2023-04-08_16:18:02 INFO [DevilSquare - 7] Clearing Monsters
+2023-04-08_16:18:02 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2023-04-08_16:18:53 INFO [DevilSquare - 2] Ranking (1 - Kundun): Score: 1346400 / Experience: 8000 / Zen: 40000
+2023-04-08_16:18:53 INFO [DevilSquare - 2] Clearing Monsters
+2023-04-08_16:18:53 INFO [DevilSquare - 2] DevilSquare::SetState_Playend
+2023-04-08_16:19:53 INFO [DevilSquare - 2] Moving Players Out
+2023-04-08_16:19:53 INFO [DevilSquare - 2] Clearing Monsters
+2023-04-08_16:19:53 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2023-04-08_16:19:54 INFO [DevilSquareMgr] SetState_None()
+2023-04-08_16:30:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2023-04-08_16:30:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2023-04-08_16:30:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2023-04-08_16:30:00 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2023-04-08_16:30:00 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2023-04-08_16:30:00 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2023-04-08_16:30:01 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2023-04-08_16:30:01 INFO [DevilSquareMgr] SetState_Open()
+2023-04-08_16:34:05 INFO [DevilSquare - 1] Adding Player [SRV 18 -- 30004 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55]
+2023-04-08_16:34:20 INFO [DevilSquare - 1] Adding Player [SRV 18 -- 30005 - IP: 77.175.188.143 - Account: 2-test - Character: 145-Kundun]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] DevilSquare::SetState_StandBy
+2023-04-08_16:35:01 INFO [DevilSquare - 2] DevilSquare::SetState_StandBy
+2023-04-08_16:35:01 INFO [DevilSquare - 3] DevilSquare::SetState_StandBy
+2023-04-08_16:35:01 INFO [DevilSquare - 4] DevilSquare::SetState_StandBy
+2023-04-08_16:35:01 INFO [DevilSquare - 5] DevilSquare::SetState_StandBy
+2023-04-08_16:35:01 INFO [DevilSquare - 6] DevilSquare::SetState_StandBy
+2023-04-08_16:35:01 INFO [DevilSquare - 7] DevilSquare::SetState_StandBy
+2023-04-08_16:35:01 INFO [DevilSquareMgr] SetState_Playing()
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20600][17]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20601][17]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20602][17]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20603][17]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20604][17]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20605][17]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20606][17]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20607][17]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20608][17]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20609][17]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20610][17]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20611][17]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20612][17]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20613][17]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20614][17]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20615][17]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20616][17]
+2023-04-08_16:35:01 INFO [DevilSquare - 1] Added Monster [20617][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20618][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20619][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20620][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20621][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20622][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20623][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20624][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20625][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20626][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20627][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20628][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20629][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20630][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20631][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20632][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20633][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20634][17]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20635][15]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20636][15]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20637][15]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20638][15]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20639][15]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20640][15]
+2023-04-08_16:35:02 INFO [DevilSquare - 1] Added Monster [20641][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20642][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20643][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20644][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20645][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20646][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20647][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20648][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20649][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20650][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20651][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20652][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20653][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20654][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20655][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20656][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20657][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20658][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20659][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20660][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20661][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20662][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20663][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20664][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20665][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20666][15]
+2023-04-08_16:35:03 INFO [DevilSquare - 1] Added Monster [20667][15]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20668][15]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20669][15]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20670][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20671][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20672][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20673][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20674][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20675][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20676][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20677][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20678][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20679][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20680][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20681][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20682][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20683][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20684][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20685][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20686][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20687][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20688][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20689][5]
+2023-04-08_16:35:04 INFO [DevilSquare - 1] Added Monster [20690][5]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20691][5]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20692][5]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20693][5]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20694][5]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20695][5]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20696][5]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20697][5]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20698][5]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20699][5]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20700][5]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20701][5]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20702][5]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20703][5]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20704][5]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20705][13]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20706][13]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20707][13]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20708][13]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20709][13]
+2023-04-08_16:35:05 INFO [DevilSquare - 1] Added Monster [20710][13]
+2023-04-08_16:35:06 INFO [DevilSquare - 1] Added Monster [20711][13]
+2023-04-08_16:35:06 INFO [DevilSquare - 1] Added Monster [20712][13]
+2023-04-08_16:35:06 INFO [DevilSquare - 1] Added Monster [20713][13]
+2023-04-08_16:35:06 INFO [DevilSquare - 1] Added Monster [20714][13]
+2023-04-08_16:35:06 INFO [DevilSquare - 1] Added Monster [20715][13]
+2023-04-08_16:35:06 INFO [DevilSquare - 1] Added Monster [20716][13]
+2023-04-08_16:35:06 INFO [DevilSquare - 1] Added Monster [20717][13]
+2023-04-08_16:35:06 INFO [DevilSquare - 1] Added Monster [20718][13]
+2023-04-08_16:35:06 INFO [DevilSquare - 1] Added Monster [20719][13]
+2023-04-08_16:35:06 INFO [DevilSquare - 1] Added Monster [20720][13]
+2023-04-08_16:35:06 INFO [DevilSquare - 1] Added Monster [20721][13]
+2023-04-08_16:35:06 INFO [DevilSquare - 1] Added Monster [20722][13]
+2023-04-08_16:35:06 INFO [DevilSquare - 1] Added Monster [20723][13]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20724][13]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20725][13]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20726][13]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20727][13]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20728][13]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20729][13]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20730][13]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20731][13]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20732][13]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20733][13]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20734][13]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20735][13]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20736][13]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20737][13]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20738][13]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20739][13]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20740][8]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20741][8]
+2023-04-08_16:35:07 INFO [DevilSquare - 1] Added Monster [20742][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20743][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20744][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20745][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20746][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20747][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20748][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20749][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20750][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20751][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20752][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20753][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20754][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20755][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20756][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20757][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20758][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20759][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20760][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20761][8]
+2023-04-08_16:35:08 INFO [DevilSquare - 1] Added Monster [20762][8]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20763][8]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20764][8]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20765][8]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20766][8]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20767][8]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20768][8]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20769][8]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20770][8]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20771][8]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20772][8]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20773][8]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20774][8]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20775][36]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20776][36]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20777][36]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20778][36]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20779][36]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20780][36]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20781][36]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20782][36]
+2023-04-08_16:35:09 INFO [DevilSquare - 1] Added Monster [20783][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20784][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20785][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20786][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20787][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20788][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20789][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20790][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20791][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20792][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20793][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20794][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20795][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20796][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20797][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20798][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20799][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20800][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20801][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20802][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20803][36]
+2023-04-08_16:35:10 INFO [DevilSquare - 1] Added Monster [20804][36]
+2023-04-08_16:35:11 INFO [DevilSquare - 1] Added Monster [20805][36]
+2023-04-08_16:35:11 INFO [DevilSquare - 1] Added Monster [20806][36]
+2023-04-08_16:35:11 INFO [DevilSquare - 1] Added Monster [20807][36]
+2023-04-08_16:35:11 INFO [DevilSquare - 1] Added Monster [20808][36]
+2023-04-08_16:35:11 INFO [DevilSquare - 1] Added Monster [20809][36]
+2023-04-08_16:35:11 INFO [DevilSquare - 1] Added Monster [20810][18]
+2023-04-08_16:35:11 INFO [DevilSquare - 1] Added Monster [20811][18]
+2023-04-08_16:35:11 INFO [DevilSquare - 1] Added Monster [20812][18]
+2023-04-08_16:35:11 INFO [DevilSquare - 1] Added Monster [20813][18]
+2023-04-08_16:35:11 INFO [DevilSquare - 1] Added Monster [20814][18]
+2023-04-08_16:35:11 INFO [DevilSquare - 1] DevilSquare::SetState_Playing
+2023-04-08_16:35:11 INFO [DevilSquare - 2] Moving Players Out
+2023-04-08_16:35:11 INFO [DevilSquare - 2] Clearing Monsters
+2023-04-08_16:35:11 INFO [DevilSquare - 2] DevilSquare::SetState_None
+2023-04-08_16:35:11 INFO [DevilSquare - 3] Moving Players Out
+2023-04-08_16:35:11 INFO [DevilSquare - 3] Clearing Monsters
+2023-04-08_16:35:11 INFO [DevilSquare - 3] DevilSquare::SetState_None
+2023-04-08_16:35:11 INFO [DevilSquare - 4] Moving Players Out
+2023-04-08_16:35:12 INFO [DevilSquare - 4] Clearing Monsters
+2023-04-08_16:35:12 INFO [DevilSquare - 4] DevilSquare::SetState_None
+2023-04-08_16:35:12 INFO [DevilSquare - 5] Moving Players Out
+2023-04-08_16:35:12 INFO [DevilSquare - 5] Clearing Monsters
+2023-04-08_16:35:12 INFO [DevilSquare - 5] DevilSquare::SetState_None
+2023-04-08_16:35:12 INFO [DevilSquare - 6] Moving Players Out
+2023-04-08_16:35:12 INFO [DevilSquare - 6] Clearing Monsters
+2023-04-08_16:35:12 INFO [DevilSquare - 6] DevilSquare::SetState_None
+2023-04-08_16:35:12 INFO [DevilSquare - 7] Moving Players Out
+2023-04-08_16:35:12 INFO [DevilSquare - 7] Clearing Monsters
+2023-04-08_16:35:12 INFO [DevilSquare - 7] DevilSquare::SetState_None
+2023-04-08_16:55:01 INFO [DevilSquare - 1] Ranking (1 - Deadmau55): Score: 8052800 / Experience: 6000 / Zen: 30000
+2023-04-08_16:55:01 INFO [DevilSquare - 1] Ranking (2 - Kundun): Score: 7370000 / Experience: 4000 / Zen: 25000
+2023-04-08_16:55:01 INFO [DevilSquare - 1] Clearing Monsters
+2023-04-08_16:55:01 INFO [DevilSquare - 1] DevilSquare::SetState_Playend
+2023-04-08_16:56:01 INFO [DevilSquare - 1] Moving Players Out
+2023-04-08_16:56:01 INFO [DevilSquare - 1] Clearing Monsters
+2023-04-08_16:56:01 INFO [DevilSquare - 1] DevilSquare::SetState_None
+2023-04-08_16:56:01 INFO [DevilSquareMgr] SetState_None()
+2023-04-08_17:30:00 INFO [DevilSquare - 1] DevilSquare::SetState_Open
+2023-04-08_17:30:00 INFO [DevilSquare - 2] DevilSquare::SetState_Open
+2023-04-08_17:30:00 INFO [DevilSquare - 3] DevilSquare::SetState_Open
+2023-04-08_17:30:01 INFO [DevilSquare - 4] DevilSquare::SetState_Open
+2023-04-08_17:30:01 INFO [DevilSquare - 5] DevilSquare::SetState_Open
+2023-04-08_17:30:01 INFO [DevilSquare - 6] DevilSquare::SetState_Open
+2023-04-08_17:30:02 INFO [DevilSquare - 7] DevilSquare::SetState_Open
+2023-04-08_17:30:02 INFO [DevilSquareMgr] SetState_Open()

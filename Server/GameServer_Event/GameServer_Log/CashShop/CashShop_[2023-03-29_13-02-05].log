@@ -1,0 +1,22 @@
+2023-03-29_13:07:24 INFO LoadDBCashShopCoin() - [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] Success: [31724, 24181]
+2023-03-29_13:10:22 INFO LoadDBCashShopCoin() - [SRV 18 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] Success: [31724, 24282]
+2023-03-29_13:21:23 INFO LoadDBCashShopCoin() - [SRV 18 -- 30002 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] Success: [31724, 24864]
+2023-03-29_13:25:18 INFO LoadDBCashShopCoin() - [SRV 18 -- 30003 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] Success: [31724, 25032]
+2023-03-29_13:26:17 INFO LoadDBCashShopCoin() - [SRV 18 -- 30004 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] Success: [31724, 25043]
+2023-03-29_13:26:42 INFO CashShopOpenRequest() - [SRV 18 -- 30004 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] Successfully opened Cash Shop
+2023-03-29_13:26:43 INFO CashShopItemListRequest() - [SRV 18 -- 30004 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] Success. Type: 83 - Page: 1
+2023-03-29_13:27:00 INFO CashShopOpenRequest() - [SRV 18 -- 30004 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] Successfully closed Cash Shop
+2023-03-29_13:52:26 INFO LoadDBCashShopCoin() - [SRV 18 -- 30005 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] Success: [31724, 26060]
+2023-03-29_13:58:41 INFO LoadDBCashShopCoin() - [SRV 18 -- 30006 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] Success: [31724, 26060]
+2023-03-29_14:04:06 INFO LoadDBCashShopCoin() - [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] Success: [31724, 26299]
+2023-03-29_14:57:47 INFO LoadDBCashShopCoin() - [SRV 18 -- 30008 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] Success: [31724, 1546]
+2023-03-29_14:57:57 INFO LoadDBCashShopCoin() - [SRV 18 -- 30009 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] Success: [31724, 1546]
+2023-03-29_15:18:35 INFO LoadDBCashShopCoin() - [SRV 18 -- 30010 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] Success: [31724, 2454]
+2023-03-29_15:33:01 INFO LoadDBCashShopCoin() - [SRV 18 -- 30011 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] Success: [31724, 3253]
+2023-03-29_15:37:27 INFO LoadDBCashShopCoin() - [SRV 18 -- 30012 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] Success: [31724, 3476]
+2023-03-29_15:42:09 INFO LoadDBCashShopCoin() - [SRV 18 -- 30013 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] Success: [31724, 3712]
+2023-03-29_21:02:38 INFO LoadDBCashShopCoin() - [SRV 18 -- 30014 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] Success: [31724, 5619]
+2023-03-29_21:05:24 INFO LoadDBCashShopCoin() - [SRV 18 -- 30015 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] Success: [31724, 5738]
+2023-03-29_22:15:10 INFO LoadDBCashShopCoin() - [SRV 18 -- 30016 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] Success: [31724, 5942]
+2023-03-29_22:19:43 INFO LoadDBCashShopCoin() - [SRV 18 -- 30017 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] Success: [31724, 6129]
+2023-03-29_22:22:07 INFO LoadDBCashShopCoin() - [SRV 18 -- 30018 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] Success: [31724, 6207]

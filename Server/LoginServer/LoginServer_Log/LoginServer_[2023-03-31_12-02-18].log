@@ -1,0 +1,36 @@
+2023-03-31_12:02:19 INFO ========================================================
+2023-03-31_12:02:19 INFO ========================================================
+2023-03-31_12:02:19 INFO >>>>>>>>>>>>>>>>>>>>> LOGIN SERVER <<<<<<<<<<<<<<<<<<<<<<
+2023-03-31_12:02:19 INFO ========================================================
+2023-03-31_12:02:19 INFO ========================================================
+2023-03-31_12:02:19 INFO Process priority class set to HIGH
+2023-03-31_12:02:19 INFO Starting DB...
+2023-03-31_12:02:21 DEBUG Network Thread Starting
+2023-03-31_12:02:21 INFO  
+2023-03-31_12:02:21 INFO LoginServer Ready
+2023-03-31_12:02:22 INFO Loading World Server...
+2023-03-31_12:02:22 INFO >> Loaded 64 world server definitions
+2023-03-31_12:02:22 INFO  
+2023-03-31_13:25:42 INFO Loading World Server...
+2023-03-31_13:25:42 INFO >> Loaded 64 world server definitions
+2023-03-31_13:25:42 INFO  
+2023-03-31_14:49:02 INFO Loading World Server...
+2023-03-31_14:49:02 INFO >> Loaded 64 world server definitions
+2023-03-31_14:49:02 INFO  
+2023-03-31_16:12:22 INFO Loading World Server...
+2023-03-31_16:12:22 INFO >> Loaded 64 world server definitions
+2023-03-31_16:12:22 INFO  
+2023-03-31_17:35:42 INFO Loading World Server...
+2023-03-31_17:35:42 INFO >> Loaded 64 world server definitions
+2023-03-31_17:35:42 INFO  
+2023-03-31_18:59:02 INFO Loading World Server...
+2023-03-31_18:59:02 INFO >> Loaded 64 world server definitions
+2023-03-31_18:59:02 INFO  
+2023-03-31_20:22:22 INFO Loading World Server...
+2023-03-31_20:22:22 INFO >> Loaded 64 world server definitions
+2023-03-31_20:22:22 INFO  
+2023-03-31_21:45:42 INFO Loading World Server...
+2023-03-31_21:45:42 INFO >> Loaded 64 world server definitions
+2023-03-31_21:45:42 INFO  
+2023-03-31_22:45:52 DEBUG Network Thread exits
+2023-03-31_22:45:57 INFO Closing LoginServer

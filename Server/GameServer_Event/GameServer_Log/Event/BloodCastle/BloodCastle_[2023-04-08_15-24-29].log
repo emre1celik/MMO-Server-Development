@@ -1,0 +1,341 @@
+2023-04-08_15:24:36 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_15:24:36 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_15:24:36 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_15:24:36 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_15:24:36 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_15:24:36 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_15:24:36 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_15:24:36 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_15:24:36 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_15:24:36 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_15:24:36 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_15:24:36 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_15:24:36 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_15:24:36 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_15:24:36 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_15:24:36 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_15:24:36 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_15:24:36 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_15:24:36 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_15:24:36 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_15:24:36 INFO [BloodCastle - 7] BloodCastle::SetState_None
+2023-04-08_15:24:36 INFO [BloodCastleMgr] SetState_None()
+2023-04-08_16:00:00 INFO [BloodCastle - 1] Added Monster [20258][232].
+2023-04-08_16:00:00 INFO [BloodCastle - 1] BloodCastle::SetState_Open
+2023-04-08_16:00:00 INFO [BloodCastle - 2] Added Monster [20259][232].
+2023-04-08_16:00:00 INFO [BloodCastle - 2] BloodCastle::SetState_Open
+2023-04-08_16:00:00 INFO [BloodCastle - 3] Added Monster [20260][232].
+2023-04-08_16:00:00 INFO [BloodCastle - 3] BloodCastle::SetState_Open
+2023-04-08_16:00:00 INFO [BloodCastle - 4] Added Monster [20261][232].
+2023-04-08_16:00:00 INFO [BloodCastle - 4] BloodCastle::SetState_Open
+2023-04-08_16:00:00 INFO [BloodCastle - 5] Added Monster [20262][232].
+2023-04-08_16:00:00 INFO [BloodCastle - 5] BloodCastle::SetState_Open
+2023-04-08_16:00:00 INFO [BloodCastle - 6] Added Monster [20263][232].
+2023-04-08_16:00:00 INFO [BloodCastle - 6] BloodCastle::SetState_Open
+2023-04-08_16:00:00 INFO [BloodCastle - 7] Added Monster [20264][232].
+2023-04-08_16:00:00 INFO [BloodCastle - 7] BloodCastle::SetState_Open
+2023-04-08_16:00:00 INFO [BloodCastleMgr] SetState_Open()
+2023-04-08_16:03:03 INFO [BloodCastle - 1] Adding Player [SRV 18 -- 30002 - IP: 77.175.188.143 - Account: 2-test - Character: 137-test]
+2023-04-08_16:05:00 INFO [BloodCastle - 1] BloodCastle::SetState_StandBy
+2023-04-08_16:05:00 INFO [BloodCastle - 2] BloodCastle::SetState_StandBy
+2023-04-08_16:05:00 INFO [BloodCastle - 3] BloodCastle::SetState_StandBy
+2023-04-08_16:05:00 INFO [BloodCastle - 4] BloodCastle::SetState_StandBy
+2023-04-08_16:05:00 INFO [BloodCastle - 5] BloodCastle::SetState_StandBy
+2023-04-08_16:05:00 INFO [BloodCastle - 6] BloodCastle::SetState_StandBy
+2023-04-08_16:05:00 INFO [BloodCastle - 7] BloodCastle::SetState_StandBy
+2023-04-08_16:05:01 INFO [BloodCastleMgr] SetState_Playing()
+2023-04-08_16:06:00 INFO [BloodCastle - 1] Added Monster [20274][90].
+2023-04-08_16:06:00 INFO [BloodCastle - 1] Added Monster [20275][90].
+2023-04-08_16:06:00 INFO [BloodCastle - 1] Added Monster [20276][90].
+2023-04-08_16:06:00 INFO [BloodCastle - 1] Added Monster [20277][90].
+2023-04-08_16:06:00 INFO [BloodCastle - 1] Added Monster [20278][90].
+2023-04-08_16:06:00 INFO [BloodCastle - 1] Added Monster [20279][90].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20280][90].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20281][90].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20282][90].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20283][90].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20284][90].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20285][90].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20286][90].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20287][90].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20288][90].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20289][90].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20290][90].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20291][90].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20292][90].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20293][91].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20294][91].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20295][91].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20296][91].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20297][91].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20298][91].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20299][92].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20300][92].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20301][92].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20302][92].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20303][92].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20304][92].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20305][92].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20306][92].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20307][92].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20308][92].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20309][92].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20310][93].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20311][93].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20312][93].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20313][93].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20314][93].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20315][93].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20316][93].
+2023-04-08_16:06:01 INFO [BloodCastle - 1] Added Monster [20317][93].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20318][93].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20319][93].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20320][93].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20321][93].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20322][93].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20323][93].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20324][93].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20325][93].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20326][93].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20327][93].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20328][93].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20329][93].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20330][93].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20331][93].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20332][93].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20333][93].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20334][94].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20335][94].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20336][94].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20337][94].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20338][94].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20339][94].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20340][94].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20341][94].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20342][94].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20343][94].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20344][94].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] Added Monster [20345][131].
+2023-04-08_16:06:02 INFO [BloodCastle - 1] BloodCastle::SetState_Playing
+2023-04-08_16:06:02 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_16:06:03 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_16:06:03 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_16:06:03 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_16:06:03 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_16:06:03 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_16:06:03 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_16:06:03 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_16:06:03 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_16:06:03 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_16:06:03 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_16:06:03 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_16:06:03 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_16:06:03 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_16:06:03 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_16:06:03 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_16:06:03 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_16:06:03 INFO [BloodCastle - 7] BloodCastle::SetState_None
+2023-04-08_16:06:49 INFO [BloodCastle - 1] Killed Bridge Monsters
+2023-04-08_16:07:35 INFO [BloodCastle - 1] Door has been destroyed by test
+2023-04-08_16:07:35 INFO [BloodCastle - 1] Added Monster [20346][95].
+2023-04-08_16:07:35 INFO [BloodCastle - 1] Added Monster [20347][95].
+2023-04-08_16:07:35 INFO [BloodCastle - 1] Added Monster [20348][95].
+2023-04-08_16:07:35 INFO [BloodCastle - 1] Added Monster [20349][95].
+2023-04-08_16:07:35 INFO [BloodCastle - 1] Added Monster [20350][95].
+2023-04-08_16:07:35 INFO [BloodCastle - 1] Added Monster [20351][95].
+2023-04-08_16:07:35 INFO [BloodCastle - 1] Added Monster [20352][95].
+2023-04-08_16:07:35 INFO [BloodCastle - 1] Added Monster [20353][95].
+2023-04-08_16:07:36 INFO [BloodCastle - 1] Added Monster [20354][95].
+2023-04-08_16:07:36 INFO [BloodCastle - 1] Added Monster [20355][95].
+2023-04-08_16:07:36 INFO [BloodCastle - 1] Added Monster [20356][95].
+2023-04-08_16:07:36 INFO [BloodCastle - 1] Added Monster [20357][95].
+2023-04-08_16:07:36 INFO [BloodCastle - 1] Added Monster [20358][95].
+2023-04-08_16:07:36 INFO [BloodCastle - 1] Added Monster [20359][95].
+2023-04-08_16:07:36 INFO [BloodCastle - 1] Added Monster [20360][95].
+2023-04-08_16:07:36 INFO [BloodCastle - 1] Added Monster [20361][95].
+2023-04-08_16:07:36 INFO [BloodCastle - 1] Added Monster [20362][96].
+2023-04-08_16:07:36 INFO [BloodCastle - 1] Added Monster [20363][96].
+2023-04-08_16:07:36 INFO [BloodCastle - 1] Added Monster [20364][96].
+2023-04-08_16:07:36 INFO [BloodCastle - 1] Added Monster [20365][96].
+2023-04-08_16:07:36 INFO [BloodCastle - 1] Added Monster [20366][96].
+2023-04-08_16:07:36 INFO [BloodCastle - 1] Added Monster [20367][96].
+2023-04-08_16:07:36 INFO [BloodCastle - 1] Added Monster [20368][96].
+2023-04-08_16:07:36 INFO [BloodCastle - 1] Added Monster [20369][96].
+2023-04-08_16:07:46 INFO [BloodCastle - 1] Removed Player test : Died.
+2023-04-08_16:07:46 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_16:07:46 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_16:07:46 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_16:07:46 INFO [BloodCastleMgr] SetState_None()
+2023-04-08_17:00:01 INFO [BloodCastle - 1] Added Monster [20830][232].
+2023-04-08_17:00:01 INFO [BloodCastle - 1] BloodCastle::SetState_Open
+2023-04-08_17:00:01 INFO [BloodCastle - 2] Added Monster [20831][232].
+2023-04-08_17:00:01 INFO [BloodCastle - 2] BloodCastle::SetState_Open
+2023-04-08_17:00:02 INFO [BloodCastle - 3] Added Monster [20832][232].
+2023-04-08_17:00:02 INFO [BloodCastle - 3] BloodCastle::SetState_Open
+2023-04-08_17:00:02 INFO [BloodCastle - 4] Added Monster [20833][232].
+2023-04-08_17:00:02 INFO [BloodCastle - 4] BloodCastle::SetState_Open
+2023-04-08_17:00:02 INFO [BloodCastle - 5] Added Monster [20834][232].
+2023-04-08_17:00:02 INFO [BloodCastle - 5] BloodCastle::SetState_Open
+2023-04-08_17:00:02 INFO [BloodCastle - 6] Added Monster [20835][232].
+2023-04-08_17:00:02 INFO [BloodCastle - 6] BloodCastle::SetState_Open
+2023-04-08_17:00:02 INFO [BloodCastle - 7] Added Monster [20836][232].
+2023-04-08_17:00:03 INFO [BloodCastle - 7] BloodCastle::SetState_Open
+2023-04-08_17:00:03 INFO [BloodCastleMgr] SetState_Open()
+2023-04-08_17:00:57 INFO [BloodCastle - 1] Adding Player [SRV 18 -- 30006 - IP: 77.175.188.143 - Account: 2-test - Character: 145-Kundun]
+2023-04-08_17:01:13 INFO [BloodCastle - 1] Adding Player [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55]
+2023-04-08_17:05:03 INFO [BloodCastle - 1] BloodCastle::SetState_StandBy
+2023-04-08_17:05:03 INFO [BloodCastle - 2] BloodCastle::SetState_StandBy
+2023-04-08_17:05:03 INFO [BloodCastle - 3] BloodCastle::SetState_StandBy
+2023-04-08_17:05:03 INFO [BloodCastle - 4] BloodCastle::SetState_StandBy
+2023-04-08_17:05:03 INFO [BloodCastle - 5] BloodCastle::SetState_StandBy
+2023-04-08_17:05:03 INFO [BloodCastle - 6] BloodCastle::SetState_StandBy
+2023-04-08_17:05:03 INFO [BloodCastle - 7] BloodCastle::SetState_StandBy
+2023-04-08_17:05:03 INFO [BloodCastleMgr] SetState_Playing()
+2023-04-08_17:06:03 INFO [BloodCastle - 1] Added Monster [20837][90].
+2023-04-08_17:06:03 INFO [BloodCastle - 1] Added Monster [20838][90].
+2023-04-08_17:06:03 INFO [BloodCastle - 1] Added Monster [20839][90].
+2023-04-08_17:06:03 INFO [BloodCastle - 1] Added Monster [20840][90].
+2023-04-08_17:06:03 INFO [BloodCastle - 1] Added Monster [20841][90].
+2023-04-08_17:06:03 INFO [BloodCastle - 1] Added Monster [20842][90].
+2023-04-08_17:06:03 INFO [BloodCastle - 1] Added Monster [20843][90].
+2023-04-08_17:06:03 INFO [BloodCastle - 1] Added Monster [20844][90].
+2023-04-08_17:06:03 INFO [BloodCastle - 1] Added Monster [20845][90].
+2023-04-08_17:06:03 INFO [BloodCastle - 1] Added Monster [20846][90].
+2023-04-08_17:06:03 INFO [BloodCastle - 1] Added Monster [20847][90].
+2023-04-08_17:06:03 INFO [BloodCastle - 1] Added Monster [20848][90].
+2023-04-08_17:06:03 INFO [BloodCastle - 1] Added Monster [20849][90].
+2023-04-08_17:06:03 INFO [BloodCastle - 1] Added Monster [20850][90].
+2023-04-08_17:06:03 INFO [BloodCastle - 1] Added Monster [20851][90].
+2023-04-08_17:06:04 INFO [BloodCastle - 1] Added Monster [20852][90].
+2023-04-08_17:06:04 INFO [BloodCastle - 1] Added Monster [20853][90].
+2023-04-08_17:06:04 INFO [BloodCastle - 1] Added Monster [20854][90].
+2023-04-08_17:06:04 INFO [BloodCastle - 1] Added Monster [20855][90].
+2023-04-08_17:06:04 INFO [BloodCastle - 1] Added Monster [20856][91].
+2023-04-08_17:06:04 INFO [BloodCastle - 1] Added Monster [20857][91].
+2023-04-08_17:06:04 INFO [BloodCastle - 1] Added Monster [20858][91].
+2023-04-08_17:06:04 INFO [BloodCastle - 1] Added Monster [20859][91].
+2023-04-08_17:06:04 INFO [BloodCastle - 1] Added Monster [20860][91].
+2023-04-08_17:06:04 INFO [BloodCastle - 1] Added Monster [20861][91].
+2023-04-08_17:06:04 INFO [BloodCastle - 1] Added Monster [20862][92].
+2023-04-08_17:06:04 INFO [BloodCastle - 1] Added Monster [20863][92].
+2023-04-08_17:06:04 INFO [BloodCastle - 1] Added Monster [20864][92].
+2023-04-08_17:06:04 INFO [BloodCastle - 1] Added Monster [20865][92].
+2023-04-08_17:06:04 INFO [BloodCastle - 1] Added Monster [20866][92].
+2023-04-08_17:06:04 INFO [BloodCastle - 1] Added Monster [20867][92].
+2023-04-08_17:06:05 INFO [BloodCastle - 1] Added Monster [20868][92].
+2023-04-08_17:06:05 INFO [BloodCastle - 1] Added Monster [20869][92].
+2023-04-08_17:06:05 INFO [BloodCastle - 1] Added Monster [20870][92].
+2023-04-08_17:06:05 INFO [BloodCastle - 1] Added Monster [20871][92].
+2023-04-08_17:06:05 INFO [BloodCastle - 1] Added Monster [20872][92].
+2023-04-08_17:06:05 INFO [BloodCastle - 1] Added Monster [20873][93].
+2023-04-08_17:06:05 INFO [BloodCastle - 1] Added Monster [20874][93].
+2023-04-08_17:06:05 INFO [BloodCastle - 1] Added Monster [20875][93].
+2023-04-08_17:06:05 INFO [BloodCastle - 1] Added Monster [20876][93].
+2023-04-08_17:06:05 INFO [BloodCastle - 1] Added Monster [20877][93].
+2023-04-08_17:06:05 INFO [BloodCastle - 1] Added Monster [20878][93].
+2023-04-08_17:06:05 INFO [BloodCastle - 1] Added Monster [20879][93].
+2023-04-08_17:06:05 INFO [BloodCastle - 1] Added Monster [20880][93].
+2023-04-08_17:06:06 INFO [BloodCastle - 1] Added Monster [20881][93].
+2023-04-08_17:06:06 INFO [BloodCastle - 1] Added Monster [20882][93].
+2023-04-08_17:06:06 INFO [BloodCastle - 1] Added Monster [20883][93].
+2023-04-08_17:06:06 INFO [BloodCastle - 1] Added Monster [20884][93].
+2023-04-08_17:06:06 INFO [BloodCastle - 1] Added Monster [20885][93].
+2023-04-08_17:06:06 INFO [BloodCastle - 1] Added Monster [20886][93].
+2023-04-08_17:06:06 INFO [BloodCastle - 1] Added Monster [20887][93].
+2023-04-08_17:06:06 INFO [BloodCastle - 1] Added Monster [20888][93].
+2023-04-08_17:06:06 INFO [BloodCastle - 1] Added Monster [20889][93].
+2023-04-08_17:06:06 INFO [BloodCastle - 1] Added Monster [20890][93].
+2023-04-08_17:06:06 INFO [BloodCastle - 1] Added Monster [20891][93].
+2023-04-08_17:06:06 INFO [BloodCastle - 1] Added Monster [20892][93].
+2023-04-08_17:06:06 INFO [BloodCastle - 1] Added Monster [20893][93].
+2023-04-08_17:06:06 INFO [BloodCastle - 1] Added Monster [20894][93].
+2023-04-08_17:06:06 INFO [BloodCastle - 1] Added Monster [20895][93].
+2023-04-08_17:06:06 INFO [BloodCastle - 1] Added Monster [20896][93].
+2023-04-08_17:06:07 INFO [BloodCastle - 1] Added Monster [20897][94].
+2023-04-08_17:06:07 INFO [BloodCastle - 1] Added Monster [20898][94].
+2023-04-08_17:06:07 INFO [BloodCastle - 1] Added Monster [20899][94].
+2023-04-08_17:06:07 INFO [BloodCastle - 1] Added Monster [20900][94].
+2023-04-08_17:06:07 INFO [BloodCastle - 1] Added Monster [20901][94].
+2023-04-08_17:06:07 INFO [BloodCastle - 1] Added Monster [20902][94].
+2023-04-08_17:06:07 INFO [BloodCastle - 1] Added Monster [20903][94].
+2023-04-08_17:06:07 INFO [BloodCastle - 1] Added Monster [20904][94].
+2023-04-08_17:06:07 INFO [BloodCastle - 1] Added Monster [20905][94].
+2023-04-08_17:06:07 INFO [BloodCastle - 1] Added Monster [20906][94].
+2023-04-08_17:06:07 INFO [BloodCastle - 1] Added Monster [20907][94].
+2023-04-08_17:06:07 INFO [BloodCastle - 1] Added Monster [20908][131].
+2023-04-08_17:06:07 INFO [BloodCastle - 1] BloodCastle::SetState_Playing
+2023-04-08_17:06:07 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_17:06:07 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_17:06:08 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_17:06:08 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_17:06:08 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_17:06:08 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_17:06:08 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_17:06:08 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_17:06:08 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_17:06:08 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_17:06:08 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_17:06:08 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_17:06:08 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_17:06:08 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_17:06:08 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_17:06:08 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_17:06:08 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_17:06:09 INFO [BloodCastle - 7] BloodCastle::SetState_None
+2023-04-08_17:06:28 INFO [BloodCastle - 1] Killed Bridge Monsters
+2023-04-08_17:07:04 INFO [BloodCastle - 1] Door has been destroyed by Deadmau55
+2023-04-08_17:07:04 INFO [BloodCastle - 1] Added Monster [20909][95].
+2023-04-08_17:07:04 INFO [BloodCastle - 1] Added Monster [20910][95].
+2023-04-08_17:07:04 INFO [BloodCastle - 1] Added Monster [20911][95].
+2023-04-08_17:07:04 INFO [BloodCastle - 1] Added Monster [20912][95].
+2023-04-08_17:07:04 INFO [BloodCastle - 1] Added Monster [20913][95].
+2023-04-08_17:07:04 INFO [BloodCastle - 1] Added Monster [20914][95].
+2023-04-08_17:07:04 INFO [BloodCastle - 1] Added Monster [20915][95].
+2023-04-08_17:07:04 INFO [BloodCastle - 1] Added Monster [20916][95].
+2023-04-08_17:07:04 INFO [BloodCastle - 1] Added Monster [20917][95].
+2023-04-08_17:07:04 INFO [BloodCastle - 1] Added Monster [20918][95].
+2023-04-08_17:07:05 INFO [BloodCastle - 1] Added Monster [20919][95].
+2023-04-08_17:07:05 INFO [BloodCastle - 1] Added Monster [20920][95].
+2023-04-08_17:07:05 INFO [BloodCastle - 1] Added Monster [20921][95].
+2023-04-08_17:07:05 INFO [BloodCastle - 1] Added Monster [20922][95].
+2023-04-08_17:07:05 INFO [BloodCastle - 1] Added Monster [20923][95].
+2023-04-08_17:07:05 INFO [BloodCastle - 1] Added Monster [20924][95].
+2023-04-08_17:07:05 INFO [BloodCastle - 1] Added Monster [20925][96].
+2023-04-08_17:07:05 INFO [BloodCastle - 1] Added Monster [20926][96].
+2023-04-08_17:07:05 INFO [BloodCastle - 1] Added Monster [20927][96].
+2023-04-08_17:07:05 INFO [BloodCastle - 1] Added Monster [20928][96].
+2023-04-08_17:07:05 INFO [BloodCastle - 1] Added Monster [20929][96].
+2023-04-08_17:07:05 INFO [BloodCastle - 1] Added Monster [20930][96].
+2023-04-08_17:07:05 INFO [BloodCastle - 1] Added Monster [20931][96].
+2023-04-08_17:07:06 INFO [BloodCastle - 1] Added Monster [20932][96].
+2023-04-08_17:07:31 INFO [BloodCastle - 1] Added Monster [20933][132].
+2023-04-08_17:07:31 INFO [BloodCastle - 1] Killed Boss
+2023-04-08_17:07:58 INFO [BloodCastle - 1] Statue has been destroyed by Deadmau55
+2023-04-08_17:08:02 INFO [BloodCastle - 1] Deadmau55 obtained Archangel Weapon.
+2023-04-08_17:08:54 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_17:08:55 INFO [BloodCastle - 1] BloodCastle::SetState_Playend
+2023-04-08_17:10:55 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_17:10:55 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_17:10:55 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_17:10:55 INFO [BloodCastleMgr] SetState_None()
+2023-04-08_17:33:07 INFO [BloodCastle - 1] Moving Players Out
+2023-04-08_17:33:07 INFO [BloodCastle - 1] Clearing Monsters.
+2023-04-08_17:33:07 INFO [BloodCastle - 1] BloodCastle::SetState_None
+2023-04-08_17:33:07 INFO [BloodCastle - 2] Moving Players Out
+2023-04-08_17:33:07 INFO [BloodCastle - 2] Clearing Monsters.
+2023-04-08_17:33:07 INFO [BloodCastle - 2] BloodCastle::SetState_None
+2023-04-08_17:33:07 INFO [BloodCastle - 3] Moving Players Out
+2023-04-08_17:33:07 INFO [BloodCastle - 3] Clearing Monsters.
+2023-04-08_17:33:07 INFO [BloodCastle - 3] BloodCastle::SetState_None
+2023-04-08_17:33:07 INFO [BloodCastle - 4] Moving Players Out
+2023-04-08_17:33:07 INFO [BloodCastle - 4] Clearing Monsters.
+2023-04-08_17:33:07 INFO [BloodCastle - 4] BloodCastle::SetState_None
+2023-04-08_17:33:07 INFO [BloodCastle - 5] Moving Players Out
+2023-04-08_17:33:07 INFO [BloodCastle - 5] Clearing Monsters.
+2023-04-08_17:33:07 INFO [BloodCastle - 5] BloodCastle::SetState_None
+2023-04-08_17:33:07 INFO [BloodCastle - 6] Moving Players Out
+2023-04-08_17:33:07 INFO [BloodCastle - 6] Clearing Monsters.
+2023-04-08_17:33:07 INFO [BloodCastle - 6] BloodCastle::SetState_None
+2023-04-08_17:33:07 INFO [BloodCastle - 7] Moving Players Out
+2023-04-08_17:33:07 INFO [BloodCastle - 7] Clearing Monsters.
+2023-04-08_17:33:07 INFO [BloodCastle - 7] BloodCastle::SetState_None

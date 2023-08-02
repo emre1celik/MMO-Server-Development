@@ -1,0 +1,10 @@
+2023-03-29_13:27:03 INFO [ SERVER MOVE AUTH ] [SRV 19 -- 30000 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Mage]
+2023-03-29_13:27:03 INFO [ SERVER MOVE AUTH RESULT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Mage]
+2023-03-29_13:27:03 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Mage - 0 selected ( Step One ).
+2023-03-29_13:27:04 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-29_13:27:04 INFO Player::EnterWorldSuccess -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] -- Location:[34 - 229/45]
+2023-03-29_13:27:10 INFO Closing interface (interface_quest_evolution_giver - 0) -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage]
+2023-03-29_13:27:31 INFO MasterLevelUp() [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] - Level: 136 - Location:[34 - 207/75]
+2023-03-29_13:28:45 INFO MasterLevelUp() [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] - Level: 137 - Location:[34 - 238/109]
+2023-03-29_13:29:27 INFO [ SERVER MOVE REQUEST ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] --- Server: 65535 [80 - 137/112]
+2023-03-29_13:29:28 INFO [ SERVER MOVE SUCCESS ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] --- Server: 65535 [80 - 137/112]

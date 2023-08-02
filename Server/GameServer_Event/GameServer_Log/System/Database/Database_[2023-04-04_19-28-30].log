@@ -1,0 +1,60 @@
+2023-04-04_19:28:31 INFO Opening DatabasePool 'characters'. Asynchronous connections: 1, synchronous connections: 2.
+2023-04-04_19:28:31 INFO MySQL client library: 5.6.29
+2023-04-04_19:28:31 INFO MySQL server ver: 5.7.41-log 
+2023-04-04_19:28:31 INFO Connected to MySQL database at 127.0.0.1
+2023-04-04_19:28:32 INFO MySQL client library: 5.6.29
+2023-04-04_19:28:32 INFO MySQL server ver: 5.7.41-log 
+2023-04-04_19:28:32 INFO Connected to MySQL database at 127.0.0.1
+2023-04-04_19:28:32 INFO MySQL client library: 5.6.29
+2023-04-04_19:28:32 INFO MySQL server ver: 5.7.41-log 
+2023-04-04_19:28:32 INFO Connected to MySQL database at 127.0.0.1
+2023-04-04_19:28:32 INFO DatabasePool 'characters' opened successfully. 3 total connections running.
+2023-04-04_19:28:32 INFO Opening DatabasePool 'log'. Asynchronous connections: 1, synchronous connections: 2.
+2023-04-04_19:28:32 INFO MySQL client library: 5.6.29
+2023-04-04_19:28:32 INFO MySQL server ver: 5.7.41-log 
+2023-04-04_19:28:32 INFO Connected to MySQL database at 127.0.0.1
+2023-04-04_19:28:32 INFO MySQL client library: 5.6.29
+2023-04-04_19:28:32 INFO MySQL server ver: 5.7.41-log 
+2023-04-04_19:28:32 INFO Connected to MySQL database at 127.0.0.1
+2023-04-04_19:28:32 INFO MySQL client library: 5.6.29
+2023-04-04_19:28:32 INFO MySQL server ver: 5.7.41-log 
+2023-04-04_19:28:32 INFO Connected to MySQL database at 127.0.0.1
+2023-04-04_19:28:32 INFO DatabasePool 'log' opened successfully. 3 total connections running.
+2023-04-04_19:28:32 INFO Opening DatabasePool 'u897592642_login'. Asynchronous connections: 1, synchronous connections: 2.
+2023-04-04_19:28:32 INFO MySQL client library: 5.6.29
+2023-04-04_19:28:32 INFO MySQL server ver: 5.5.5-10.6.12-MariaDB-cll-lve 
+2023-04-04_19:28:32 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-04_19:28:33 INFO MySQL client library: 5.6.29
+2023-04-04_19:28:33 INFO MySQL server ver: 5.5.5-10.6.12-MariaDB-cll-lve 
+2023-04-04_19:28:33 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-04_19:28:33 INFO MySQL client library: 5.6.29
+2023-04-04_19:28:33 INFO MySQL server ver: 5.5.5-10.6.12-MariaDB-cll-lve 
+2023-04-04_19:28:33 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-04_19:28:33 INFO DatabasePool 'u897592642_login' opened successfully. 3 total connections running.
+2023-04-04_19:38:40 INFO Main::KeepDatabaseAlive
+2023-04-04_19:48:40 INFO Main::KeepDatabaseAlive
+2023-04-04_19:58:40 INFO Main::KeepDatabaseAlive
+2023-04-04_20:08:40 INFO Main::KeepDatabaseAlive
+2023-04-04_20:18:40 INFO Main::KeepDatabaseAlive
+2023-04-04_20:28:40 INFO Main::KeepDatabaseAlive
+2023-04-04_20:38:40 INFO Main::KeepDatabaseAlive
+2023-04-04_20:48:40 INFO Main::KeepDatabaseAlive
+2023-04-04_20:58:40 INFO Main::KeepDatabaseAlive
+2023-04-04_21:08:40 INFO Main::KeepDatabaseAlive
+2023-04-04_21:18:40 INFO Main::KeepDatabaseAlive
+2023-04-04_21:28:40 INFO Main::KeepDatabaseAlive
+2023-04-04_21:38:40 INFO Main::KeepDatabaseAlive
+2023-04-04_21:48:40 INFO Main::KeepDatabaseAlive
+2023-04-04_21:58:40 INFO Main::KeepDatabaseAlive
+2023-04-04_22:08:40 INFO Main::KeepDatabaseAlive
+2023-04-04_22:18:40 INFO Main::KeepDatabaseAlive
+2023-04-04_22:28:40 INFO Main::KeepDatabaseAlive
+2023-04-04_22:38:40 INFO Main::KeepDatabaseAlive
+2023-04-04_22:48:40 INFO Main::KeepDatabaseAlive
+2023-04-04_22:58:40 INFO Main::KeepDatabaseAlive
+2023-04-04_23:08:40 INFO Main::KeepDatabaseAlive
+2023-04-04_23:18:40 INFO Main::KeepDatabaseAlive
+2023-04-04_23:28:40 INFO Main::KeepDatabaseAlive
+2023-04-04_23:38:40 INFO Main::KeepDatabaseAlive
+2023-04-04_23:48:40 INFO Main::KeepDatabaseAlive
+2023-04-04_23:58:40 INFO Main::KeepDatabaseAlive

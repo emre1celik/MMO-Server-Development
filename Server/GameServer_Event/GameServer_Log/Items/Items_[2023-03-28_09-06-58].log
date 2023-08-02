@@ -1,0 +1,7 @@
+2023-03-28_09:06:58 INFO World::UpdateItemQueue -- [79 / Loren Market -- 207 / 61] Owner: [30000 / Mage] -- [SERIAL]18/1/0[SERIAL][SLOT]0[SLOT][ITEM]7184 - [ITEM][LVL]0[LVL][DUR]1[DUR]
+2023-03-28_09:06:59 INFO World::UpdateItemQueue -- [79 / Loren Market -- 207 / 60] Owner: [30000 / Mage] -- [SERIAL]18/2/0[SERIAL][SLOT]0[SLOT][ITEM]6656 - [ITEM][LVL]0[LVL][DUR]255[DUR]
+2023-03-28_09:07:05 INFO World::UpdateItemQueue -- [79 / Loren Market -- 209 / 61] Owner: [30000 / Mage] -- [SERIAL]18/3/0[SERIAL][SLOT]0[SLOT][ITEM]6668 - [ITEM][LVL]0[LVL][DUR]65[DUR][O]2[O][E]1[E]
+2023-03-28_09:07:06 INFO World::UpdateItemQueue -- [79 / Loren Market -- 210 / 62] Owner: [30000 / Mage] -- [SERIAL]18/4/0[SERIAL][SLOT]0[SLOT][ITEM]7182 - [ITEM][LVL]0[LVL][DUR]1[DUR]
+2023-03-28_09:07:08 INFO World::UpdateItemQueue -- [79 / Loren Market -- 210 / 62] Owner: [30000 / Mage] -- [SERIAL]18/5/0[SERIAL][SLOT]0[SLOT][ITEM]6664 - [ITEM][LVL]0[LVL][DUR]65[DUR][L]1[L][O]1[O][E]13[E]
+2023-03-28_09:07:09 INFO World::UpdateItemQueue -- [79 / Loren Market -- 206 / 59] Owner: [30000 / Mage] -- [SERIAL]18/6/0[SERIAL][SLOT]0[SLOT][ITEM]5124 - [ITEM][LVL]6[LVL][DUR]38[DUR][L]1[L][O]2[O]
+2023-03-28_09:07:10 INFO World::UpdateItemQueue -- [79 / Loren Market -- 206 / 59] Owner: [30000 / Mage] -- [SERIAL]18/7/0[SERIAL][SLOT]0[SLOT][ITEM]6657 - [ITEM][LVL]0[LVL][DUR]255[DUR][L]1[L]

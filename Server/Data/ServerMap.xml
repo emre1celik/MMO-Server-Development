@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == 				MUONLINE SERVER EMULATOR				 ==
+// == 				   POWERED BY DevEMU				 	 ==
+// ==                 File Name: ServerMap                   ==
+// ============================================================
+-->
+
+<ServerMap>
+	<Server ServerIndex="0" ServerCode="0" ServerName="Regular" ServerPort="55501" ServerIP="85.215.196.105" Display="1" DefaultWorld="0" DefaultX="75" DefaultY="75" ServerType="0" />
+	<Server ServerIndex="17" ServerCode="17" ServerName="ArkaWar" ServerPort="55517" ServerIP="85.215.196.105" Display="0" DefaultWorld="41" DefaultX="41" DefaultY="29" ServerType="3" />
+	<Server ServerIndex="18" ServerCode="18" ServerName="Event" ServerPort="55518" ServerIP="85.215.196.105" Display="0" DefaultWorld="40" DefaultX="40" DefaultY="269" ServerType="2" />
+	<Server ServerIndex="19" ServerCode="19" ServerName="Siege" ServerPort="55519" ServerIP="85.215.196.105" Display="0" DefaultWorld="41" DefaultX="41" DefaultY="29" ServerType="1" />
+</ServerMap>

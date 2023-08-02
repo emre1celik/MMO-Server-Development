@@ -1,0 +1,4 @@
+2023-03-31_11:38:53 INFO Opening DatabasePool 'u897592642_characters'. Asynchronous connections: 1, synchronous connections: 2.
+2023-03-31_11:38:53 ERROR Could not connect to MySQL database at sql975.main-hosting.eu: Access denied for user 'u897592642_admin'@'%' to database 'u897592642_characters'
+
+2023-03-31_11:38:53 ERROR DatabasePool u897592642_characters NOT opened. There were errors opening the MySQL connections. Check your SQLDriverLogFile for specific errors. Read wiki at http://collab.kpsn.org/display/tc/TrinityCore+Home

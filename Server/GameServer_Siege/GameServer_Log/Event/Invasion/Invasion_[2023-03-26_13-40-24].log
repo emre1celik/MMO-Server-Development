@@ -1,0 +1,16 @@
+2023-03-26_13:40:36 INFO [HappyHour] SetState_None()
+2023-03-26_14:00:00 INFO Invasion 0 [White Wizard] launched
+2023-03-26_14:00:00 INFO Invasion 9 [Lucky Coin] launched
+2023-03-26_14:05:00 INFO Invasion 13 [Exiled from Exile] launched
+2023-03-26_14:30:00 INFO Invasion 2 [Underground] launched
+2023-03-26_14:30:05 INFO Deleting Invasion 0
+2023-03-26_14:30:05 INFO Deleting Invasion 9
+2023-03-26_14:35:05 INFO Deleting Invasion 13
+2023-03-26_15:00:00 INFO Invasion 1 [Blue Event] launched
+2023-03-26_15:00:00 INFO Invasion 10 [Muun Invasion] launched
+2023-03-26_15:00:05 INFO Deleting Invasion 2
+2023-03-26_15:05:00 INFO Invasion 13 [Exiled from Exile] launched
+2023-03-26_15:30:00 INFO Invasion 4 [Red Dragon] launched
+2023-03-26_15:30:05 INFO Deleting Invasion 1
+2023-03-26_15:30:05 INFO Deleting Invasion 10
+2023-03-26_15:35:05 INFO Deleting Invasion 13

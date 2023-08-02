@@ -1,0 +1,388 @@
+2023-04-02_00:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_00:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_00:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_00:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_00:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_00:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_00:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_00:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_00:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_00:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_00:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_00:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_01:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_01:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_01:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_01:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_01:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_01:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_01:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_01:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_01:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_01:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_01:47:43 INFO SQL: SELECT a.current_server, b.account, b.guid, b.security_code, a.last_ip, a.last_mac, a.disk_serial, a.type From accounts_status AS a LEFT JOIN accounts AS b ON a.account_id = b.guid WHERE a.account_id=14
+2023-04-02_01:47:43 ERROR [2006] MySQL server has gone away
+2023-04-02_01:47:43 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_01:47:43 INFO Connection to the MySQL server is active.
+2023-04-02_01:47:43 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-02_01:47:43 INFO SQL: START TRANSACTION
+2023-04-02_01:47:43 ERROR [2006] MySQL server has gone away
+2023-04-02_01:47:43 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_01:47:44 INFO Connection to the MySQL server is active.
+2023-04-02_01:47:44 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-04-02_01:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_01:54:59 INFO SQL: START TRANSACTION
+2023-04-02_01:54:59 ERROR [2006] MySQL server has gone away
+2023-04-02_01:54:59 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_01:55:01 INFO Connection to the MySQL server is active.
+2023-04-02_01:55:01 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-04-02_01:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_02:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_02:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_02:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_02:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_02:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_02:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_02:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_02:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_02:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_02:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_02:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_02:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_03:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_03:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_03:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_03:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_03:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_03:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_03:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_03:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_03:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_03:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_03:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_03:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_04:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_04:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_04:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_04:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_04:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_04:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_04:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_04:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_04:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_04:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_04:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_04:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_05:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_05:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_05:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_05:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_05:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_05:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_05:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_05:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_05:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_05:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_05:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_05:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_06:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_06:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_06:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_06:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_06:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_06:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_06:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_06:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_06:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_06:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_06:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_06:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_07:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_07:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_07:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_07:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_07:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_07:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_07:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_07:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_07:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_07:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_07:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_07:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_08:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_08:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_08:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_08:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_08:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_08:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_08:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_08:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_08:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_08:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_08:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_08:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_09:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_09:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_09:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_09:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_09:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_09:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_09:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_09:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_09:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_09:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_09:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_09:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_10:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_10:06:48 INFO SQL: START TRANSACTION
+2023-04-02_10:06:48 ERROR [2006] MySQL server has gone away
+2023-04-02_10:06:48 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_10:06:50 INFO Connection to the MySQL server is active.
+2023-04-02_10:06:50 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-04-02_10:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_10:08:24 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'helloworld' AND a.password = 'f167e20d062cf25bc637d07ac953100d7506e3d25c1c0cba4fe9d19fce8351d3') OR (a.guid = 0) OR (a.account = 'helloworld' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-02_10:08:24 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_10:08:24 INFO Connection to the MySQL server is active.
+2023-04-02_10:08:24 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-02_10:08:25 INFO SQL: START TRANSACTION
+2023-04-02_10:08:25 ERROR [2006] MySQL server has gone away
+2023-04-02_10:08:25 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_10:08:26 INFO Connection to the MySQL server is active.
+2023-04-02_10:08:26 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-04-02_10:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_10:15:32 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'helloworld' AND a.password = 'f167e20d062cf25bc637d07ac953100d7506e3d25c1c0cba4fe9d19fce8351d3') OR (a.guid = 0) OR (a.account = 'helloworld' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-02_10:15:32 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_10:15:32 INFO Connection to the MySQL server is active.
+2023-04-02_10:15:32 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-02_10:15:32 INFO SQL: START TRANSACTION
+2023-04-02_10:15:32 ERROR [2006] MySQL server has gone away
+2023-04-02_10:15:32 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_10:15:36 INFO Connection to the MySQL server is active.
+2023-04-02_10:15:36 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-04-02_10:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_10:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_10:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_10:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_10:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_10:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_10:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_10:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_10:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_11:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_11:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_11:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_11:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_11:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_11:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_11:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_11:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_11:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_11:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_11:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_11:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_12:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_12:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_12:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_12:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_12:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_12:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_12:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_12:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_12:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_12:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_12:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_12:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_13:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_13:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_13:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_13:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_13:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_13:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_13:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_13:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_13:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_13:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_13:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_13:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_14:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_14:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_14:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_14:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_14:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_14:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_14:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_14:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_14:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_14:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_14:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_14:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_15:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_15:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_15:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_15:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_15:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_15:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_15:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_15:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_15:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_15:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_15:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_15:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_16:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_16:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_16:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_16:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_16:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_16:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_16:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_16:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_16:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_16:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_16:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_16:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_17:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_17:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_17:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_17:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_17:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_17:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_17:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_17:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_17:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_17:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_17:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_17:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_17:59:50 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'helloworld' AND a.password = 'f167e20d062cf25bc637d07ac953100d7506e3d25c1c0cba4fe9d19fce8351d3') OR (a.guid = 0) OR (a.account = 'helloworld' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-02_17:59:50 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_17:59:50 INFO Connection to the MySQL server is active.
+2023-04-02_17:59:50 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-02_17:59:53 INFO SQL: START TRANSACTION
+2023-04-02_17:59:53 ERROR [2006] MySQL server has gone away
+2023-04-02_17:59:53 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_17:59:56 INFO Connection to the MySQL server is active.
+2023-04-02_17:59:56 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-04-02_18:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_18:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_18:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_18:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_18:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_18:26:08 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'blackgaara' AND a.password = 'a5711107c4e0ef3e41ac5447c8f6e8e128bfaf191eb4bd93f3a5d7b6e87f36f7') OR (a.guid = 0) OR (a.account = 'blackgaara' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-02_18:26:08 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_18:26:09 INFO Connection to the MySQL server is active.
+2023-04-02_18:26:09 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-02_18:26:18 INFO SQL: START TRANSACTION
+2023-04-02_18:26:18 ERROR [2006] MySQL server has gone away
+2023-04-02_18:26:18 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_18:26:28 INFO Connection to the MySQL server is active.
+2023-04-02_18:26:28 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-04-02_18:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_18:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_18:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_18:39:18 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'helloworld' AND a.password = 'f167e20d062cf25bc637d07ac953100d7506e3d25c1c0cba4fe9d19fce8351d3') OR (a.guid = 0) OR (a.account = 'helloworld' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-02_18:39:18 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_18:39:18 INFO Connection to the MySQL server is active.
+2023-04-02_18:39:18 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-02_18:39:18 INFO SQL: START TRANSACTION
+2023-04-02_18:39:18 ERROR [2006] MySQL server has gone away
+2023-04-02_18:39:19 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_18:39:19 INFO Connection to the MySQL server is active.
+2023-04-02_18:39:19 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-04-02_18:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_18:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_18:48:36 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'helloworld' AND a.password = 'f167e20d062cf25bc637d07ac953100d7506e3d25c1c0cba4fe9d19fce8351d3') OR (a.guid = 0) OR (a.account = 'helloworld' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-02_18:48:36 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_18:48:36 INFO Connection to the MySQL server is active.
+2023-04-02_18:48:36 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-02_18:48:36 INFO SQL: START TRANSACTION
+2023-04-02_18:48:36 ERROR [2006] MySQL server has gone away
+2023-04-02_18:48:36 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_18:48:43 INFO Connection to the MySQL server is active.
+2023-04-02_18:48:43 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-04-02_18:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_18:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_19:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_19:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_19:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_19:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_19:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_19:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_19:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_19:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_19:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_19:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_19:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_19:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_20:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_20:06:20 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'helloworld' AND a.password = 'f167e20d062cf25bc637d07ac953100d7506e3d25c1c0cba4fe9d19fce8351d3') OR (a.guid = 0) OR (a.account = 'helloworld' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-02_20:06:20 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_20:06:21 INFO Connection to the MySQL server is active.
+2023-04-02_20:06:21 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-02_20:06:22 INFO SQL: START TRANSACTION
+2023-04-02_20:06:22 ERROR [2006] MySQL server has gone away
+2023-04-02_20:06:23 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_20:06:31 INFO Connection to the MySQL server is active.
+2023-04-02_20:06:31 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-04-02_20:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_20:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_20:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_20:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_20:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_20:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_20:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_20:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_20:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_20:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_20:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_21:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_21:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_21:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_21:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_21:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_21:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_21:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_21:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_21:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_21:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_21:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_21:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_22:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_22:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_22:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_22:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_22:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_22:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_22:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_22:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_22:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_22:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_22:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_22:57:34 INFO Main::KeepDatabaseAlive
+2023-04-02_23:02:34 INFO Main::KeepDatabaseAlive
+2023-04-02_23:07:34 INFO Main::KeepDatabaseAlive
+2023-04-02_23:12:34 INFO Main::KeepDatabaseAlive
+2023-04-02_23:17:34 INFO Main::KeepDatabaseAlive
+2023-04-02_23:22:34 INFO Main::KeepDatabaseAlive
+2023-04-02_23:27:34 INFO Main::KeepDatabaseAlive
+2023-04-02_23:32:34 INFO Main::KeepDatabaseAlive
+2023-04-02_23:37:34 INFO Main::KeepDatabaseAlive
+2023-04-02_23:38:02 ERROR SQL(p): SELECT a.guid, a.blocked, a.security_code, b.online, c.account_id, a.facebook_status, a.golden_channel, d.account_id, e.account_id, e.block_date, a.secured, a.account, f.account_id, f.unban_date, g.disk_serial FROM accounts AS a LEFT JOIN accounts_status AS b ON a.guid = b.account_id AND b.server_group = 0 LEFT JOIN accounts_allowed AS c ON a.guid = c.account_id AND c.server = 0 LEFT JOIN accounts_validation AS d ON a.guid = d.account_id AND d.disk_serial = 0 LEFT JOIN accounts_warning AS e ON a.guid = e.account_id AND e.disk_serial = 0 LEFT JOIN accounts_banned AS f ON a.guid = f.account_id LEFT JOIN master_pc AS g ON g.disk_serial = 0 AND g.mac = '' WHERE ((a.account = 'test33' AND a.password = '461a8b94bb8d3bf306acd23a164b975304afcedc106db14fcb166e295cec385a') OR (a.guid = 0) OR (a.account = 'test33' AND g.disk_serial = 0 AND g.mac = '')) AND a.guid != 0
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-04-02_23:38:02 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_23:38:02 INFO Connection to the MySQL server is active.
+2023-04-02_23:38:02 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-04-02_23:38:02 INFO SQL: START TRANSACTION
+2023-04-02_23:38:02 ERROR [2006] MySQL server has gone away
+2023-04-02_23:38:02 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-04-02_23:38:06 INFO Connection to the MySQL server is active.
+2023-04-02_23:38:06 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-04-02_23:42:34 INFO Main::KeepDatabaseAlive
+2023-04-02_23:47:34 INFO Main::KeepDatabaseAlive
+2023-04-02_23:52:34 INFO Main::KeepDatabaseAlive
+2023-04-02_23:57:34 INFO Main::KeepDatabaseAlive

@@ -1,0 +1,111 @@
+2023-03-30_17:03:42 INFO [ChaosCastle - 1] Moving Players Out
+2023-03-30_17:03:42 INFO [ChaosCastle - 1] ChaosCastle::SetState_None
+2023-03-30_17:03:42 INFO [ChaosCastle - 2] Moving Players Out
+2023-03-30_17:03:42 INFO [ChaosCastle - 2] ChaosCastle::SetState_None
+2023-03-30_17:03:42 INFO [ChaosCastle - 3] Moving Players Out
+2023-03-30_17:03:42 INFO [ChaosCastle - 3] ChaosCastle::SetState_None
+2023-03-30_17:03:42 INFO [ChaosCastle - 4] Moving Players Out
+2023-03-30_17:03:42 INFO [ChaosCastle - 4] ChaosCastle::SetState_None
+2023-03-30_17:03:42 INFO [ChaosCastle - 5] Moving Players Out
+2023-03-30_17:03:42 INFO [ChaosCastle - 5] ChaosCastle::SetState_None
+2023-03-30_17:03:42 INFO [ChaosCastle - 6] Moving Players Out
+2023-03-30_17:03:42 INFO [ChaosCastle - 6] ChaosCastle::SetState_None
+2023-03-30_17:03:42 INFO [ChaosCastle - 7] Moving Players Out
+2023-03-30_17:03:42 INFO [ChaosCastle - 7] ChaosCastle::SetState_None
+2023-03-30_17:03:42 INFO [ChaosCastleMgr] SetState_None()
+2023-03-30_17:03:42 INFO [ChaosCastleSurvival - 1] Moving Players Out
+2023-03-30_17:03:42 INFO [ChaosCastleSurvival - 1] ChaosCastle::SetState_None
+2023-03-30_17:03:42 INFO [ChaosCastleSurvivalMgr] SetState_None()
+2023-03-30_19:00:01 INFO [ChaosCastle - 1] ChaosCastle::SetState_Open
+2023-03-30_19:00:01 INFO [ChaosCastle - 2] ChaosCastle::SetState_Open
+2023-03-30_19:00:01 INFO [ChaosCastle - 3] ChaosCastle::SetState_Open
+2023-03-30_19:00:01 INFO [ChaosCastle - 4] ChaosCastle::SetState_Open
+2023-03-30_19:00:01 INFO [ChaosCastle - 5] ChaosCastle::SetState_Open
+2023-03-30_19:00:01 INFO [ChaosCastle - 6] ChaosCastle::SetState_Open
+2023-03-30_19:00:01 INFO [ChaosCastle - 7] ChaosCastle::SetState_Open
+2023-03-30_19:00:01 INFO [ChaosCastleMgr] SetState_Open()
+2023-03-30_19:05:01 INFO [ChaosCastle - 1] ChaosCastle::SetState_StandBy
+2023-03-30_19:05:01 INFO [ChaosCastle - 2] ChaosCastle::SetState_StandBy
+2023-03-30_19:05:01 INFO [ChaosCastle - 3] ChaosCastle::SetState_StandBy
+2023-03-30_19:05:01 INFO [ChaosCastle - 4] ChaosCastle::SetState_StandBy
+2023-03-30_19:05:01 INFO [ChaosCastle - 5] ChaosCastle::SetState_StandBy
+2023-03-30_19:05:01 INFO [ChaosCastle - 6] ChaosCastle::SetState_StandBy
+2023-03-30_19:05:01 INFO [ChaosCastle - 7] ChaosCastle::SetState_StandBy
+2023-03-30_19:05:01 INFO [ChaosCastleMgr] SetState_Playing()
+2023-03-30_19:06:02 INFO [ChaosCastle - 1] Moving Players Out
+2023-03-30_19:06:02 INFO [ChaosCastle - 1] ChaosCastle::SetState_None
+2023-03-30_19:06:02 INFO [ChaosCastle - 2] Moving Players Out
+2023-03-30_19:06:02 INFO [ChaosCastle - 2] ChaosCastle::SetState_None
+2023-03-30_19:06:02 INFO [ChaosCastle - 3] Moving Players Out
+2023-03-30_19:06:02 INFO [ChaosCastle - 3] ChaosCastle::SetState_None
+2023-03-30_19:06:02 INFO [ChaosCastle - 4] Moving Players Out
+2023-03-30_19:06:02 INFO [ChaosCastle - 4] ChaosCastle::SetState_None
+2023-03-30_19:06:02 INFO [ChaosCastle - 5] Moving Players Out
+2023-03-30_19:06:02 INFO [ChaosCastle - 5] ChaosCastle::SetState_None
+2023-03-30_19:06:02 INFO [ChaosCastle - 6] Moving Players Out
+2023-03-30_19:06:02 INFO [ChaosCastle - 6] ChaosCastle::SetState_None
+2023-03-30_19:06:02 INFO [ChaosCastle - 7] Moving Players Out
+2023-03-30_19:06:02 INFO [ChaosCastle - 7] ChaosCastle::SetState_None
+2023-03-30_19:06:02 INFO [ChaosCastleMgr] SetState_None()
+2023-03-30_21:00:01 INFO [ChaosCastle - 1] ChaosCastle::SetState_Open
+2023-03-30_21:00:01 INFO [ChaosCastle - 2] ChaosCastle::SetState_Open
+2023-03-30_21:00:01 INFO [ChaosCastle - 3] ChaosCastle::SetState_Open
+2023-03-30_21:00:01 INFO [ChaosCastle - 4] ChaosCastle::SetState_Open
+2023-03-30_21:00:01 INFO [ChaosCastle - 5] ChaosCastle::SetState_Open
+2023-03-30_21:00:01 INFO [ChaosCastle - 6] ChaosCastle::SetState_Open
+2023-03-30_21:00:02 INFO [ChaosCastle - 7] ChaosCastle::SetState_Open
+2023-03-30_21:00:02 INFO [ChaosCastleMgr] SetState_Open()
+2023-03-30_21:05:02 INFO [ChaosCastle - 1] ChaosCastle::SetState_StandBy
+2023-03-30_21:05:02 INFO [ChaosCastle - 2] ChaosCastle::SetState_StandBy
+2023-03-30_21:05:02 INFO [ChaosCastle - 3] ChaosCastle::SetState_StandBy
+2023-03-30_21:05:02 INFO [ChaosCastle - 4] ChaosCastle::SetState_StandBy
+2023-03-30_21:05:02 INFO [ChaosCastle - 5] ChaosCastle::SetState_StandBy
+2023-03-30_21:05:02 INFO [ChaosCastle - 6] ChaosCastle::SetState_StandBy
+2023-03-30_21:05:02 INFO [ChaosCastle - 7] ChaosCastle::SetState_StandBy
+2023-03-30_21:05:02 INFO [ChaosCastleMgr] SetState_Playing()
+2023-03-30_21:06:02 INFO [ChaosCastle - 1] Moving Players Out
+2023-03-30_21:06:02 INFO [ChaosCastle - 1] ChaosCastle::SetState_None
+2023-03-30_21:06:03 INFO [ChaosCastle - 2] Moving Players Out
+2023-03-30_21:06:03 INFO [ChaosCastle - 2] ChaosCastle::SetState_None
+2023-03-30_21:06:03 INFO [ChaosCastle - 3] Moving Players Out
+2023-03-30_21:06:03 INFO [ChaosCastle - 3] ChaosCastle::SetState_None
+2023-03-30_21:06:03 INFO [ChaosCastle - 4] Moving Players Out
+2023-03-30_21:06:03 INFO [ChaosCastle - 4] ChaosCastle::SetState_None
+2023-03-30_21:06:03 INFO [ChaosCastle - 5] Moving Players Out
+2023-03-30_21:06:03 INFO [ChaosCastle - 5] ChaosCastle::SetState_None
+2023-03-30_21:06:03 INFO [ChaosCastle - 6] Moving Players Out
+2023-03-30_21:06:03 INFO [ChaosCastle - 6] ChaosCastle::SetState_None
+2023-03-30_21:06:03 INFO [ChaosCastle - 7] Moving Players Out
+2023-03-30_21:06:03 INFO [ChaosCastle - 7] ChaosCastle::SetState_None
+2023-03-30_21:06:03 INFO [ChaosCastleMgr] SetState_None()
+2023-03-30_23:00:02 INFO [ChaosCastle - 1] ChaosCastle::SetState_Open
+2023-03-30_23:00:02 INFO [ChaosCastle - 2] ChaosCastle::SetState_Open
+2023-03-30_23:00:02 INFO [ChaosCastle - 3] ChaosCastle::SetState_Open
+2023-03-30_23:00:02 INFO [ChaosCastle - 4] ChaosCastle::SetState_Open
+2023-03-30_23:00:02 INFO [ChaosCastle - 5] ChaosCastle::SetState_Open
+2023-03-30_23:00:02 INFO [ChaosCastle - 6] ChaosCastle::SetState_Open
+2023-03-30_23:00:02 INFO [ChaosCastle - 7] ChaosCastle::SetState_Open
+2023-03-30_23:00:02 INFO [ChaosCastleMgr] SetState_Open()
+2023-03-30_23:05:02 INFO [ChaosCastle - 1] ChaosCastle::SetState_StandBy
+2023-03-30_23:05:02 INFO [ChaosCastle - 2] ChaosCastle::SetState_StandBy
+2023-03-30_23:05:02 INFO [ChaosCastle - 3] ChaosCastle::SetState_StandBy
+2023-03-30_23:05:02 INFO [ChaosCastle - 4] ChaosCastle::SetState_StandBy
+2023-03-30_23:05:02 INFO [ChaosCastle - 5] ChaosCastle::SetState_StandBy
+2023-03-30_23:05:03 INFO [ChaosCastle - 6] ChaosCastle::SetState_StandBy
+2023-03-30_23:05:03 INFO [ChaosCastle - 7] ChaosCastle::SetState_StandBy
+2023-03-30_23:05:03 INFO [ChaosCastleMgr] SetState_Playing()
+2023-03-30_23:06:03 INFO [ChaosCastle - 1] Moving Players Out
+2023-03-30_23:06:03 INFO [ChaosCastle - 1] ChaosCastle::SetState_None
+2023-03-30_23:06:03 INFO [ChaosCastle - 2] Moving Players Out
+2023-03-30_23:06:03 INFO [ChaosCastle - 2] ChaosCastle::SetState_None
+2023-03-30_23:06:03 INFO [ChaosCastle - 3] Moving Players Out
+2023-03-30_23:06:03 INFO [ChaosCastle - 3] ChaosCastle::SetState_None
+2023-03-30_23:06:04 INFO [ChaosCastle - 4] Moving Players Out
+2023-03-30_23:06:04 INFO [ChaosCastle - 4] ChaosCastle::SetState_None
+2023-03-30_23:06:04 INFO [ChaosCastle - 5] Moving Players Out
+2023-03-30_23:06:04 INFO [ChaosCastle - 5] ChaosCastle::SetState_None
+2023-03-30_23:06:04 INFO [ChaosCastle - 6] Moving Players Out
+2023-03-30_23:06:04 INFO [ChaosCastle - 6] ChaosCastle::SetState_None
+2023-03-30_23:06:04 INFO [ChaosCastle - 7] Moving Players Out
+2023-03-30_23:06:04 INFO [ChaosCastle - 7] ChaosCastle::SetState_None
+2023-03-30_23:06:04 INFO [ChaosCastleMgr] SetState_None()

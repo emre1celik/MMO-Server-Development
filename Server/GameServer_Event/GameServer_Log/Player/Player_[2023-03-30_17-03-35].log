@@ -1,0 +1,158 @@
+2023-03-30_17:03:55 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30000 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_17:03:55 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_17:03:55 INFO [ CHARACTER SELECT ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_17:03:55 INFO [ CHARACTER SELECT ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_17:03:55 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 206/58]
+2023-03-30_17:04:20 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [116 - 120/127]
+2023-03-30_17:04:20 INFO [ SERVER MOVE ERROR 2 ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [116 - 120/127]
+2023-03-30_17:04:21 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [116 - 120/127]
+2023-03-30_17:04:21 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [116 - 120/127]
+2023-03-30_17:19:23 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30001 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_17:19:23 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_17:19:23 INFO [ CHARACTER SELECT ] [SRV 18 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_17:19:23 INFO [ CHARACTER SELECT ] [SRV 18 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_17:19:23 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 205/58]
+2023-03-30_17:20:15 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [117 - 131/128]
+2023-03-30_17:20:15 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [117 - 131/128]
+2023-03-30_17:31:32 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30002 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_17:31:32 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30002 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_17:31:32 INFO [ CHARACTER SELECT ] [SRV 18 -- 30002 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_17:31:32 INFO [ CHARACTER SELECT ] [SRV 18 -- 30002 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_17:31:32 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30002 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 206/57]
+2023-03-30_17:31:57 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30002 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [118 - 123/123]
+2023-03-30_17:31:57 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30002 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [118 - 123/123]
+2023-03-30_17:39:43 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30003 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_17:39:44 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30003 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_17:39:44 INFO [ CHARACTER SELECT ] [SRV 18 -- 30003 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_17:39:44 INFO [ CHARACTER SELECT ] [SRV 18 -- 30003 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_17:39:44 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30003 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 205/56]
+2023-03-30_17:40:10 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30003 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [119 - 125/119]
+2023-03-30_17:40:10 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30003 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [119 - 125/119]
+2023-03-30_18:01:53 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30004 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_18:01:53 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30004 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_18:01:53 INFO [ CHARACTER SELECT ] [SRV 18 -- 30004 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_18:01:53 INFO [ CHARACTER SELECT ] [SRV 18 -- 30004 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_18:01:53 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30004 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 206/57]
+2023-03-30_18:03:48 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30004 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [120 - 126/119]
+2023-03-30_18:03:48 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30004 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [120 - 126/119]
+2023-03-30_18:05:38 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30005 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_18:05:38 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30005 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_18:05:38 INFO [ CHARACTER SELECT ] [SRV 18 -- 30005 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_18:05:38 INFO [ CHARACTER SELECT ] [SRV 18 -- 30005 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_18:05:38 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30005 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 204/57]
+2023-03-30_18:06:51 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30005 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [120 - 126/119]
+2023-03-30_18:06:51 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30005 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [120 - 126/119]
+2023-03-30_19:58:12 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30006 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_19:58:12 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30006 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_19:58:12 INFO [ CHARACTER SELECT ] [SRV 18 -- 30006 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_19:58:12 INFO [ CHARACTER SELECT ] [SRV 18 -- 30006 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_19:58:12 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30006 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 204/56]
+2023-03-30_19:58:44 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30006 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [122 - 135/112]
+2023-03-30_19:58:44 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30006 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [122 - 135/112]
+2023-03-30_20:07:52 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30007 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_20:07:52 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_20:07:52 INFO [ CHARACTER SELECT ] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_20:07:52 INFO [ CHARACTER SELECT ] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_20:07:52 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 206/57]
+2023-03-30_20:08:14 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [122 - 135/114]
+2023-03-30_20:08:14 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30007 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [122 - 135/114]
+2023-03-30_20:09:19 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30008 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_20:09:19 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30008 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_20:09:19 INFO [ CHARACTER SELECT ] [SRV 18 -- 30008 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_20:09:19 INFO [ CHARACTER SELECT ] [SRV 18 -- 30008 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_20:09:19 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30008 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 204/58]
+2023-03-30_20:09:41 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30008 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [122 - 139/123]
+2023-03-30_20:09:41 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30008 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [122 - 139/123]
+2023-03-30_20:11:23 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30009 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_20:11:23 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30009 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_20:11:23 INFO [ CHARACTER SELECT ] [SRV 18 -- 30009 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_20:11:23 INFO [ CHARACTER SELECT ] [SRV 18 -- 30009 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_20:11:23 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30009 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 203/56]
+2023-03-30_20:11:55 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30009 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [122 - 130/117]
+2023-03-30_20:11:55 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30009 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [122 - 130/117]
+2023-03-30_20:14:48 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30010 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_20:14:48 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30010 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_20:14:48 INFO [ CHARACTER SELECT ] [SRV 18 -- 30010 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_20:14:48 INFO [ CHARACTER SELECT ] [SRV 18 -- 30010 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_20:14:48 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30010 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 203/58]
+2023-03-30_20:15:12 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30010 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [122 - 128/115]
+2023-03-30_20:15:13 INFO [ SERVER MOVE ERROR 2 ] [SRV 18 -- 30010 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [122 - 128/115]
+2023-03-30_20:15:14 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30010 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [122 - 136/122]
+2023-03-30_20:15:15 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30010 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [122 - 136/122]
+2023-03-30_21:00:48 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30011 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_21:00:48 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30011 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_21:00:48 INFO [ CHARACTER SELECT ] [SRV 18 -- 30011 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_21:00:48 INFO [ CHARACTER SELECT ] [SRV 18 -- 30011 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_21:00:48 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30011 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 206/57]
+2023-03-30_21:01:16 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30011 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [123 - 237/87]
+2023-03-30_21:01:16 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30011 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [123 - 237/87]
+2023-03-30_21:06:43 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30012 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_21:06:43 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30012 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_21:06:43 INFO [ CHARACTER SELECT ] [SRV 18 -- 30012 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_21:06:43 INFO [ CHARACTER SELECT ] [SRV 18 -- 30012 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_21:06:43 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30012 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 206/56]
+2023-03-30_21:07:11 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30012 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [123 - 238/90]
+2023-03-30_21:07:11 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30012 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [123 - 238/90]
+2023-03-30_21:31:33 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30013 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_21:31:34 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30013 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_21:31:34 INFO [ CHARACTER SELECT ] [SRV 18 -- 30013 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_21:31:34 INFO [ CHARACTER SELECT ] [SRV 18 -- 30013 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_21:31:34 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30013 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 203/58]
+2023-03-30_21:31:42 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30013 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [130 - 130/122]
+2023-03-30_21:31:42 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30013 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [130 - 130/122]
+2023-03-30_21:31:47 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30014 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_21:31:47 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30014 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_21:31:47 INFO [ CHARACTER SELECT ] [SRV 18 -- 30014 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_21:31:47 INFO [ CHARACTER SELECT ] [SRV 18 -- 30014 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_21:31:47 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30014 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 204/56]
+2023-03-30_21:43:25 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30014 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [128 - 131/126]
+2023-03-30_21:43:25 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30014 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [128 - 131/126]
+2023-03-30_21:57:35 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30015 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_21:57:35 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30015 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_21:57:35 INFO [ CHARACTER SELECT ] [SRV 18 -- 30015 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_21:57:35 INFO [ CHARACTER SELECT ] [SRV 18 -- 30015 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_21:57:35 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30015 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 204/58]
+2023-03-30_21:58:08 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30015 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [131 - 240/14]
+2023-03-30_21:58:09 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30015 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [131 - 240/14]
+2023-03-30_22:41:23 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30016 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_22:41:23 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30016 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_22:41:23 INFO [ CHARACTER SELECT ] [SRV 18 -- 30016 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_22:41:23 INFO [ CHARACTER SELECT ] [SRV 18 -- 30016 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_22:41:23 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30016 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 205/57]
+2023-03-30_22:42:51 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30016 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [132 - 129/124]
+2023-03-30_22:42:52 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30016 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [132 - 129/124]
+2023-03-30_22:47:25 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30017 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_22:47:25 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30017 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_22:47:25 INFO [ CHARACTER SELECT ] [SRV 18 -- 30017 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_22:47:25 INFO [ CHARACTER SELECT ] [SRV 18 -- 30017 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_22:47:25 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30017 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 203/57]
+2023-03-30_22:47:57 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30017 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [132 - 128/116]
+2023-03-30_22:47:57 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30017 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [132 - 128/116]
+2023-03-30_23:05:56 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30018 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_23:05:56 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30018 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_23:05:56 INFO [ CHARACTER SELECT ] [SRV 18 -- 30018 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_23:05:56 INFO [ CHARACTER SELECT ] [SRV 18 -- 30018 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_23:05:57 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30018 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 205/57]
+2023-03-30_23:06:54 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30018 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [133 - 131/57]
+2023-03-30_23:06:54 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30018 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [133 - 131/57]
+2023-03-30_23:20:37 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30019 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_23:20:37 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30019 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_23:20:37 INFO [ CHARACTER SELECT ] [SRV 18 -- 30019 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_23:20:37 INFO [ CHARACTER SELECT ] [SRV 18 -- 30019 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_23:20:38 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30019 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 205/57]
+2023-03-30_23:22:06 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30019 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [134 - 123/29]
+2023-03-30_23:22:06 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30019 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [134 - 123/29]
+2023-03-30_23:37:12 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30020 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_23:37:12 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30020 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_23:37:12 INFO [ CHARACTER SELECT ] [SRV 18 -- 30020 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_23:37:12 INFO [ CHARACTER SELECT ] [SRV 18 -- 30020 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_23:37:12 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30020 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 204/57]
+2023-03-30_23:37:44 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30020 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [136 - 127/19]
+2023-03-30_23:37:44 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30020 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [136 - 127/19]
+2023-03-30_23:50:04 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30021 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Gamemaster]
+2023-03-30_23:50:04 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30021 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Gamemaster]
+2023-03-30_23:50:04 INFO [ CHARACTER SELECT ] [SRV 18 -- 30021 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Gamemaster - 0 selected ( Step One ).
+2023-03-30_23:50:04 INFO [ CHARACTER SELECT ] [SRV 18 -- 30021 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-30_23:50:04 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30021 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] -- Location:[79 - 205/56]
+2023-03-30_23:50:34 INFO [ SERVER MOVE REQUEST ] [SRV 18 -- 30021 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [137 - 129/123]
+2023-03-30_23:50:35 INFO [ SERVER MOVE SUCCESS ] [SRV 18 -- 30021 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 178-Gamemaster] --- Server: 65535 [137 - 129/123]

@@ -1,0 +1,19 @@
+2023-03-25_22:29:02 INFO Adding Player [2][blackgaara]
+2023-03-25_22:29:02 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-25_22:29:02 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-25_22:38:26 INFO Adding Player [2][blackgaara]
+2023-03-25_22:38:29 INFO AuthSocket::AccountServerMove - [2][blackgaara] Move To [18][79][204][58]
+2023-03-25_22:38:30 INFO AuthSocket::AccountServerAuth - [2][blackgaara] Success Move To [18][79][204][58]
+2023-03-25_22:40:04 INFO AuthSocket::AccountServerMove - [2][blackgaara] Move To [0][6][64][118]
+2023-03-25_22:40:04 INFO AuthSocket::AccountServerAuth - [2][blackgaara] Success Move To [0][6][64][118]
+2023-03-25_22:42:15 INFO AuthSocket::AccountServerMove - [2][blackgaara] Move To [18][79][203][56]
+2023-03-25_22:42:15 INFO AuthSocket::AccountServerAuth - [2][blackgaara] Success Move To [18][79][203][56]
+2023-03-25_22:42:46 INFO Removing Player [2][blackgaara] - Disconnected.
+2023-03-25_22:43:20 INFO Adding Player [2][blackgaara]
+2023-03-25_22:43:20 INFO Removing Player [2][blackgaara] - Kicked.
+2023-03-25_22:43:20 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-03-25_22:56:51 INFO Adding Player [2][blackgaara]
+2023-03-25_22:56:51 INFO AuthSocket::AccountServerMove - [2][blackgaara] Move To [18][79][203][58]
+2023-03-25_22:56:52 INFO AuthSocket::AccountServerAuth - [2][blackgaara] Success Move To [18][79][203][58]
+2023-03-25_22:57:46 INFO AuthSocket::AccountServerMove - [2][blackgaara] Move To [0][6][64][118]
+2023-03-25_22:57:46 INFO AuthSocket::AccountServerAuth - [2][blackgaara] Success Move To [0][6][64][118]

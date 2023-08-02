@@ -1,0 +1,6 @@
+2023-04-08_16:03:15 INFO [ COMMAND ] [SRV 18 -- 30002 - IP: 77.175.188.143 - Account: 2-test - Character: 137-test] Used Command: /addvit 51
+2023-04-08_16:06:34 INFO [ COMMAND ] [SRV 18 -- 30002 - IP: 77.175.188.143 - Account: 2-test - Character: 137-test] Used Command: /addvit 66
+2023-04-08_16:19:58 INFO [ COMMAND ] [SRV 18 -- 30003 - IP: 77.175.188.143 - Account: 2-test - Character: 145-Kundun] Used Command: /reset
+2023-04-08_16:37:15 INFO [ COMMAND ] [SRV 18 -- 30004 - IP: 77.175.188.143 - Account: 3-flowerbloo - Character: 169-Deadmau55] Used Command: /addene 145
+2023-04-08_16:43:41 INFO [ COMMAND ] [SRV 18 -- 30005 - IP: 77.175.188.143 - Account: 2-test - Character: 145-Kundun] Used Command: /addene 1500
+2023-04-08_17:14:45 INFO [ COMMAND ] [SRV 18 -- 30006 - IP: 77.175.188.143 - Account: 2-test - Character: 145-Kundun] Used Command: /addstr 49

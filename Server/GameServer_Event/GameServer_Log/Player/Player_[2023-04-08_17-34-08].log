@@ -1,0 +1,6 @@
+2023-04-08_17:34:34 INFO [ SERVER MOVE AUTH ] [SRV 18 -- 30000 - IP: 77.175.188.143 - ] --- Send Join Request [test][Kundun]
+2023-04-08_17:34:34 INFO [ SERVER MOVE AUTH RESULT ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-test - ] --- Joined Successfully [test][Kundun]
+2023-04-08_17:34:34 INFO [ CHARACTER SELECT ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-test - ] Character Kundun - 0 selected ( Step One ).
+2023-04-08_17:34:34 INFO [ CHARACTER SELECT ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-test - ] Character selected ( Step Two ).
+2023-04-08_17:34:35 INFO Player::EnterWorldSuccess -- [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-test - Character: 145-Kundun] -- Location:[79 - 177/55]
+2023-04-08_17:36:33 INFO [ LOGOUT REQUEST ] [SRV 18 -- 30000 - IP: 77.175.188.143 - Account: 2-test - Character: 145-Kundun] - Select Server

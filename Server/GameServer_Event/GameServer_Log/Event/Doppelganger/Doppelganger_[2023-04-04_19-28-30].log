@@ -1,0 +1,18 @@
+2023-04-04_19:28:38 INFO Doppelganger::SetState_None
+2023-04-04_23:30:01 INFO DoppelgangerGround::SetState_Open (1)
+2023-04-04_23:30:01 INFO DoppelgangerGround::SetState_Open (2)
+2023-04-04_23:30:01 INFO DoppelgangerGround::SetState_Open (3)
+2023-04-04_23:30:01 INFO DoppelgangerGround::SetState_Open (4)
+2023-04-04_23:30:01 INFO DoppelgangerGround::SetState_Open (5)
+2023-04-04_23:30:01 INFO DoppelgangerGround::SetState_Open (6)
+2023-04-04_23:30:01 INFO DoppelgangerGround::SetState_Open (7)
+2023-04-04_23:30:01 INFO Doppelganger::SetState_Open
+2023-04-04_23:35:02 INFO DoppelgangerGround::SetState_None (1)
+2023-04-04_23:35:02 INFO DoppelgangerGround::SetState_None (2)
+2023-04-04_23:35:02 INFO DoppelgangerGround::SetState_None (3)
+2023-04-04_23:35:02 INFO DoppelgangerGround::SetState_None (4)
+2023-04-04_23:35:02 INFO DoppelgangerGround::SetState_None (5)
+2023-04-04_23:35:02 INFO DoppelgangerGround::SetState_None (6)
+2023-04-04_23:35:02 INFO DoppelgangerGround::SetState_None (7)
+2023-04-04_23:35:02 INFO Doppelganger::SetState_Playing
+2023-04-04_23:35:03 INFO Doppelganger::SetState_None

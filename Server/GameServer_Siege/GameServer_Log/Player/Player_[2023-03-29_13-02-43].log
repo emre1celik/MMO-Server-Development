@@ -1,0 +1,15 @@
+2023-03-29_13:23:22 INFO [ SERVER MOVE AUTH ] [SRV 19 -- 30000 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Mage]
+2023-03-29_13:23:22 INFO [ SERVER MOVE AUTH RESULT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Mage]
+2023-03-29_13:23:22 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Mage - 0 selected ( Step One ).
+2023-03-29_13:23:22 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-29_13:23:22 INFO Player::EnterWorldSuccess -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] -- Location:[42 - 104/179]
+2023-03-29_13:23:56 INFO Teleport From [World:42 - 95/194 - Instance:-1] To [World:34 - 238/40 - Instance:-1] -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage]
+2023-03-29_13:25:18 INFO [ SERVER MOVE REQUEST ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] --- Server: 18 [79 - 205/56]
+2023-03-29_13:25:18 INFO [ SERVER MOVE SUCCESS ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] --- Server: 18 [79 - 205/56]
+2023-03-29_13:25:56 INFO [ SERVER MOVE AUTH ] [SRV 19 -- 30001 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Mage]
+2023-03-29_13:25:56 INFO [ SERVER MOVE AUTH RESULT ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Mage]
+2023-03-29_13:25:56 INFO [ CHARACTER SELECT ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Mage - 0 selected ( Step One ).
+2023-03-29_13:25:56 INFO [ CHARACTER SELECT ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-29_13:25:56 INFO Player::EnterWorldSuccess -- [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] -- Location:[34 - 229/45]
+2023-03-29_13:26:16 INFO [ SERVER MOVE REQUEST ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] --- Server: 18 [79 - 205/56]
+2023-03-29_13:26:16 INFO [ SERVER MOVE SUCCESS ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 150-Mage] --- Server: 18 [79 - 205/56]

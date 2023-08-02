@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == 				MUONLINE SERVER EMULATOR				 ==
+// == 				   POWERED BY DevEMU				 	 ==
+// ==                 File Name: ExpSystem                 	 ==
+// ============================================================
+-->
+
+<ExpSystem>
+	<StaicExp Normal="35000" Master="35000" Majestic="35000" />
+	<PartyExp One="100" Two="105" Three="110" Four="115" Five="120" />
+	<PartyExpBonus One="100" Two="108" Three="113" Four="118" Five="123" />
+
+	<DynamicExp Enabled="1">
+		<Range Index="1" MinLevel="1" MaxLevel="400" MinRs="0" MaxRs="400" NormalExp="35000" MasterExp="2000" MajesticExp="1000" />
+		<Range Index="2" MinLevel="401" MaxLevel="700" MinRs="0" MaxRs="400" NormalExp="35000" MasterExp="2000" MajesticExp="1000" />
+		<Range Index="3" MinLevel="701" MaxLevel="1300" MinRs="0" MaxRs="400" NormalExp="35000" MasterExp="2000" MajesticExp="1000" />
+	</DynamicExp>
+</ExpSystem>

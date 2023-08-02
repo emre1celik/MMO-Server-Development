@@ -1,0 +1,52 @@
+2023-03-31_22:39:21 INFO Opening DatabasePool 'characters'. Asynchronous connections: 1, synchronous connections: 2.
+2023-03-31_22:39:21 INFO MySQL client library: 5.6.29
+2023-03-31_22:39:21 INFO MySQL server ver: 5.7.41-log 
+2023-03-31_22:39:21 INFO Connected to MySQL database at 127.0.0.1
+2023-03-31_22:39:21 INFO MySQL client library: 5.6.29
+2023-03-31_22:39:21 INFO MySQL server ver: 5.7.41-log 
+2023-03-31_22:39:21 INFO Connected to MySQL database at 127.0.0.1
+2023-03-31_22:39:21 INFO MySQL client library: 5.6.29
+2023-03-31_22:39:21 INFO MySQL server ver: 5.7.41-log 
+2023-03-31_22:39:21 INFO Connected to MySQL database at 127.0.0.1
+2023-03-31_22:39:21 INFO DatabasePool 'characters' opened successfully. 3 total connections running.
+2023-03-31_22:39:21 INFO Opening DatabasePool 'log'. Asynchronous connections: 1, synchronous connections: 2.
+2023-03-31_22:39:21 INFO MySQL client library: 5.6.29
+2023-03-31_22:39:21 INFO MySQL server ver: 5.7.41-log 
+2023-03-31_22:39:21 INFO Connected to MySQL database at 127.0.0.1
+2023-03-31_22:39:21 INFO MySQL client library: 5.6.29
+2023-03-31_22:39:21 INFO MySQL server ver: 5.7.41-log 
+2023-03-31_22:39:21 INFO Connected to MySQL database at 127.0.0.1
+2023-03-31_22:39:21 INFO MySQL client library: 5.6.29
+2023-03-31_22:39:21 INFO MySQL server ver: 5.7.41-log 
+2023-03-31_22:39:21 INFO Connected to MySQL database at 127.0.0.1
+2023-03-31_22:39:21 INFO DatabasePool 'log' opened successfully. 3 total connections running.
+2023-03-31_22:39:21 INFO Opening DatabasePool 'u897592642_login'. Asynchronous connections: 1, synchronous connections: 2.
+2023-03-31_22:39:21 INFO MySQL client library: 5.6.29
+2023-03-31_22:39:21 INFO MySQL server ver: 5.5.5-10.6.12-MariaDB-cll-lve 
+2023-03-31_22:39:21 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-03-31_22:39:24 INFO MySQL client library: 5.6.29
+2023-03-31_22:39:24 INFO MySQL server ver: 5.5.5-10.6.12-MariaDB-cll-lve 
+2023-03-31_22:39:24 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-03-31_22:39:24 INFO MySQL client library: 5.6.29
+2023-03-31_22:39:24 INFO MySQL server ver: 5.5.5-10.6.12-MariaDB-cll-lve 
+2023-03-31_22:39:24 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-03-31_22:39:24 INFO DatabasePool 'u897592642_login' opened successfully. 3 total connections running.
+2023-03-31_22:39:50 ERROR SQL(p): SELECT i.server, i.serial, i.serial_shop FROM item_serial i WHERE i.server = 18
+ [ERROR]: [2006] Lost connection to MySQL server during query
+2023-03-31_22:39:50 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-03-31_22:39:51 INFO Connection to the MySQL server is active.
+2023-03-31_22:39:51 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (synchronous).
+2023-03-31_22:39:52 INFO SQL: START TRANSACTION
+2023-03-31_22:39:52 ERROR [2006] MySQL server has gone away
+2023-03-31_22:39:52 INFO Connected to MySQL database at sql975.main-hosting.eu
+2023-03-31_22:39:52 INFO Connection to the MySQL server is active.
+2023-03-31_22:39:52 INFO Successfully reconnected to u897592642_login @sql975.main-hosting.eu:3306 (asynchronous).
+2023-03-31_22:43:06 INFO Closing down DatabasePool 'characters'.
+2023-03-31_22:43:06 INFO Asynchronous connections on DatabasePool 'characters' terminated. Proceeding with synchronous connections.
+2023-03-31_22:43:06 INFO All connections on DatabasePool 'characters' closed.
+2023-03-31_22:43:06 INFO Closing down DatabasePool 'log'.
+2023-03-31_22:43:06 INFO Asynchronous connections on DatabasePool 'log' terminated. Proceeding with synchronous connections.
+2023-03-31_22:43:06 INFO All connections on DatabasePool 'log' closed.
+2023-03-31_22:43:06 INFO Closing down DatabasePool 'u897592642_login'.
+2023-03-31_22:43:06 INFO Asynchronous connections on DatabasePool 'u897592642_login' terminated. Proceeding with synchronous connections.
+2023-03-31_22:43:06 INFO All connections on DatabasePool 'u897592642_login' closed.

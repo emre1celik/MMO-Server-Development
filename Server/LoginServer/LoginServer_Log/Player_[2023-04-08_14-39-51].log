@@ -1,0 +1,113 @@
+2023-04-08_15:27:48 INFO Adding Player [2][test]
+2023-04-08_15:27:48 INFO Removing Player [2][test] - Kicked.
+2023-04-08_15:27:48 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_15:27:54 INFO Adding Player [2][test]
+2023-04-08_15:27:54 INFO AuthSocket::AccountServerMove - [2][test] Move To [18][79][189][92]
+2023-04-08_15:27:55 INFO AuthSocket::AccountServerAuth - [2][test] Success Move To [18][79][189][92]
+2023-04-08_15:35:17 INFO Removing Player [2][test] - Disconnected.
+2023-04-08_15:37:40 INFO Adding Player [2][test]
+2023-04-08_15:37:40 INFO Removing Player [2][test] - Kicked.
+2023-04-08_15:37:40 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_15:37:43 INFO Adding Player [2][test]
+2023-04-08_15:37:43 INFO AuthSocket::AccountServerMove - [2][test] Move To [18][79][188][91]
+2023-04-08_15:37:44 INFO AuthSocket::AccountServerAuth - [2][test] Success Move To [18][79][188][91]
+2023-04-08_15:40:57 INFO Removing Player [2][test] - Disconnected.
+2023-04-08_15:41:40 INFO Adding Player [2][test]
+2023-04-08_15:41:40 INFO Removing Player [2][test] - Kicked.
+2023-04-08_15:41:40 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_15:42:58 INFO Adding Player [2][test]
+2023-04-08_15:42:58 INFO AuthSocket::AccountServerMove - [2][test] Move To [18][79][191][90]
+2023-04-08_15:42:59 INFO AuthSocket::AccountServerAuth - [2][test] Success Move To [18][79][191][90]
+2023-04-08_16:13:49 INFO Adding Player [3][flowerbloo]
+2023-04-08_16:13:49 INFO Removing Player [3][flowerbloo] - Kicked.
+2023-04-08_16:13:49 INFO LoginQueue::Process -- [Acc: flowerbloo][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_16:19:17 INFO Removing Player [2][test] - Disconnected.
+2023-04-08_16:19:39 INFO Adding Player [2][test]
+2023-04-08_16:19:39 INFO Removing Player [2][test] - Kicked.
+2023-04-08_16:19:39 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_16:19:42 INFO Adding Player [2][test]
+2023-04-08_16:19:42 INFO AuthSocket::AccountServerMove - [2][test] Move To [18][9][142][179]
+2023-04-08_16:19:43 INFO AuthSocket::AccountServerAuth - [2][test] Success Move To [18][9][142][179]
+2023-04-08_16:19:58 INFO AuthSocket::AccountServerMove - [2][test] Move To [0][0][136][128]
+2023-04-08_16:30:26 INFO Removing Player [2][test] - Kicked.
+2023-04-08_16:30:26 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_16:33:51 INFO Adding Player [3][flowerbloo]
+2023-04-08_16:33:51 INFO AuthSocket::AccountServerMove - [3][flowerbloo] Move To [18][79][226][91]
+2023-04-08_16:33:51 INFO AuthSocket::AccountServerAuth - [3][flowerbloo] Success Move To [18][79][226][91]
+2023-04-08_16:34:16 INFO Adding Player [2][test]
+2023-04-08_16:34:16 INFO AuthSocket::AccountServerMove - [2][test] Move To [18][79][225][91]
+2023-04-08_16:34:16 INFO AuthSocket::AccountServerAuth - [2][test] Success Move To [18][79][225][91]
+2023-04-08_16:55:22 INFO AuthSocket::AccountServerMove - [3][flowerbloo] Move To [0][0][133][130]
+2023-04-08_16:55:23 INFO AuthSocket::AccountServerAuth - [3][flowerbloo] Success Move To [0][0][133][130]
+2023-04-08_16:55:25 INFO AuthSocket::AccountServerMove - [2][test] Move To [0][0][134][132]
+2023-04-08_16:55:25 INFO AuthSocket::AccountServerAuth - [2][test] Success Move To [0][0][134][132]
+2023-04-08_17:00:52 INFO AuthSocket::AccountServerMove - [2][test] Move To [18][79][188][90]
+2023-04-08_17:00:53 INFO AuthSocket::AccountServerAuth - [2][test] Success Move To [18][79][188][90]
+2023-04-08_17:01:07 INFO AuthSocket::AccountServerMove - [3][flowerbloo] Move To [18][79][188][90]
+2023-04-08_17:01:07 INFO AuthSocket::AccountServerAuth - [3][flowerbloo] Success Move To [18][79][188][90]
+2023-04-08_17:21:29 INFO AuthSocket::AccountServerMove - [3][flowerbloo] Move To [0][0][135][118]
+2023-04-08_17:21:29 INFO AuthSocket::AccountServerAuth - [3][flowerbloo] Success Move To [0][0][135][118]
+2023-04-08_17:25:30 INFO AuthSocket::AccountServerMove - [3][flowerbloo] Move To [18][79][177][55]
+2023-04-08_17:25:30 INFO AuthSocket::AccountServerAuth - [3][flowerbloo] Success Move To [18][79][177][55]
+2023-04-08_17:33:05 INFO Removing Player [3][flowerbloo] - Disconnected.
+2023-04-08_17:33:07 INFO Removing Player [2][test] - Server Closed.
+2023-04-08_17:34:21 INFO Adding Player [2][test]
+2023-04-08_17:34:21 INFO Removing Player [2][test] - Kicked.
+2023-04-08_17:34:21 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_17:34:24 INFO Adding Player [2][test]
+2023-04-08_17:34:34 INFO AuthSocket::AccountServerMove - [2][test] Move To [18][79][177][55]
+2023-04-08_17:34:34 INFO AuthSocket::AccountServerAuth - [2][test] Success Move To [18][79][177][55]
+2023-04-08_17:36:40 INFO Removing Player [2][test] - Disconnected.
+2023-04-08_17:38:04 INFO Adding Player [2][test]
+2023-04-08_17:38:04 INFO Removing Player [2][test] - Kicked.
+2023-04-08_17:38:04 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_17:38:08 INFO Adding Player [2][test]
+2023-04-08_17:38:08 INFO AuthSocket::AccountServerMove - [2][test] Move To [18][79][172][56]
+2023-04-08_17:38:08 INFO AuthSocket::AccountServerAuth - [2][test] Success Move To [18][79][172][56]
+2023-04-08_17:46:40 INFO Removing Player [2][test] - Disconnected.
+2023-04-08_17:47:54 INFO Adding Player [2][test]
+2023-04-08_17:47:54 INFO Removing Player [2][test] - Kicked.
+2023-04-08_17:47:54 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_17:50:06 INFO Adding Player [2][test]
+2023-04-08_17:50:06 INFO AuthSocket::AccountServerMove - [2][test] Move To [18][79][176][62]
+2023-04-08_17:50:07 INFO AuthSocket::AccountServerAuth - [2][test] Success Move To [18][79][176][62]
+2023-04-08_18:01:51 INFO Removing Player [2][test] - Disconnected.
+2023-04-08_18:04:06 INFO Adding Player [2][test]
+2023-04-08_18:04:06 INFO Removing Player [2][test] - Kicked.
+2023-04-08_18:04:06 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_18:04:09 INFO Adding Player [2][test]
+2023-04-08_18:04:09 INFO AuthSocket::AccountServerMove - [2][test] Move To [18][79][176][62]
+2023-04-08_18:04:10 INFO AuthSocket::AccountServerAuth - [2][test] Success Move To [18][79][176][62]
+2023-04-08_18:04:16 INFO AuthSocket::AccountServerMove - [2][test] Move To [0][0][134][117]
+2023-04-08_18:04:17 INFO AuthSocket::AccountServerAuth - [2][test] Success Move To [0][0][134][117]
+2023-04-08_18:05:46 INFO Removing Player [2][test] - Disconnected.
+2023-04-08_18:06:01 INFO Adding Player [2][test]
+2023-04-08_18:06:01 INFO Removing Player [2][test] - Kicked.
+2023-04-08_18:06:01 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_18:07:45 INFO Adding Player [2][test]
+2023-04-08_18:07:45 INFO Removing Player [2][test] - Kicked.
+2023-04-08_18:07:45 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_18:10:03 INFO Adding Player [2][test]
+2023-04-08_18:10:03 INFO Removing Player [2][test] - Kicked.
+2023-04-08_18:10:03 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_18:16:04 INFO Adding Player [2][test]
+2023-04-08_18:16:04 INFO Removing Player [2][test] - Kicked.
+2023-04-08_18:16:04 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_18:23:50 INFO Adding Player [2][test]
+2023-04-08_18:23:50 INFO Removing Player [2][test] - Kicked.
+2023-04-08_18:23:50 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_18:24:23 INFO Adding Player [2][test]
+2023-04-08_18:24:23 INFO Removing Player [2][test] - Kicked.
+2023-04-08_18:24:23 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_18:25:33 INFO Adding Player [2][test]
+2023-04-08_18:25:33 INFO Removing Player [2][test] - Kicked.
+2023-04-08_18:25:33 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_18:26:27 INFO Adding Player [2][test]
+2023-04-08_18:26:27 INFO Removing Player [2][test] - Kicked.
+2023-04-08_18:26:27 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_18:27:29 INFO Adding Player [2][test]
+2023-04-08_18:27:29 INFO Removing Player [2][test] - Kicked.
+2023-04-08_18:27:29 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-08_18:28:19 INFO Adding Player [2][test]
+2023-04-08_18:28:19 INFO Removing Player [2][test] - Kicked.
+2023-04-08_18:28:19 INFO LoginQueue::Process -- [Acc: test][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1

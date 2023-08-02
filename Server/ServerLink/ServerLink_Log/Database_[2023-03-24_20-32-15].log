@@ -1,0 +1,14 @@
+2023-03-24_20:32:16 INFO Opening DatabasePool 'characters'. Asynchronous connections: 1, synchronous connections: 2.
+2023-03-24_20:32:17 INFO MySQL client library: 5.6.29
+2023-03-24_20:32:17 INFO MySQL server ver: 5.7.41-log 
+2023-03-24_20:32:17 INFO Connected to MySQL database at 127.0.0.1
+2023-03-24_20:32:18 INFO MySQL client library: 5.6.29
+2023-03-24_20:32:18 INFO MySQL server ver: 5.7.41-log 
+2023-03-24_20:32:18 INFO Connected to MySQL database at 127.0.0.1
+2023-03-24_20:32:18 INFO MySQL client library: 5.6.29
+2023-03-24_20:32:18 INFO MySQL server ver: 5.7.41-log 
+2023-03-24_20:32:18 INFO Connected to MySQL database at 127.0.0.1
+2023-03-24_20:32:19 INFO DatabasePool 'characters' opened successfully. 3 total connections running.
+2023-03-24_20:37:19 INFO Main::KeepDatabaseAlive
+2023-03-24_20:42:19 INFO Main::KeepDatabaseAlive
+2023-03-24_20:47:19 INFO Main::KeepDatabaseAlive

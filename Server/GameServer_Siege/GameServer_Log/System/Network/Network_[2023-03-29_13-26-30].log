@@ -1,0 +1,5 @@
+2023-03-29_13:26:43 DEBUG Network Thread Starting
+2023-03-29_13:27:03 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_13:27:03 INFO Added new socket: 77.175.188.143 at [30000]
+2023-03-29_13:29:28 INFO Closing socket: 77.175.188.143
+2023-03-29_14:08:50 DEBUG Network Thread exits

@@ -1,0 +1,61 @@
+2023-04-08_14:39:53 INFO Opening DatabasePool 'login'. Asynchronous connections: 1, synchronous connections: 2.
+2023-04-08_14:39:53 INFO MySQL client library: 5.6.29
+2023-04-08_14:39:53 INFO MySQL server ver: 5.7.41-log 
+2023-04-08_14:39:53 INFO Connected to MySQL database at 127.0.0.1
+2023-04-08_14:39:53 INFO MySQL client library: 5.6.29
+2023-04-08_14:39:53 INFO MySQL server ver: 5.7.41-log 
+2023-04-08_14:39:53 INFO Connected to MySQL database at 127.0.0.1
+2023-04-08_14:39:53 INFO MySQL client library: 5.6.29
+2023-04-08_14:39:53 INFO MySQL server ver: 5.7.41-log 
+2023-04-08_14:39:53 INFO Connected to MySQL database at 127.0.0.1
+2023-04-08_14:39:53 INFO DatabasePool 'login' opened successfully. 3 total connections running.
+2023-04-08_14:44:53 INFO Main::KeepDatabaseAlive
+2023-04-08_14:49:53 INFO Main::KeepDatabaseAlive
+2023-04-08_14:54:53 INFO Main::KeepDatabaseAlive
+2023-04-08_14:59:53 INFO Main::KeepDatabaseAlive
+2023-04-08_15:04:53 INFO Main::KeepDatabaseAlive
+2023-04-08_15:09:53 INFO Main::KeepDatabaseAlive
+2023-04-08_15:14:53 INFO Main::KeepDatabaseAlive
+2023-04-08_15:19:53 INFO Main::KeepDatabaseAlive
+2023-04-08_15:24:53 INFO Main::KeepDatabaseAlive
+2023-04-08_15:29:53 INFO Main::KeepDatabaseAlive
+2023-04-08_15:34:53 INFO Main::KeepDatabaseAlive
+2023-04-08_15:39:53 INFO Main::KeepDatabaseAlive
+2023-04-08_15:44:53 INFO Main::KeepDatabaseAlive
+2023-04-08_15:49:53 INFO Main::KeepDatabaseAlive
+2023-04-08_15:54:53 INFO Main::KeepDatabaseAlive
+2023-04-08_15:59:53 INFO Main::KeepDatabaseAlive
+2023-04-08_16:04:53 INFO Main::KeepDatabaseAlive
+2023-04-08_16:09:53 INFO Main::KeepDatabaseAlive
+2023-04-08_16:14:53 INFO Main::KeepDatabaseAlive
+2023-04-08_16:19:53 INFO Main::KeepDatabaseAlive
+2023-04-08_16:24:53 INFO Main::KeepDatabaseAlive
+2023-04-08_16:29:53 INFO Main::KeepDatabaseAlive
+2023-04-08_16:34:53 INFO Main::KeepDatabaseAlive
+2023-04-08_16:39:53 INFO Main::KeepDatabaseAlive
+2023-04-08_16:44:53 INFO Main::KeepDatabaseAlive
+2023-04-08_16:49:53 INFO Main::KeepDatabaseAlive
+2023-04-08_16:54:53 INFO Main::KeepDatabaseAlive
+2023-04-08_16:59:53 INFO Main::KeepDatabaseAlive
+2023-04-08_17:04:53 INFO Main::KeepDatabaseAlive
+2023-04-08_17:09:53 INFO Main::KeepDatabaseAlive
+2023-04-08_17:14:53 INFO Main::KeepDatabaseAlive
+2023-04-08_17:19:53 INFO Main::KeepDatabaseAlive
+2023-04-08_17:24:53 INFO Main::KeepDatabaseAlive
+2023-04-08_17:29:53 INFO Main::KeepDatabaseAlive
+2023-04-08_17:34:53 INFO Main::KeepDatabaseAlive
+2023-04-08_17:39:53 INFO Main::KeepDatabaseAlive
+2023-04-08_17:44:53 INFO Main::KeepDatabaseAlive
+2023-04-08_17:49:53 INFO Main::KeepDatabaseAlive
+2023-04-08_17:54:53 INFO Main::KeepDatabaseAlive
+2023-04-08_17:59:53 INFO Main::KeepDatabaseAlive
+2023-04-08_18:04:53 INFO Main::KeepDatabaseAlive
+2023-04-08_18:09:53 INFO Main::KeepDatabaseAlive
+2023-04-08_18:14:53 INFO Main::KeepDatabaseAlive
+2023-04-08_18:19:53 INFO Main::KeepDatabaseAlive
+2023-04-08_18:24:53 INFO Main::KeepDatabaseAlive
+2023-04-08_18:29:53 INFO Main::KeepDatabaseAlive
+2023-04-08_18:34:53 INFO Main::KeepDatabaseAlive
+2023-04-08_18:36:27 INFO Closing down DatabasePool 'login'.
+2023-04-08_18:36:27 INFO Asynchronous connections on DatabasePool 'login' terminated. Proceeding with synchronous connections.
+2023-04-08_18:36:27 INFO All connections on DatabasePool 'login' closed.

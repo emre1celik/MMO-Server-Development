@@ -1,0 +1,10 @@
+2023-04-08_17:47:12 INFO [HappyHour] SetState_None()
+2023-04-08_18:00:00 INFO Invasion 0 [White Wizard] launched
+2023-04-08_18:00:00 INFO Invasion 8 [Golden Invasion] launched
+2023-04-08_18:00:00 INFO Invasion 9 [Lucky Coin] launched
+2023-04-08_18:00:00 INFO Invasion 12 [Summon the Demons] launched
+2023-04-08_18:05:00 INFO Invasion 13 [Exiled from Exile] launched
+2023-04-08_18:30:00 INFO Invasion 2 [Underground] launched
+2023-04-08_18:30:05 INFO Deleting Invasion 0
+2023-04-08_18:30:05 INFO Deleting Invasion 9
+2023-04-08_18:35:05 INFO Deleting Invasion 13

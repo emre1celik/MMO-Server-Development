@@ -1,0 +1,26 @@
+2023-03-26_16:08:33 INFO [ SERVER MOVE AUTH ] [SRV 19 -- 30000 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Admin]
+2023-03-26_16:08:33 INFO [ SERVER MOVE AUTH RESULT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Admin]
+2023-03-26_16:08:33 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Admin - 0 selected ( Step One ).
+2023-03-26_16:08:33 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-26_16:08:33 INFO Player::EnterWorldSuccess -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 139-Admin] -- Location:[34 - 231/42]
+2023-03-26_16:09:18 INFO [ LOGOUT REQUEST ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 139-Admin] - Select Character
+2023-03-26_16:10:12 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 139-Admin] Character test - 2 selected ( Step One ).
+2023-03-26_16:10:12 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 139-Admin] Character selected ( Step Two ).
+2023-03-26_16:10:12 ERROR [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 137-test] is in wrong server. World 0.
+2023-03-26_16:11:13 INFO [ SERVER MOVE AUTH ] [SRV 19 -- 30001 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][fdgdf]
+2023-03-26_16:11:13 INFO [ SERVER MOVE AUTH RESULT ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][fdgdf]
+2023-03-26_16:11:13 INFO [ CHARACTER SELECT ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character fdgdf - 0 selected ( Step One ).
+2023-03-26_16:11:13 INFO [ CHARACTER SELECT ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-26_16:11:13 INFO Player::EnterWorldSuccess -- [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] -- Location:[34 - 238/44]
+2023-03-26_16:11:21 INFO Closing interface (interface_quest_evolution_giver - 0) -- [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf]
+2023-03-26_16:11:25 INFO Closing interface (interface_quest_evolution_giver - 0) -- [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf]
+2023-03-26_16:11:31 INFO [ SERVER MOVE REQUEST ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] --- Server: 65535 [0 - 137/124]
+2023-03-26_16:11:31 INFO [ SERVER MOVE SUCCESS ] [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] --- Server: 65535 [0 - 137/124]
+2023-03-26_16:11:49 INFO [ SERVER MOVE AUTH ] [SRV 19 -- 30002 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][fdgdf]
+2023-03-26_16:11:49 INFO [ SERVER MOVE AUTH RESULT ] [SRV 19 -- 30002 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][fdgdf]
+2023-03-26_16:11:49 INFO [ CHARACTER SELECT ] [SRV 19 -- 30002 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character fdgdf - 0 selected ( Step One ).
+2023-03-26_16:11:49 INFO [ CHARACTER SELECT ] [SRV 19 -- 30002 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-26_16:11:49 INFO Player::EnterWorldSuccess -- [SRV 19 -- 30002 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] -- Location:[34 - 232/43]
+2023-03-26_16:11:53 INFO Closing interface (interface_quest_evolution_giver - 0) -- [SRV 19 -- 30002 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf]
+2023-03-26_16:11:57 INFO Closing interface (interface_quest_evolution_giver - 0) -- [SRV 19 -- 30002 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf]
+2023-03-26_16:12:59 INFO [ LOGOUT REQUEST ] [SRV 19 -- 30002 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] - Select Server

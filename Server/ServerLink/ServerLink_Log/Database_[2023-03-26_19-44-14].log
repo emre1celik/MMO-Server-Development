@@ -1,0 +1,62 @@
+2023-03-26_19:44:15 INFO Opening DatabasePool 'characters'. Asynchronous connections: 1, synchronous connections: 2.
+2023-03-26_19:44:15 INFO MySQL client library: 5.6.29
+2023-03-26_19:44:15 INFO MySQL server ver: 5.7.41-log 
+2023-03-26_19:44:15 INFO Connected to MySQL database at 127.0.0.1
+2023-03-26_19:44:15 INFO MySQL client library: 5.6.29
+2023-03-26_19:44:15 INFO MySQL server ver: 5.7.41-log 
+2023-03-26_19:44:15 INFO Connected to MySQL database at 127.0.0.1
+2023-03-26_19:44:15 INFO MySQL client library: 5.6.29
+2023-03-26_19:44:15 INFO MySQL server ver: 5.7.41-log 
+2023-03-26_19:44:15 INFO Connected to MySQL database at 127.0.0.1
+2023-03-26_19:44:15 INFO DatabasePool 'characters' opened successfully. 3 total connections running.
+2023-03-26_19:49:16 INFO Main::KeepDatabaseAlive
+2023-03-26_19:54:16 INFO Main::KeepDatabaseAlive
+2023-03-26_19:59:16 INFO Main::KeepDatabaseAlive
+2023-03-26_20:04:16 INFO Main::KeepDatabaseAlive
+2023-03-26_20:09:16 INFO Main::KeepDatabaseAlive
+2023-03-26_20:14:16 INFO Main::KeepDatabaseAlive
+2023-03-26_20:19:16 INFO Main::KeepDatabaseAlive
+2023-03-26_20:24:16 INFO Main::KeepDatabaseAlive
+2023-03-26_20:29:16 INFO Main::KeepDatabaseAlive
+2023-03-26_20:34:16 INFO Main::KeepDatabaseAlive
+2023-03-26_20:39:16 INFO Main::KeepDatabaseAlive
+2023-03-26_20:44:16 INFO Main::KeepDatabaseAlive
+2023-03-26_20:49:16 INFO Main::KeepDatabaseAlive
+2023-03-26_20:54:16 INFO Main::KeepDatabaseAlive
+2023-03-26_20:59:16 INFO Main::KeepDatabaseAlive
+2023-03-26_21:04:16 INFO Main::KeepDatabaseAlive
+2023-03-26_21:09:16 INFO Main::KeepDatabaseAlive
+2023-03-26_21:14:16 INFO Main::KeepDatabaseAlive
+2023-03-26_21:19:16 INFO Main::KeepDatabaseAlive
+2023-03-26_21:24:16 INFO Main::KeepDatabaseAlive
+2023-03-26_21:29:16 INFO Main::KeepDatabaseAlive
+2023-03-26_21:34:16 INFO Main::KeepDatabaseAlive
+2023-03-26_21:39:16 INFO Main::KeepDatabaseAlive
+2023-03-26_21:44:16 INFO Main::KeepDatabaseAlive
+2023-03-26_21:49:16 INFO Main::KeepDatabaseAlive
+2023-03-26_21:54:16 INFO Main::KeepDatabaseAlive
+2023-03-26_21:59:16 INFO Main::KeepDatabaseAlive
+2023-03-26_22:04:16 INFO Main::KeepDatabaseAlive
+2023-03-26_22:09:16 INFO Main::KeepDatabaseAlive
+2023-03-26_22:14:16 INFO Main::KeepDatabaseAlive
+2023-03-26_22:19:16 INFO Main::KeepDatabaseAlive
+2023-03-26_22:24:16 INFO Main::KeepDatabaseAlive
+2023-03-26_22:29:16 INFO Main::KeepDatabaseAlive
+2023-03-26_22:34:16 INFO Main::KeepDatabaseAlive
+2023-03-26_22:39:16 INFO Main::KeepDatabaseAlive
+2023-03-26_22:44:16 INFO Main::KeepDatabaseAlive
+2023-03-26_22:49:16 INFO Main::KeepDatabaseAlive
+2023-03-26_22:54:16 INFO Main::KeepDatabaseAlive
+2023-03-26_22:59:16 INFO Main::KeepDatabaseAlive
+2023-03-26_23:04:16 INFO Main::KeepDatabaseAlive
+2023-03-26_23:09:16 INFO Main::KeepDatabaseAlive
+2023-03-26_23:14:16 INFO Main::KeepDatabaseAlive
+2023-03-26_23:19:16 INFO Main::KeepDatabaseAlive
+2023-03-26_23:24:16 INFO Main::KeepDatabaseAlive
+2023-03-26_23:29:16 INFO Main::KeepDatabaseAlive
+2023-03-26_23:34:16 INFO Main::KeepDatabaseAlive
+2023-03-26_23:39:16 INFO Main::KeepDatabaseAlive
+2023-03-26_23:44:16 INFO Main::KeepDatabaseAlive
+2023-03-26_23:49:16 INFO Main::KeepDatabaseAlive
+2023-03-26_23:54:16 INFO Main::KeepDatabaseAlive
+2023-03-26_23:59:16 INFO Main::KeepDatabaseAlive

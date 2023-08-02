@@ -1,0 +1,117 @@
+2023-04-07_09:41:37 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_09:41:37 INFO Reading Server List...
+2023-04-07_09:41:37 INFO Added Server 0 [Regular]    Port: 55501   IP: 85.215.196.105   Display: 1	AccountAllowed: 0	Disabled: 0
+2023-04-07_09:41:37 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 1
+2023-04-07_09:41:37 INFO Added Server 18 [Event]    Port: 55518   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-04-07_09:41:37 INFO Added Server 19 [Siege]    Port: 55519   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-04-07_09:41:37 INFO >> Loaded 4 servers
+2023-04-07_09:41:37 INFO  
+2023-04-07_09:41:55 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_09:41:58 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_10:07:18 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_10:07:21 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-04-07_10:07:44 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-04-07_10:07:46 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_10:07:47 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_12:59:18 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_12:59:18 INFO Reading Server List...
+2023-04-07_12:59:18 INFO Added Server 0 [Regular]    Port: 55501   IP: 85.215.196.105   Display: 1	AccountAllowed: 0	Disabled: 0
+2023-04-07_12:59:18 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 1
+2023-04-07_12:59:18 INFO Added Server 18 [Event]    Port: 55518   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-04-07_12:59:18 INFO Added Server 19 [Siege]    Port: 55519   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-04-07_12:59:18 INFO >> Loaded 4 servers
+2023-04-07_12:59:18 INFO  
+2023-04-07_12:59:29 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_12:59:30 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_20:35:16 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:35:16 INFO Reading Server List...
+2023-04-07_20:35:16 INFO Added Server 0 [Regular]    Port: 55501   IP: 85.215.196.105   Display: 1	AccountAllowed: 0	Disabled: 0
+2023-04-07_20:35:16 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 1
+2023-04-07_20:35:16 INFO Added Server 18 [Event]    Port: 55518   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-04-07_20:35:16 INFO Added Server 19 [Siege]    Port: 55519   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-04-07_20:35:16 INFO >> Loaded 4 servers
+2023-04-07_20:35:16 INFO  
+2023-04-07_20:35:53 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:35:53 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_20:36:23 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:36:24 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:36:25 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_20:37:02 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:37:38 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:37:38 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_20:41:10 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:41:55 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:41:55 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_20:44:09 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:44:32 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:44:33 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_20:45:51 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:46:02 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:46:03 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_20:46:36 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:46:51 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:46:51 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_20:47:56 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:48:05 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:48:05 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_20:49:05 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:49:36 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:49:36 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_20:50:32 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:50:48 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:50:49 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_20:52:03 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:52:06 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:52:06 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_20:52:23 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:52:37 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:52:38 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_20:54:31 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:54:49 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:54:49 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_20:56:13 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:56:28 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:56:28 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_20:57:51 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:58:11 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:58:12 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_20:59:05 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:59:25 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_20:59:25 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_21:00:59 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_21:01:17 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_21:01:19 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_21:02:41 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_21:02:52 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_21:02:53 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_21:04:50 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_21:05:21 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_21:05:22 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_21:06:55 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_21:07:03 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_21:07:04 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_21:08:38 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_21:09:25 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_21:09:26 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_21:12:18 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_21:12:42 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_21:12:43 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_21:13:00 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_21:13:40 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_21:13:41 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-07_22:17:15 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2023-04-07_22:17:18 INFO [ SERVER CLOSE ] Closing Server - Siege / 19
+2023-04-07_22:37:49 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_22:37:49 INFO Reading Server List...
+2023-04-07_22:37:49 INFO Added Server 0 [Regular]    Port: 55501   IP: 85.215.196.105   Display: 1	AccountAllowed: 0	Disabled: 0
+2023-04-07_22:37:49 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 1
+2023-04-07_22:37:49 INFO Added Server 18 [Event]    Port: 55518   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-04-07_22:37:49 INFO Added Server 19 [Siege]    Port: 55519   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-04-07_22:37:50 INFO >> Loaded 4 servers
+2023-04-07_22:37:50 INFO  
+2023-04-07_22:38:05 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-04-07_22:38:05 INFO [ SERVER CONNECT ] Connecting Server - Siege / 19
+2023-04-07_22:44:29 INFO ProtocolCore: C1,29,42,9D,7A,A6,9C,C0,F5,39,07,34,AD,35,EB,E7,2A,C7,2D,E7,31,31,30,D2,8B,6E,F1,4F,96,55,E4,A9,02,13,DE,20,38,73,B6,15,DB,
+2023-04-07_22:56:23 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_22:56:47 INFO ProtocolCore: C1,04,F4,06,
+2023-04-07_22:56:47 INFO ProtocolCore: C1,06,F4,03,00,00,

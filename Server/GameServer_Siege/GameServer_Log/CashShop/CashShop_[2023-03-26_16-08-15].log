@@ -1,0 +1,4 @@
+2023-03-26_16:08:33 INFO LoadDBCashShopCoin() - [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 139-Admin] Success: [0, 0]
+2023-03-26_16:10:12 INFO LoadDBCashShopCoin() - [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 137-test] Success: [0, 0]
+2023-03-26_16:11:13 INFO LoadDBCashShopCoin() - [SRV 19 -- 30001 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] Success: [0, 0]
+2023-03-26_16:11:49 INFO LoadDBCashShopCoin() - [SRV 19 -- 30002 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 172-fdgdf] Success: [0, 0]

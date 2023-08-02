@@ -1,0 +1,15 @@
+2023-04-05_18:04:05 INFO [ SERVER MOVE AUTH ] [SRV 19 -- 30000 - IP: 58.127.94.146 - ] --- Send Join Request [njnh1000][Riwa]
+2023-04-05_18:04:05 INFO [ SERVER MOVE AUTH RESULT ] [SRV 19 -- 30000 - IP: 58.127.94.146 - Account: 28-njnh1000 - ] --- Joined Successfully [njnh1000][Riwa]
+2023-04-05_18:04:05 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 58.127.94.146 - Account: 28-njnh1000 - ] Character Riwa - 0 selected ( Step One ).
+2023-04-05_18:04:06 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 58.127.94.146 - Account: 28-njnh1000 - ] Character selected ( Step Two ).
+2023-04-05_18:04:06 INFO Player::EnterWorldSuccess -- [SRV 19 -- 30000 - IP: 58.127.94.146 - Account: 28-njnh1000 - Character: 146-Riwa] -- Location:[42 - 105/179]
+2023-04-05_18:04:11 INFO [[SRV 19 -- 30000 - IP: 58.127.94.146 - Account: 28-njnh1000 - Character: 146-Riwa]][Location:[42 - 105/179]] Killed [[SRV 19 -- 30000 - IP: 58.127.94.146 - Account: 28-njnh1000 - Character: 146-Riwa]][Location:[42 - 105/179]]
+2023-04-05_18:04:20 INFO [ SERVER MOVE REQUEST ] [SRV 19 -- 30000 - IP: 58.127.94.146 - Account: 28-njnh1000 - Character: 146-Riwa] --- Server: 65535 [38 - 71/106]
+2023-04-05_18:04:20 INFO [ SERVER MOVE SUCCESS ] [SRV 19 -- 30000 - IP: 58.127.94.146 - Account: 28-njnh1000 - Character: 146-Riwa] --- Server: 65535 [38 - 71/106]
+2023-04-05_18:31:27 INFO [ SERVER MOVE AUTH ] [SRV 19 -- 30001 - IP: 58.127.94.146 - ] --- Send Join Request [njnh1000][Riwa]
+2023-04-05_18:31:27 INFO [ SERVER MOVE AUTH RESULT ] [SRV 19 -- 30001 - IP: 58.127.94.146 - Account: 28-njnh1000 - ] --- Joined Successfully [njnh1000][Riwa]
+2023-04-05_18:31:28 INFO [ CHARACTER SELECT ] [SRV 19 -- 30001 - IP: 58.127.94.146 - Account: 28-njnh1000 - ] Character Riwa - 0 selected ( Step One ).
+2023-04-05_18:31:28 INFO [ CHARACTER SELECT ] [SRV 19 -- 30001 - IP: 58.127.94.146 - Account: 28-njnh1000 - ] Character selected ( Step Two ).
+2023-04-05_18:31:28 INFO Player::EnterWorldSuccess -- [SRV 19 -- 30001 - IP: 58.127.94.146 - Account: 28-njnh1000 - Character: 146-Riwa] -- Location:[34 - 233/42]
+2023-04-05_18:32:16 INFO [ SERVER MOVE REQUEST ] [SRV 19 -- 30001 - IP: 58.127.94.146 - Account: 28-njnh1000 - Character: 146-Riwa] --- Server: 65535 [3 - 172/109]
+2023-04-05_18:32:16 INFO [ SERVER MOVE SUCCESS ] [SRV 19 -- 30001 - IP: 58.127.94.146 - Account: 28-njnh1000 - Character: 146-Riwa] --- Server: 65535 [3 - 172/109]

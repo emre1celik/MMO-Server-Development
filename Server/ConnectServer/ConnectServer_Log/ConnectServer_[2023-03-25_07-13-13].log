@@ -1,0 +1,365 @@
+2023-03-25_07:13:13 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_07:13:13 INFO Reading Server List...
+2023-03-25_07:13:13 INFO Added Server 0 [Regular]    Port: 55501   IP: 85.215.196.105   Display: 1	AccountAllowed: 0	Disabled: 0
+2023-03-25_07:13:13 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 1
+2023-03-25_07:13:13 INFO Added Server 18 [Event]    Port: 55518   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 1
+2023-03-25_07:13:13 INFO Added Server 19 [Siege]    Port: 55519   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_07:13:13 INFO >> Loaded 4 servers
+2023-03-25_07:13:13 INFO  
+2023-03-25_07:13:43 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_07:13:43 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_07:14:41 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_07:28:24 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_07:30:12 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_07:30:14 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_07:30:15 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_07:40:59 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_07:42:39 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_07:42:41 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_07:42:41 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_08:00:44 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_08:00:54 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_08:00:55 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_08:02:52 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_08:02:54 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_08:02:55 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_08:10:15 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-03-25_08:10:30 INFO [ SERVER CONNECT ] Connecting Server - ArkaWar / 17
+2023-03-25_08:12:05 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_08:12:17 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_08:12:32 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_08:12:36 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_08:12:59 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_08:13:01 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_08:13:01 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_08:27:39 INFO [ SERVER CLOSE ] Closing Server - ArkaWar / 17
+2023-03-25_08:28:00 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2023-03-25_08:28:55 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_08:29:02 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_08:29:15 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_08:29:24 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_08:29:25 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_08:34:16 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_08:34:25 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_08:34:32 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_08:34:59 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_08:35:12 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_08:35:36 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_08:35:53 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_08:35:54 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_08:37:28 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_08:37:28 INFO Reading Server List...
+2023-03-25_08:37:28 INFO Added Server 0 [Regular]    Port: 55501   IP: 85.215.196.105   Display: 1	AccountAllowed: 0	Disabled: 0
+2023-03-25_08:37:28 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_08:37:28 INFO Added Server 18 [Event]    Port: 55518   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_08:37:28 INFO Added Server 19 [Siege]    Port: 55519   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_08:37:28 INFO >> Loaded 4 servers
+2023-03-25_08:37:28 INFO  
+2023-03-25_08:38:07 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_08:38:08 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_09:23:07 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:24:08 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_09:24:20 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_09:24:42 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:25:22 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:25:23 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_09:31:59 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:32:01 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_09:32:08 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:32:13 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_09:32:33 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:32:35 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:32:36 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_09:34:27 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:34:34 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_09:34:39 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:35:04 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:35:17 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_09:35:34 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:35:36 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:35:36 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_09:38:24 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:38:24 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_09:38:37 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_09:39:01 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:39:01 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_09:40:37 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:40:39 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:40:39 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_09:41:01 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:41:08 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_09:41:25 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_09:42:33 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:42:34 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:42:35 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_09:43:17 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:43:30 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_09:43:46 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_09:43:50 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:43:50 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_09:55:22 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:55:23 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_09:55:37 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_09:55:41 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:55:42 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_09:57:12 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:57:12 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_09:57:27 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_09:57:41 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_09:57:42 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_10:10:10 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:10:10 INFO Reading Server List...
+2023-03-25_10:10:10 INFO Added Server 0 [Regular]    Port: 55501   IP: 85.215.196.105   Display: 1	AccountAllowed: 0	Disabled: 0
+2023-03-25_10:10:10 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_10:10:10 INFO Added Server 18 [Event]    Port: 55518   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_10:10:10 INFO Added Server 19 [Siege]    Port: 55519   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_10:10:10 INFO >> Loaded 4 servers
+2023-03-25_10:10:10 INFO  
+2023-03-25_10:10:13 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_10:10:27 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_10:10:28 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:10:29 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_10:16:26 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:16:28 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_10:16:38 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:16:59 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_10:17:04 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:17:05 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:17:06 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_10:19:02 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:19:04 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:19:04 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_10:19:23 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:19:32 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_10:19:47 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_10:19:50 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:19:50 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_10:28:58 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:28:59 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_10:29:13 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:29:25 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_10:29:38 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:29:40 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:29:41 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_10:31:28 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:31:30 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_10:32:04 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_10:32:06 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:32:06 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_10:34:44 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:34:46 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_10:34:57 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:35:01 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_10:35:23 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:35:25 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:35:26 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_10:47:14 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:47:17 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_10:47:31 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:47:33 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_10:47:57 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:47:58 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:47:59 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_10:50:09 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:50:11 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_10:50:35 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:50:50 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_10:51:07 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:51:09 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:51:10 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_10:52:56 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:53:04 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:53:05 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_10:55:08 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:55:14 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_10:55:15 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_14:31:37 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_14:31:53 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_14:32:46 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_14:32:46 INFO Reading Server List...
+2023-03-25_14:32:46 INFO Added Server 0 [Regular]    Port: 55501   IP: 85.215.196.105   Display: 1	AccountAllowed: 0	Disabled: 0
+2023-03-25_14:32:46 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_14:32:46 INFO Added Server 18 [Event]    Port: 55518   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_14:32:46 INFO Added Server 19 [Siege]    Port: 55519   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_14:32:46 INFO >> Loaded 4 servers
+2023-03-25_14:32:46 INFO  
+2023-03-25_14:32:48 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_14:32:48 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_14:37:12 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-03-25_14:40:05 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_14:40:11 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_14:40:13 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_14:40:17 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_14:40:24 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2023-03-25_14:40:39 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_14:40:48 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-03-25_14:41:01 INFO [ SERVER CONNECT ] Connecting Server - ArkaWar / 17
+2023-03-25_14:41:14 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_14:41:16 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_14:41:17 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_14:45:29 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2023-03-25_14:46:01 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-03-25_14:47:09 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2023-03-25_14:47:36 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-03-25_14:48:59 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2023-03-25_14:49:34 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-03-25_14:50:58 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2023-03-25_14:51:32 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-03-25_14:52:48 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2023-03-25_14:53:16 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-03-25_14:55:34 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2023-03-25_14:56:02 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-03-25_15:04:08 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2023-03-25_15:04:39 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-03-25_15:14:02 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_15:14:24 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_15:17:24 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_15:18:13 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_15:18:47 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_15:18:50 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_15:18:56 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_15:19:17 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_15:21:46 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_15:22:39 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_15:24:03 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_15:24:17 INFO [ SERVER CLOSE ] Closing Server - ArkaWar / 17
+2023-03-25_15:24:35 INFO [ SERVER CLOSE ] Closing Server - Siege / 19
+2023-03-25_15:25:39 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_15:25:44 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_15:25:58 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_15:28:36 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_15:28:48 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_15:33:15 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_15:33:31 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_15:33:43 INFO [ SERVER CONNECT ] Connecting Server - Siege / 19
+2023-03-25_15:33:46 INFO [ SERVER CLOSE ] Closing Server - Siege / 19
+2023-03-25_15:34:00 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_15:34:02 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_15:34:31 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_15:34:42 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_15:34:55 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_15:35:12 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_15:35:29 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_15:35:30 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_15:35:53 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2023-03-25_15:36:10 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-03-25_15:37:22 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2023-03-25_15:40:42 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-03-25_15:41:00 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_15:41:14 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_15:49:02 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_15:49:16 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_15:52:05 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_15:52:17 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_15:55:08 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_15:55:22 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_16:07:55 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_16:08:11 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_16:12:30 INFO [ SERVER CONNECT ] Connecting Server - Siege / 19
+2023-03-25_16:12:56 INFO [ SERVER CLOSE ] Closing Server - Siege / 19
+2023-03-25_16:13:59 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_16:14:15 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_16:32:16 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_16:32:30 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_16:41:14 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_16:41:30 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_16:53:14 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_16:53:30 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_16:58:43 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_16:58:57 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_17:02:40 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_17:02:40 INFO Reading Server List...
+2023-03-25_17:02:40 INFO Added Server 0 [Regular]    Port: 55501   IP: 85.215.196.105   Display: 1	AccountAllowed: 0	Disabled: 0
+2023-03-25_17:02:40 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_17:02:41 INFO Added Server 18 [Event]    Port: 55518   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_17:02:41 INFO Added Server 19 [Siege]    Port: 55519   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_17:02:41 INFO >> Loaded 4 servers
+2023-03-25_17:02:41 INFO  
+2023-03-25_17:02:42 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2023-03-25_17:02:57 INFO [ SERVER CONNECT ] Connecting Server - ArkaWar / 17
+2023-03-25_17:03:00 INFO [ SERVER CLOSE ] Closing Server - ArkaWar / 17
+2023-03-25_17:09:31 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_17:09:33 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_17:09:33 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_17:14:58 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-03-25_17:15:04 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_17:15:17 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_17:18:47 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_17:19:02 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_17:20:03 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_17:20:11 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_17:20:12 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_17:27:20 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_17:27:27 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_17:27:32 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_17:27:46 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_17:37:00 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_17:37:12 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_17:51:58 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_17:52:12 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_18:08:09 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_18:08:27 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_18:51:08 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2023-03-25_19:03:19 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_19:03:19 INFO Reading Server List...
+2023-03-25_19:03:19 INFO Added Server 0 [Regular]    Port: 55501   IP: 85.215.196.105   Display: 1	AccountAllowed: 0	Disabled: 0
+2023-03-25_19:03:19 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_19:03:19 INFO Added Server 18 [Event]    Port: 55518   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_19:03:19 INFO Added Server 19 [Siege]    Port: 55519   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_19:03:19 INFO >> Loaded 4 servers
+2023-03-25_19:03:19 INFO  
+2023-03-25_19:03:21 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_19:03:23 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_19:31:16 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-03-25_19:32:28 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_19:32:42 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_19:36:16 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_19:36:28 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_19:37:28 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_19:38:04 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_19:53:32 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2023-03-25_20:06:40 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-03-25_20:06:55 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_20:07:50 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_20:07:53 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_20:10:59 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_20:11:04 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_20:11:18 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_20:16:20 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_20:16:33 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_20:19:16 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_20:19:29 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_20:25:50 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_20:26:04 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_20:46:06 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_20:46:21 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_20:47:35 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_20:47:47 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_20:49:15 INFO [ SERVER CONNECT ] Connecting Server - ArkaWar / 17
+2023-03-25_20:49:26 INFO [ SERVER CLOSE ] Closing Server - ArkaWar / 17
+2023-03-25_20:54:40 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_20:54:40 INFO Reading Server List...
+2023-03-25_20:54:40 INFO Added Server 0 [Regular]    Port: 55501   IP: 85.215.196.105   Display: 1	AccountAllowed: 0	Disabled: 0
+2023-03-25_20:54:41 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_20:54:41 INFO Added Server 18 [Event]    Port: 55518   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_20:54:41 INFO Added Server 19 [Siege]    Port: 55519   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_20:54:41 INFO >> Loaded 4 servers
+2023-03-25_20:54:41 INFO  
+2023-03-25_20:54:42 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_20:54:43 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_21:33:21 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_21:33:34 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_21:33:52 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_21:33:54 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_21:33:54 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_22:11:55 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_22:12:11 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_22:12:23 INFO [ SERVER CONNECT ] Connecting Server - Siege / 19
+2023-03-25_22:12:42 INFO [ SERVER CONNECT ] Connecting Server - ArkaWar / 17
+2023-03-25_22:14:34 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_22:15:19 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_22:21:55 INFO [ SERVER CLOSE ] Closing Server - ArkaWar / 17
+2023-03-25_22:26:21 INFO [ SERVER CLOSE ] Closing Server - Siege / 19
+2023-03-25_22:26:36 DEBUG Network Thread exits
+2023-03-25_22:26:36 DEBUG Network Thread exits
+2023-03-25_22:26:36 INFO Closing CSServer

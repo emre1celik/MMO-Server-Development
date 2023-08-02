@@ -1,0 +1,16 @@
+2023-04-05_17:23:45 INFO ProtocolCore: C1,04,F4,06,
+2023-04-05_17:23:45 INFO Reading Server List...
+2023-04-05_17:23:45 INFO Added Server 0 [Regular]    Port: 55501   IP: 85.215.196.105   Display: 1	AccountAllowed: 0	Disabled: 0
+2023-04-05_17:23:45 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 1
+2023-04-05_17:23:45 INFO Added Server 18 [Event]    Port: 55518   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-04-05_17:23:45 INFO Added Server 19 [Siege]    Port: 55519   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-04-05_17:23:45 INFO >> Loaded 4 servers
+2023-04-05_17:23:45 INFO  
+2023-04-05_17:24:25 INFO ProtocolCore: C1,04,F4,06,
+2023-04-05_17:24:26 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-05_18:12:55 INFO ProtocolCore: C1,04,F4,06,
+2023-04-05_18:12:59 INFO ProtocolCore: C1,04,F4,06,
+2023-04-05_18:13:00 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-04-05_18:25:49 INFO ProtocolCore: C1,04,F4,06,
+2023-04-05_18:25:51 INFO ProtocolCore: C1,04,F4,06,
+2023-04-05_18:25:53 INFO ProtocolCore: C1,06,F4,03,00,00,

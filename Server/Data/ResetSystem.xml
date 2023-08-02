@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == 				MUONLINE SERVER EMULATOR				 ==
+// == 				   POWERED BY DevEMU				 	 ==
+// ==                File Name: ResetSystem                	 ==
+// ============================================================
+-->
+
+<ResetSystem Enable="1">
+	<Setting ResetAutoCmd="1" ResetReward="1" ResetLvMasterAndMajestic="0" MaxReset="400" KeepPoints="1" MoveChar="1" Relog="1" />
+	
+	<Reset Index="0" MinLevelReq="400" MinRsTime="0" MaxRsTime="1" PointsPerRs="10" ZenRq="10000000" ChaosRq="0" CreRq="0" FeatherRq="0" RewardItemType="14" RewardItemIndex="282" />
+	<Reset Index="1" MinLevelReq="400" MinRsTime="2" MaxRsTime="10" PointsPerRs="12" ZenRq="10000000" ChaosRq="0" CreRq="0" FeatherRq="0" RewardItemType="14" RewardItemIndex="282" />
+	<Reset Index="2" MinLevelReq="400" MinRsTime="11" MaxRsTime="400" PointsPerRs="12" ZenRq="10000000" ChaosRq="0" CreRq="0" FeatherRq="0" RewardItemType="14" RewardItemIndex="282" />
+</ResetSystem>

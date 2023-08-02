@@ -1,0 +1,58 @@
+2023-03-29_13:02:20 DEBUG Network Thread Starting
+2023-03-29_13:07:24 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_13:07:24 INFO Added new socket: 77.175.188.143 at [30000]
+2023-03-29_13:08:02 INFO Closing socket: 77.175.188.143
+2023-03-29_13:10:22 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_13:10:22 INFO Added new socket: 77.175.188.143 at [30001]
+2023-03-29_13:10:54 INFO Closing socket: 77.175.188.143
+2023-03-29_13:21:23 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_13:21:23 INFO Added new socket: 77.175.188.143 at [30002]
+2023-03-29_13:22:04 INFO Closing socket: 77.175.188.143
+2023-03-29_13:25:18 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_13:25:18 INFO Added new socket: 77.175.188.143 at [30003]
+2023-03-29_13:25:56 INFO Closing socket: 77.175.188.143
+2023-03-29_13:26:16 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_13:26:16 INFO Added new socket: 77.175.188.143 at [30004]
+2023-03-29_13:27:03 INFO Closing socket: 77.175.188.143
+2023-03-29_13:52:26 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_13:52:26 INFO Added new socket: 77.175.188.143 at [30005]
+2023-03-29_13:52:55 INFO Closing socket: 77.175.188.143
+2023-03-29_13:58:40 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_13:58:40 INFO Added new socket: 77.175.188.143 at [30006]
+2023-03-29_13:58:54 INFO Closing socket: 77.175.188.143
+2023-03-29_14:04:06 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_14:04:06 INFO Added new socket: 77.175.188.143 at [30007]
+2023-03-29_14:04:31 INFO Closing socket: 77.175.188.143
+2023-03-29_14:57:47 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_14:57:47 INFO Added new socket: 77.175.188.143 at [30008]
+2023-03-29_14:57:53 INFO Closing socket: 77.175.188.143
+2023-03-29_14:57:57 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_14:57:57 INFO Added new socket: 77.175.188.143 at [30009]
+2023-03-29_14:58:25 INFO Closing socket: 77.175.188.143
+2023-03-29_15:18:35 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_15:18:35 INFO Added new socket: 77.175.188.143 at [30010]
+2023-03-29_15:18:59 INFO Closing socket: 77.175.188.143
+2023-03-29_15:33:00 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_15:33:00 INFO Added new socket: 77.175.188.143 at [30011]
+2023-03-29_15:33:24 INFO Closing socket: 77.175.188.143
+2023-03-29_15:37:26 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_15:37:26 INFO Added new socket: 77.175.188.143 at [30012]
+2023-03-29_15:37:52 INFO Closing socket: 77.175.188.143
+2023-03-29_15:42:09 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_15:42:09 INFO Added new socket: 77.175.188.143 at [30013]
+2023-03-29_15:42:32 INFO Closing socket: 77.175.188.143
+2023-03-29_21:02:38 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_21:02:38 INFO Added new socket: 77.175.188.143 at [30014]
+2023-03-29_21:03:10 INFO Closing socket: 77.175.188.143
+2023-03-29_21:05:23 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_21:05:23 INFO Added new socket: 77.175.188.143 at [30015]
+2023-03-29_21:05:49 INFO Closing socket: 77.175.188.143
+2023-03-29_22:15:09 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_22:15:10 INFO Added new socket: 77.175.188.143 at [30016]
+2023-03-29_22:15:48 INFO Closing socket: 77.175.188.143
+2023-03-29_22:19:42 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_22:19:42 INFO Added new socket: 77.175.188.143 at [30017]
+2023-03-29_22:20:27 INFO Closing socket: 77.175.188.143
+2023-03-29_22:22:07 INFO Attempt to add new socket: 77.175.188.143
+2023-03-29_22:22:07 INFO Added new socket: 77.175.188.143 at [30018]
+2023-03-29_22:22:30 INFO Closing socket: 77.175.188.143

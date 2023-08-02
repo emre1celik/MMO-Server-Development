@@ -1,0 +1,18 @@
+2023-03-31_11:47:46 INFO Opening DatabasePool 'characters'. Asynchronous connections: 1, synchronous connections: 2.
+2023-03-31_11:47:46 INFO MySQL client library: 5.6.29
+2023-03-31_11:47:46 INFO MySQL server ver: 5.7.41-log 
+2023-03-31_11:47:46 INFO Connected to MySQL database at 127.0.0.1
+2023-03-31_11:47:46 INFO MySQL client library: 5.6.29
+2023-03-31_11:47:46 INFO MySQL server ver: 5.7.41-log 
+2023-03-31_11:47:46 INFO Connected to MySQL database at 127.0.0.1
+2023-03-31_11:47:46 INFO MySQL client library: 5.6.29
+2023-03-31_11:47:46 INFO MySQL server ver: 5.7.41-log 
+2023-03-31_11:47:46 INFO Connected to MySQL database at 127.0.0.1
+2023-03-31_11:47:46 INFO DatabasePool 'characters' opened successfully. 3 total connections running.
+2023-03-31_11:52:46 INFO Main::KeepDatabaseAlive
+2023-03-31_11:56:44 ERROR SQL(p): UPDATE character_info SET online = 0, server_code = 65535 WHERE guid = 178
+ [ERROR]: [1146] Table 'characters.character_info' doesn't exist
+2023-03-31_11:56:44 ERROR Your database structure is not up to date. Please make sure you've executed all queries in the sql/updates folders.
+2023-03-31_11:56:46 ERROR SQL(p): SELECT s.server, s.signal, s.data_1, s.data_2, s.data_3, s.id FROM server_signal s
+ [ERROR]: [1146] Table 'characters.server_signal' doesn't exist
+2023-03-31_11:56:46 ERROR Your database structure is not up to date. Please make sure you've executed all queries in the sql/updates folders.

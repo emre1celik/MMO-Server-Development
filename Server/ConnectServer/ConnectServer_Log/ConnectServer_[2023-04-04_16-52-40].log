@@ -1,0 +1,11 @@
+2023-04-04_16:52:40 INFO [ SERVER CONNECT ] Connecting Server - Siege / 19
+2023-04-04_16:53:00 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-04-04_17:05:36 INFO [ SERVER CLOSE ] Closing Server - Siege / 19
+2023-04-04_17:05:41 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2023-04-04_17:05:56 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-04-04_17:06:32 INFO [ SERVER CONNECT ] Connecting Server - Siege / 19
+2023-04-04_17:07:11 INFO [ SERVER CLOSE ] Closing Server - Siege / 19
+2023-04-04_17:07:14 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-04-04_17:07:17 DEBUG Network Thread exits
+2023-04-04_17:07:17 DEBUG Network Thread exits
+2023-04-04_17:07:17 INFO Closing CSServer

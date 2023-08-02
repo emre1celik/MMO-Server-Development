@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == 				MUONLINE SERVER EMULATOR				 ==
+// == 				   POWERED BY DevEMU				 	 ==
+// ==               File Name: CharacterBase                 ==
+// ============================================================
+-->
+
+<CharacterBase>
+    <CharacterBaseInfo>
+		<!-- XDark Wizard --><Info Class="0" Strenght="18" Agility="18" Vitality="15" Energy="30" Leadership="0" Life="60" Mana="60" LevelToLife="1" LevelToMana="2" VitalityToLife="2" EnergyToMana="2" World="0" Level="1" Points="0" AutoLifeRecovery="3" AutoManaRecovery="3,7" AutoShieldRecovery="2,8" AutoStaminaRecovery="6" NormalLevelUpPoints="5" PlusLevelUpPoints="1" MasterLevelUpPoints="1" MajesticLevelUpPoints="1" Zen="100000" Ruud="0" ExpandedInventory="2" />
+		<!-- XDark Knight --><Info Class="1" Strenght="28" Agility="20" Vitality="25" Energy="10" Leadership="0" Life="110" Mana="20" LevelToLife="2" LevelToMana="1" VitalityToLife="3" EnergyToMana="1" World="0" Level="1" Points="0" AutoLifeRecovery="3" AutoManaRecovery="3,7" AutoShieldRecovery="2,8" AutoStaminaRecovery="8" NormalLevelUpPoints="5" PlusLevelUpPoints="1" MasterLevelUpPoints="1" MajesticLevelUpPoints="1" Zen="100000" Ruud="0" ExpandedInventory="2" />
+		<!-- XElf --><Info Class="2" Strenght="22" Agility="25" Vitality="20" Energy="15" Leadership="0" Life="80" Mana="30" LevelToLife="1" LevelToMana="1,5" VitalityToLife="2" EnergyToMana="1,5" World="3" Level="1" Points="0" AutoLifeRecovery="3" AutoManaRecovery="3,7" AutoShieldRecovery="2,8" AutoStaminaRecovery="6" NormalLevelUpPoints="5" PlusLevelUpPoints="1" MasterLevelUpPoints="1" MajesticLevelUpPoints="1" Zen="100000" Ruud="0" ExpandedInventory="2" />
+		<!-- XMagic Gladiator --><Info Class="3" Strenght="26" Agility="26" Vitality="26" Energy="26" Leadership="0" Life="110" Mana="60" LevelToLife="1" LevelToMana="1" VitalityToLife="2" EnergyToMana="2" World="0" Level="1" Points="0" AutoLifeRecovery="3" AutoManaRecovery="3,7" AutoShieldRecovery="2,8" AutoStaminaRecovery="6" NormalLevelUpPoints="7" PlusLevelUpPoints="1" MasterLevelUpPoints="1" MajesticLevelUpPoints="1" Zen="100000" Ruud="0" ExpandedInventory="2" />
+		<!-- XDark Lord --><Info Class="4" Strenght="26" Agility="20" Vitality="20" Energy="15" Leadership="25" Life="90" Mana="40" LevelToLife="1,5" LevelToMana="1" VitalityToLife="2" EnergyToMana="1,5" World="0" Level="1" Points="0" AutoLifeRecovery="3" AutoManaRecovery="3,7" AutoShieldRecovery="2,8" AutoStaminaRecovery="6" NormalLevelUpPoints="7" PlusLevelUpPoints="1" MasterLevelUpPoints="1" MajesticLevelUpPoints="1" Zen="100000" Ruud="0" ExpandedInventory="2" />
+		<!-- XSummoner --><Info Class="5" Strenght="21" Agility="21" Vitality="18" Energy="23" Leadership="0" Life="70" Mana="20" LevelToLife="1" LevelToMana="1,5" VitalityToLife="2" EnergyToMana="1,7" World="51" Level="1" Points="0" AutoLifeRecovery="3" AutoManaRecovery="3,7" AutoShieldRecovery="2,8" AutoStaminaRecovery="6" NormalLevelUpPoints="5" PlusLevelUpPoints="1" MasterLevelUpPoints="1" MajesticLevelUpPoints="1" Zen="100000" Ruud="0" ExpandedInventory="2" />
+		<!-- XRage Fighter --><Info Class="6" Strenght="32" Agility="27" Vitality="25" Energy="20" Leadership="0" Life="100" Mana="40" LevelToLife="1,3" LevelToMana="1" VitalityToLife="2" EnergyToMana="1,3" World="0" Level="1" Points="0" AutoLifeRecovery="3" AutoManaRecovery="3,7" AutoShieldRecovery="2,8" AutoStaminaRecovery="6" NormalLevelUpPoints="7" PlusLevelUpPoints="1" MasterLevelUpPoints="1" MajesticLevelUpPoints="1" Zen="100000" Ruud="0" ExpandedInventory="2" />
+		<!-- XGrow Lancer --><Info Class="7" Strenght="30" Agility="30" Vitality="25" Energy="24" Leadership="0" Life="110" Mana="40" LevelToLife="2" LevelToMana="1" VitalityToLife="2" EnergyToMana="1" World="0" Level="1" Points="0" AutoLifeRecovery="3" AutoManaRecovery="3,7" AutoShieldRecovery="2,8" AutoStaminaRecovery="6" NormalLevelUpPoints="7" PlusLevelUpPoints="1" MasterLevelUpPoints="1" MajesticLevelUpPoints="1" Zen="100000" Ruud="0" ExpandedInventory="2" />
+		<!-- XRune Wizard --><Info Class="8" Strenght="13" Agility="18" Vitality="14" Energy="40" Leadership="0" Life="60" Mana="60" LevelToLife="1,2" LevelToMana="1,8" VitalityToLife="2" EnergyToMana="1,5" World="3" Level="1" Points="0" AutoLifeRecovery="3" AutoManaRecovery="3,7" AutoShieldRecovery="2,8" AutoStaminaRecovery="3" NormalLevelUpPoints="5" PlusLevelUpPoints="1" MasterLevelUpPoints="1" MajesticLevelUpPoints="1" Zen="100000" Ruud="0" ExpandedInventory="2" />
+		<!-- XSlayer --><Info Class="9" Strenght="28" Agility="30" Vitality="15" Energy="10" Leadership="0" Life="130" Mana="10" LevelToLife="1,5" LevelToMana="1" VitalityToLife="3" EnergyToMana="1" World="3" Level="1" Points="0" AutoLifeRecovery="3" AutoManaRecovery="3,7" AutoShieldRecovery="2,8" AutoStaminaRecovery="3" NormalLevelUpPoints="5" PlusLevelUpPoints="1" MasterLevelUpPoints="1" MajesticLevelUpPoints="1" Zen="100000" Ruud="0" ExpandedInventory="2" />
+		<!-- XGun Crusher --><Info Class="10" Strenght="20" Agility="18" Vitality="20" Energy="25" Leadership="0" Life="100" Mana="80" LevelToLife="1,5" LevelToMana="1,5" VitalityToLife="2" EnergyToMana="2" World="51" Level="1" Points="0" AutoLifeRecovery="3" AutoManaRecovery="3,7" AutoShieldRecovery="2,8" AutoStaminaRecovery="3" NormalLevelUpPoints="5" PlusLevelUpPoints="1" MasterLevelUpPoints="1" MajesticLevelUpPoints="1" Zen="100000" Ruud="0" ExpandedInventory="2" />
+        <!-- XWhite Mage --><Info Class="11" Strenght="19" Agility="19" Vitality="15" Energy="30" Leadership="0" Life="100" Mana="80" LevelToLife="1,2" LevelToMana="1,8" VitalityToLife="1,8" EnergyToMana="1,5" World="0" Level="1" Points="0" AutoLifeRecovery="3" AutoManaRecovery="3,7" AutoShieldRecovery="2,8" AutoStaminaRecovery="3" NormalLevelUpPoints="5" PlusLevelUpPoints="1" MasterLevelUpPoints="1" MajesticLevelUpPoints="1" Zen="100000" Ruud="0" ExpandedInventory="2" />
+	    <!-- XMage --><Info Class="12" Strenght="18" Agility="18" Vitality="19" Energy="30" Leadership="0" Life="100" Mana="80" LevelToLife="1,5" LevelToMana="1,5" VitalityToLife="2" EnergyToMana="2" World="3" Level="1" Points="0" AutoLifeRecovery="3" AutoManaRecovery="3,7" AutoShieldRecovery="2,8" AutoStaminaRecovery="3" NormalLevelUpPoints="5" PlusLevelUpPoints="1" MasterLevelUpPoints="1" MajesticLevelUpPoints="1" Zen="100000" Ruud="0" ExpandedInventory="2" />
+	    <!-- XIllusion Knight --><Info Class="13" Strenght="25" Agility="28" Vitality="15" Energy="10" Leadership="0" Life="100" Mana="80" LevelToLife="1,5" LevelToMana="1,5" VitalityToLife="2" EnergyToMana="2" World="0" Level="1" Points="0" AutoLifeRecovery="3" AutoManaRecovery="3,7" AutoShieldRecovery="2,8" AutoStaminaRecovery="3" NormalLevelUpPoints="5" PlusLevelUpPoints="1" MasterLevelUpPoints="1" MajesticLevelUpPoints="1" Zen="100000" Ruud="0" ExpandedInventory="2" />
+	</CharacterBaseInfo>
+
+    <CharacterBaseItem>
+		<!-- Dark Wizard -->
+		<Item Class="0" Slot="7" ItemCat="12" ItemIndex="133" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="0" Slot="0" ItemCat="5" ItemIndex="0" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="0" Slot="255" ItemCat="14" ItemIndex="286" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<!-- Dark Knight -->
+		<Item Class="1" Slot="7" ItemCat="12" ItemIndex="134" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="1" Slot="0" ItemCat="1" ItemIndex="0" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="1" Slot="255" ItemCat="14" ItemIndex="286" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<!-- Elf -->
+		<Item Class="2" Slot="7" ItemCat="12" ItemIndex="132" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="2" Slot="0" ItemCat="4" ItemIndex="0" ItemLevel="0" ItemDur="0" ItemSkill="1" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="2" Slot="1" ItemCat="4" ItemIndex="15" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="2" Slot="255" ItemCat="14" ItemIndex="286" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<!-- Magic Gladiator -->
+		<Item Class="3" Slot="7" ItemCat="12" ItemIndex="133" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="3" Slot="0" ItemCat="1" ItemIndex="0" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="3" Slot="255" ItemCat="14" ItemIndex="286" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<!-- Dark Lord -->
+		<Item Class="4" Slot="7" ItemCat="12" ItemIndex="130" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="4" Slot="0" ItemCat="1" ItemIndex="0" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="4" Slot="255" ItemCat="14" ItemIndex="286" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<!-- Summoner -->
+		<Item Class="5" Slot="7" ItemCat="12" ItemIndex="131" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="5" Slot="0" ItemCat="5" ItemIndex="0" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="5" Slot="255" ItemCat="14" ItemIndex="286" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<!-- Rage Fighter -->
+		<Item Class="6" Slot="7" ItemCat="12" ItemIndex="135" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="6" Slot="0" ItemCat="1" ItemIndex="0" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="6" Slot="255" ItemCat="14" ItemIndex="286" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<!-- Grow Lancer -->
+		<Item Class="7" Slot="7" ItemCat="12" ItemIndex="278" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="7" Slot="0" ItemCat="1" ItemIndex="0" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="7" Slot="255" ItemCat="14" ItemIndex="286" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<!-- Rune Wizard -->
+		<Item Class="8" Slot="7" ItemCat="12" ItemIndex="133" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="8" Slot="255" ItemCat="14" ItemIndex="286" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<!-- Slayer -->
+		<Item Class="9" Slot="7" ItemCat="12" ItemIndex="134" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="9" Slot="0" ItemCat="1" ItemIndex="0" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="9" Slot="255" ItemCat="14" ItemIndex="286" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<!-- Gun Crusher -->
+		<Item Class="10" Slot="7" ItemCat="12" ItemIndex="133" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="10" Slot="255" ItemCat="14" ItemIndex="286" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<!-- White Mage -->
+		<Item Class="11" Slot="7" ItemCat="12" ItemIndex="154" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="11" Slot="0" ItemCat="5" ItemIndex="0" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="11" Slot="255" ItemCat="14" ItemIndex="286" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<!-- Mage -->
+		<Item Class="12" Slot="7" ItemCat="12" ItemIndex="133" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="12" Slot="0" ItemCat="1" ItemIndex="0" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="12" Slot="255" ItemCat="14" ItemIndex="286" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<!-- Illusion Knight -->
+		<Item Class="13" Slot="7" ItemCat="12" ItemIndex="172" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+		<Item Class="13" Slot="255" ItemCat="14" ItemIndex="286" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExl="0" ItemAncient="0" Duration="0" />
+</CharacterBaseItem>
+	
+	<CharacterBaseBuff>
+	</CharacterBaseBuff>
+</CharacterBase>

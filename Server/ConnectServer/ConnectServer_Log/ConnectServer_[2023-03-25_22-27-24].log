@@ -1,0 +1,45 @@
+2023-03-25_22:27:25 INFO ========================================================
+2023-03-25_22:27:25 INFO ========================================================
+2023-03-25_22:27:25 INFO >>>>>>>>>>>>>>>>>>>>> CONNECT SERVER <<<<<<<<<<<<<<<<<<<<<<
+2023-03-25_22:27:25 INFO ========================================================
+2023-03-25_22:27:25 INFO ========================================================
+2023-03-25_22:27:25 INFO Process priority class set to HIGH
+2023-03-25_22:27:25 INFO Starting DB...
+2023-03-25_22:27:25 INFO Reading Server List...
+2023-03-25_22:27:25 INFO Added Server 0 [Regular]    Port: 55501   IP: 85.215.196.105   Display: 1	AccountAllowed: 0	Disabled: 1
+2023-03-25_22:27:25 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 1
+2023-03-25_22:27:25 INFO Added Server 18 [Event]    Port: 55518   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 1
+2023-03-25_22:27:25 INFO Added Server 19 [Siege]    Port: 55519   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 1
+2023-03-25_22:27:25 INFO >> Loaded 4 servers
+2023-03-25_22:27:25 INFO  
+2023-03-25_22:27:25 DEBUG Network Thread Starting
+2023-03-25_22:27:25 DEBUG Network Thread Starting
+2023-03-25_22:27:25 INFO  
+2023-03-25_22:27:25 INFO CSServer Ready
+2023-03-25_22:27:41 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_22:28:08 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-03-25_22:28:22 INFO [ SERVER CONNECT ] Connecting Server - Siege / 19
+2023-03-25_22:28:38 INFO [ SERVER CONNECT ] Connecting Server - ArkaWar / 17
+2023-03-25_22:28:55 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_22:28:55 INFO Reading Server List...
+2023-03-25_22:28:55 INFO Added Server 0 [Regular]    Port: 55501   IP: 85.215.196.105   Display: 1	AccountAllowed: 0	Disabled: 0
+2023-03-25_22:28:55 INFO Added Server 17 [ArkaWar]    Port: 55517   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_22:28:55 INFO Added Server 18 [Event]    Port: 55518   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_22:28:55 INFO Added Server 19 [Siege]    Port: 55519   IP: 85.215.196.105   Display: 0	AccountAllowed: 0	Disabled: 0
+2023-03-25_22:28:55 INFO >> Loaded 4 servers
+2023-03-25_22:28:55 INFO  
+2023-03-25_22:28:57 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_22:28:58 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_22:35:27 INFO [ SERVER CLOSE ] Closing Server - ArkaWar / 17
+2023-03-25_22:35:30 INFO [ SERVER CLOSE ] Closing Server - Siege / 19
+2023-03-25_22:35:34 INFO [ SERVER CLOSE ] Closing Server - Event / 18
+2023-03-25_22:38:29 INFO [ SERVER CONNECT ] Connecting Server - Event / 18
+2023-03-25_22:39:49 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_22:40:01 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_22:42:22 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_22:42:35 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0
+2023-03-25_22:43:13 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_22:43:15 INFO ProtocolCore: C1,04,F4,06,
+2023-03-25_22:43:16 INFO ProtocolCore: C1,06,F4,03,00,00,
+2023-03-25_22:56:58 INFO [ SERVER CLOSE ] Closing Server - Regular / 0
+2023-03-25_22:57:12 INFO [ SERVER CONNECT ] Connecting Server - Regular / 0

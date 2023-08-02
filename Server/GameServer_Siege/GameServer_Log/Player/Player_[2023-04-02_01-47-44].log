@@ -1,0 +1,13 @@
+2023-04-02_01:47:44 INFO [ SERVER MOVE AUTH ] [SRV 19 -- 30000 - IP: 77.175.188.143 - ] --- Send Join Request [helloworld][Knight]
+2023-04-02_01:47:44 INFO [ SERVER MOVE AUTH RESULT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - ] --- Joined Successfully [helloworld][Knight]
+2023-04-02_01:47:44 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - ] Character Knight - 0 selected ( Step One ).
+2023-04-02_01:47:44 INFO [ CHARACTER SELECT ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - ] Character selected ( Step Two ).
+2023-04-02_01:47:44 INFO Player::EnterWorldSuccess -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - Character: 140-Knight] -- Location:[42 - 105/178]
+2023-04-02_01:52:26 INFO Teleport From [World:42 - 97/189 - Instance:-1] To [World:34 - 232/37 - Instance:-1] -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - Character: 140-Knight]
+2023-04-02_01:52:36 INFO Closing interface (interface_quest_evolution_giver - 0) -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - Character: 140-Knight]
+2023-04-02_01:52:38 INFO Closing interface (interface_quest_evolution_giver - 0) -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - Character: 140-Knight]
+2023-04-02_01:52:42 INFO Teleport From [World:34 - 229/48 - Instance:-1] To [World:42 - 105/178 - Instance:-1] -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - Character: 140-Knight]
+2023-04-02_01:54:35 INFO Teleport From [World:42 - 95/185 - Instance:-1] To [World:34 - 236/40 - Instance:-1] -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - Character: 140-Knight]
+2023-04-02_01:54:40 INFO Closing interface (interface_quest_evolution_giver - 0) -- [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - Character: 140-Knight]
+2023-04-02_01:54:59 INFO [ SERVER MOVE REQUEST ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - Character: 140-Knight] --- Server: 65535 [37 - 70/188]
+2023-04-02_01:54:59 INFO [ SERVER MOVE SUCCESS ] [SRV 19 -- 30000 - IP: 77.175.188.143 - Account: 14-helloworld - Character: 140-Knight] --- Server: 65535 [37 - 70/188]

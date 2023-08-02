@@ -1,0 +1,11 @@
+2023-03-25_22:14:59 INFO [ SERVER MOVE AUTH ] [SRV 17 -- 30000 - IP: 77.175.188.143 - ] --- Send Join Request [blackgaara][Wizard]
+2023-03-25_22:14:59 INFO [ SERVER MOVE AUTH RESULT ] [SRV 17 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] --- Joined Successfully [blackgaara][Wizard]
+2023-03-25_22:14:59 INFO [ CHARACTER SELECT ] [SRV 17 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character Wizard - 0 selected ( Step One ).
+2023-03-25_22:14:59 INFO [ CHARACTER SELECT ] [SRV 17 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - ] Character selected ( Step Two ).
+2023-03-25_22:14:59 INFO Player::EnterWorldSuccess -- [SRV 17 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 145-Wizard] -- Location:[0 - 134/135]
+2023-03-25_22:15:08 INFO Teleport From [World:0 - 134/135 - Instance:-1] To [World:1 - 3/83 - Instance:-1] -- [SRV 17 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 145-Wizard]
+2023-03-25_22:15:21 INFO Teleport From [World:1 - 19/83 - Instance:-1] To [World:3 - 176/113 - Instance:-1] -- [SRV 17 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 145-Wizard]
+2023-03-25_22:15:38 INFO Teleport From [World:3 - 174/125 - Instance:-1] To [World:1 - 3/83 - Instance:-1] -- [SRV 17 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 145-Wizard]
+2023-03-25_22:16:02 INFO LevelUp() [SRV 17 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 145-Wizard] - Level: 353 - Location:[1 - 25/80]
+2023-03-25_22:18:15 INFO LevelUp() [SRV 17 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 145-Wizard] - Level: 354 - Location:[1 - 25/80]
+2023-03-25_22:20:23 INFO LevelUp() [SRV 17 -- 30000 - IP: 77.175.188.143 - Account: 2-blackgaara - Character: 145-Wizard] - Level: 355 - Location:[1 - 25/80]

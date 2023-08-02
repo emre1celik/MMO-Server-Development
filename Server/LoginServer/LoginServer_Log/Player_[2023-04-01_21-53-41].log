@@ -1,0 +1,37 @@
+2023-04-01_21:53:41 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-04-01_21:53:50 INFO Adding Player [14][helloworld]
+2023-04-01_21:53:50 INFO Removing Player [14][helloworld] - Kicked.
+2023-04-01_21:53:50 INFO LoginQueue::Process -- [Acc: helloworld][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-01_22:02:37 INFO Adding Player [14][helloworld]
+2023-04-01_22:02:37 INFO Removing Player [14][helloworld] - Kicked.
+2023-04-01_22:02:37 INFO LoginQueue::Process -- [Acc: helloworld][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-01_22:52:09 INFO Adding Player [14][helloworld]
+2023-04-01_22:52:09 INFO AuthSocket::AccountServerMove - [14][helloworld] Move To [18][79][205][58]
+2023-04-01_22:52:09 INFO AuthSocket::AccountServerAuth - [14][helloworld] Success Move To [18][79][205][58]
+2023-04-01_22:53:00 INFO AuthSocket::AccountServerMove - [14][helloworld] Move To [0][0][131][123]
+2023-04-01_22:53:00 INFO AuthSocket::AccountServerAuth - [14][helloworld] Success Move To [0][0][131][123]
+2023-04-01_22:53:40 INFO AuthSocket::AccountServerMove - [14][helloworld] Move To [18][79][203][57]
+2023-04-01_22:53:40 INFO AuthSocket::AccountServerAuth - [14][helloworld] Success Move To [18][79][203][57]
+2023-04-01_22:54:14 INFO AuthSocket::AccountServerMove - [14][helloworld] Move To [0][51][53][224]
+2023-04-01_22:54:15 INFO AuthSocket::AccountServerAuth - [14][helloworld] Success Move To [0][51][53][224]
+2023-04-01_22:58:43 INFO Removing Player [14][helloworld] - Disconnected.
+2023-04-01_22:59:55 INFO Adding Player [14][helloworld]
+2023-04-01_22:59:55 INFO Removing Player [14][helloworld] - Kicked.
+2023-04-01_22:59:55 INFO LoginQueue::Process -- [Acc: helloworld][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-01_23:30:32 INFO Adding Player [14][helloworld]
+2023-04-01_23:30:32 INFO Removing Player [14][helloworld] - Kicked.
+2023-04-01_23:30:32 INFO LoginQueue::Process -- [Acc: helloworld][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-01_23:31:05 INFO Adding Player [14][helloworld]
+2023-04-01_23:31:05 INFO Removing Player [14][helloworld] - Kicked.
+2023-04-01_23:31:05 INFO LoginQueue::Process -- [Acc: helloworld][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-01_23:37:01 INFO LoginQueue::Process -- [Acc: blackgaara][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-04-01_23:37:07 INFO Adding Player [14][helloworld]
+2023-04-01_23:37:07 INFO Removing Player [14][helloworld] - Kicked.
+2023-04-01_23:37:07 INFO LoginQueue::Process -- [Acc: helloworld][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-01_23:39:30 INFO Adding Player [14][helloworld]
+2023-04-01_23:39:30 INFO Removing Player [14][helloworld] - Kicked.
+2023-04-01_23:39:30 INFO LoginQueue::Process -- [Acc: helloworld][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
+2023-04-01_23:52:37 INFO LoginQueue::Process -- [Acc: helloworld][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 2
+2023-04-01_23:52:41 INFO Adding Player [14][helloworld]
+2023-04-01_23:52:41 INFO Removing Player [14][helloworld] - Kicked.
+2023-04-01_23:52:41 INFO LoginQueue::Process -- [Acc: helloworld][IP: 77.175.188.143][MAC: ][SERIAL: 0] Result: 1
